@@ -1,5 +1,6 @@
 ---
 layout: page
+title: MSBuild Binary and Structured Log Viewer
 permalink: /msbuildlog.com/
 ---
 

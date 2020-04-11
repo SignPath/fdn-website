@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Tiled
 permalink: /mapeditor.org/
 ---
 

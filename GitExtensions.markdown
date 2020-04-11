@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Git Extensions
 permalink: /GitExtensions/
 ---
 

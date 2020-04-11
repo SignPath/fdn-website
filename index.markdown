@@ -5,6 +5,12 @@
 layout: page
 ---
 
+SignPath Foundation provides reliable code signing for Open Source projects. 
+
+**No more installation warnings.** Certificates provided by SignPath Foundation are recognized by operating systems, browsers and Java.
+
+**No more untrusted binaries.** Rest assured that signed code is compiled straight from the source code repository.
+
 These Open Source projects are signed with code signing certificates by SignPath Foundation:
 
 * [Git Extensions](GitExtensions)

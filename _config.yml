@@ -21,7 +21,7 @@
 title: SignPath Foundation
 email: support@signpath.io
 description: >- # this means to ignore newlines until "baseurl:"
-  SignPath Foundation provides code signing for Open Source projects. No more installation warnings, no more untrusted binaries.
+  Code signing for OSS
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sig.fo" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SignPathIO

@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+include_in_header: true
 ---
 
 SignPath Foundation provides Open Source projects with code signing trough [SignPath.io](https://signpath.io/).

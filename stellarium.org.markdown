@@ -1,5 +1,6 @@
 ---
 layout: page
+title: stellarium
 permalink: /stellarium.org/
 ---
 
