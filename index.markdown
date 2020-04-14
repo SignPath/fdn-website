@@ -16,6 +16,7 @@ These Open Source projects are signed with code signing certificates by SignPath
 * [Git Extensions](GitExtensions)
 * [LiteDB - Embedded NoSQL database for .NET](litedb.org)
 * [MSBuild Binary and Structured Log Viewer](msbuildlog.com)
+* [Poe Lurker](Poe-Lurker)
 * [stellarium](stellarium.org)
 * [Tiled - a flexible map editor](mapeditor.org)
 * [Vim - the ubiquitous text editor](Vim)
