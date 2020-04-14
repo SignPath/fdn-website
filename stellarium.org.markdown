@@ -13,4 +13,5 @@ Stellarium is a free open source planetarium for your computer. It shows a reali
 | Project handle   | stellarium.org |
 | Homepage         | [stellarium.org](https://stellarium.org/) |
 | Repository       | [github.com/Stellarium/stellarium](https://github.com/Stellarium/stellarium) |
-| License          | [GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) |
+| Wikipedia        | [Stellarium (software)](https://en.wikipedia.org/wiki/Stellarium_(software))
+| License          | [GNU GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) |
