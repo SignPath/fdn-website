@@ -14,6 +14,7 @@ SignPath Foundation provides reliable code signing for Open Source projects.
 These Open Source projects are signed with code signing certificates by SignPath Foundation:
 
 * [Git Extensions](GitExtensions)
+* [LiteDB - Embedded NoSQL database for .NET](litedb.org)
 * [MSBuild Binary and Structured Log Viewer](msbuildlog.com)
 * [stellarium](stellarium.org)
 * [Tiled - a flexible map editor](mapeditor.org)
