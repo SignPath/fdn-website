@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Transmission
-permalink: /Vim/
+permalink: /Transmission/
 ---
 
 # Transmission - a fast, easy, and free BitTorrent client 
