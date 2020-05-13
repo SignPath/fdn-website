@@ -19,4 +19,6 @@ These Open Source projects are signed with code signing certificates by SignPath
 * [Poe Lurker](Poe-Lurker)
 * [stellarium](stellarium.org)
 * [Tiled - a flexible map editor](mapeditor.org)
+* [Transmission - a fast, easy, and free BitTorrent client](Transmission)
 * [Vim - the ubiquitous text editor](Vim)
+* [Wangkanai Detection - ASP.NET Core Detection with Responsive View](WangkanaiDetection)
