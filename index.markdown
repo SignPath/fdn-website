@@ -18,6 +18,7 @@ These Open Source projects are signed with code signing certificates by SignPath
 * [MSBuild Binary and Structured Log Viewer](msbuildlog.com)
 * [Poe Lurker](Poe-Lurker)
 * [stellarium](stellarium.org)
+* [PanelSwWixExtension - the most comprehensive open source WiX extension](PanelSwWixExtension)
 * [Tiled - a flexible map editor](mapeditor.org)
 * [Transmission - a fast, easy, and free BitTorrent client](Transmission)
 * [Vim - the ubiquitous text editor](Vim)
