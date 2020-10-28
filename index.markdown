@@ -10,6 +10,7 @@ SignPath Foundation provides reliable code signing for Open Source projects.
 
 These Open Source projects are signed with code signing certificates by SignPath Foundation:
 
+* [Flameshot - Powerful yet simple to use screenshot software](flameshot)
 * [Git Extensions](GitExtensions)
 * [LiteDB - Embedded NoSQL database for .NET](litedb.org)
 * [MSBuild Binary and Structured Log Viewer](msbuildlog.com)
