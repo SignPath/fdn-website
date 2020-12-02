@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Wangkanai Detection
-permalink: /WangkanaiDetection/
+title: nuke.build
+permalink: /nuke.build/
 ---
 
-# Wangkanai Detection - ASP.NET Core Detection with Responsive View
+# NUKE - The AKEless Build System for C#/.NET
 
-ASP.NET Core Detection with Responsive View for identifying details about client device, browser, engine, platform, & crawler. Responsive middleware for routing base upon request client device detection to specific view. 
+NUKE is the best open-source build automation system for C#/.NET that runs cross-platform on .NET Core, .NET Framework, and Mono. 
 
 | Synopsis         |  |
 |------------------|--|
-| Project handle   | WangkanaiDetection |
-| Homepage         | [wangkanai.com](https://www.wangkanai.com/) |
-| Repository       | [github.com/wangkanai/Detection](https://github.com/wangkanai/Detection) |
-| License          | [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| Project handle   | nuke.build |
+| Homepage         | [nuke.build](https://nuke.build/) |
+| Repository       | [github.com/nuke-build/nuke](https://github.com/nuke-build/nuke) |
+| License          | [MIT license](https://opensource.org/licenses/MIT) |
