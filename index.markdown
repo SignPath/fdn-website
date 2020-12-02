@@ -10,10 +10,12 @@ SignPath Foundation provides reliable code signing for Open Source projects.
 
 These Open Source projects are signed with code signing certificates by SignPath Foundation:
 
+* [Zero Install - A decentralised cross-platform software installation system](0install)
 * [Flameshot - Powerful yet simple to use screenshot software](flameshot)
 * [Git Extensions](GitExtensions)
 * [LiteDB - Embedded NoSQL database for .NET](litedb.org)
 * [MSBuild Binary and Structured Log Viewer](msbuildlog.com)
+* [NUKE - The AKEless Build System for C#/.NET](nuke.build)
 * [Poe Lurker](Poe-Lurker)
 * [stellarium](stellarium.org)
 * [PanelSwWixExtension - the most comprehensive open source WiX extension](PanelSwWixExtension)
