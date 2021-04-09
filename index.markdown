@@ -16,6 +16,7 @@ These Open Source projects are signed with code signing certificates by SignPath
 * [LiteDB - Embedded NoSQL database for .NET](litedb.org)
 * [MSBuild Binary and Structured Log Viewer](msbuildlog.com)
 * [NUKE - The AKEless Build System for C#/.NET](nuke.build)
+* [Playnite](Playnite)
 * [Poe Lurker](Poe-Lurker)
 * [stellarium](stellarium.org)
 * [PanelSwWixExtension - the most comprehensive open source WiX extension](PanelSwWixExtension)
