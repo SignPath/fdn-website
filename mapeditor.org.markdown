@@ -12,6 +12,6 @@ Tiled is a general purpose tile map editor for all tile-based games, such as RPG
 |------------------|--|
 | Project handle   | mapeditor.org |
 | Homepage         | [www.mapeditor.org/](https://www.mapeditor.org/) |
-| Repository       | [github.com/bjorn/tiled](https://github.com/bjorn/tiled) |
+| Repository       | [github.com/mapeditor/tiled](https://github.com/mapeditor/tiled) |
 | License          | [GNU GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) |
 
