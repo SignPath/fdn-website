@@ -24,3 +24,4 @@ These Open Source projects are signed with code signing certificates by SignPath
 * [Transmission - a fast, easy, and free BitTorrent client](Transmission)
 * [Vim - the ubiquitous text editor](Vim)
 * [Wangkanai Detection - ASP.NET Core Detection with Responsive View](WangkanaiDetection)
+* [PoE Overlay Community Fork](Poe-Overlay-CF)
