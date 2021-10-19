@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SnoopWPF
-permalink: /snoopwpf/
+permalink: /SnoopWPF/
 ---
 
 # Snoop
