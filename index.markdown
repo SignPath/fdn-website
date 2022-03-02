@@ -10,6 +10,7 @@ SignPath Foundation provides reliable code signing for Open Source projects.
 
 These Open Source projects are signed with code signing certificates by SignPath Foundation:
 
+* [Amethyst - tiling window manager for windows 10](Amethyst)
 * [dnGrep](dnGrep)
 * [Flameshot - Powerful yet simple to use screenshot software](flameshot)
 * [Git Extensions](GitExtensions)
