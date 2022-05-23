@@ -4,7 +4,7 @@ title: PySceneDetect
 permalink: /PySceneDetect/
 ---
 
-# Poe Overlay Community Fork
+# PySceneDetect
 
 Scene Cut/Transition Detection
 
