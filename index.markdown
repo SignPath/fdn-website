@@ -12,6 +12,7 @@ These Open Source projects are signed with code signing certificates by SignPath
 
 * [Amethyst - tiling window manager for windows 10](Amethyst)
 * [dnGrep - search across files with easy-to-read results](dnGrep)
+* [DVR-Scan - Tool for extracting scenes with motion from security camera/DVR footage](DVR-Scan)
 * [Flameshot - Powerful yet simple to use screenshot software](flameshot)
 * [Git Extensions - a graphical user interface for Git](GitExtensions)
 * [Filius - a network simulator for educational purpose](Filius)

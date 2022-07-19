@@ -12,7 +12,7 @@ Scene Cut/Transition Detection
 | Synopsis         |  |
 |------------------|--|
 | Project handle   | PySceneDetect |
-| Homepage         | [scenedetect.com](https://scenedetect.com) |
+| Homepage         | [scenedetect.com](https://scenedetect.com/en/latest/) |
 | Repository       | [github.com/Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) |
 | License          | [3-clause BSD](https://opensource.org/licenses/BSD-3-Clause) |
 
