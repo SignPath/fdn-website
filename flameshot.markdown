@@ -9,6 +9,6 @@ permalink: /flameshot/
 | Synopsis         |  |
 |------------------|--|
 | Project handle   | flameshot |
-| Homepage         | [flameshot.js.org](https://flameshot.js.org/) |
+| Homepage         | [flameshot.org](https://flameshot.org/) |
 | Repository       | [github.com/flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) |
-| License          | [GNU GPL v3](https://www.gnu.org/licenses/old-licenses/gpl-3.0.html) |
+| License          | [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html) |
