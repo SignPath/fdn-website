@@ -4,8 +4,6 @@ title: Poe Lurker
 permalink: /Poe-Lurker/
 ---
 
-# Poe Lurker
-
 Poe Lurker is a simple yet very powerful trade manager meant to ease the trading experience for Path of Exile.
 
 | Synopsis         |  |

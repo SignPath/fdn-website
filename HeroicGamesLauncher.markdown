@@ -4,7 +4,7 @@ title: Heroic Games Launcher
 permalink: /HeroicGamesLauncher/
 ---
 
-# Heroic Games Launcher - GOG and Epic Games Launcher
+# GOG and Epic Games Launcher
 
 An OpenSource GOG and Epic Games launcher for Linux, Windows and macOS.
 

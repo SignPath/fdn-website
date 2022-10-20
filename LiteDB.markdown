@@ -4,7 +4,7 @@ title: LiteDB
 permalink: /litedb.org/
 ---
 
-# LiteDB - Embedded NoSQL database for .NET
+# Embedded NoSQL database for .NET
 
 An open source MongoDB-like database with zero conﬁguration - mobile ready
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: MSBuild Binary and Structured Log Viewer
+title: MSBuild
 permalink: /msbuildlog.com/
 ---
 
-# MSBuild Binary and Structured Log Viewer
+# Binary and Structured Log Viewer
 
 A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values. It can greatly simplify build investigations and provides a portable log interchange format and a rich interactive log viewer app.
 

@@ -4,7 +4,7 @@ title: Amethyst Windows
 permalink: /Amethyst/
 ---
 
-# Amethyst Windows - tiling window manager for windows 10
+# Tiling window manager for windows 10
 
 | Synopsis         |  |
 |------------------|--|

@@ -4,7 +4,7 @@ title: Git Extensions
 permalink: /GitExtensions/
 ---
 
-# Git Extensions
+# A standalone UI tool for managing Git repositories
 
 Git Extensions is a graphical user interface for Git that allows you to control Git without using the commandline
 

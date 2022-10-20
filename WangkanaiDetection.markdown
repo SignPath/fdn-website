@@ -4,7 +4,7 @@ title: Wangkanai Detection
 permalink: /WangkanaiDetection/
 ---
 
-# Wangkanai Detection - ASP.NET Core Detection with Responsive View
+# ASP.NET Core Detection with Responsive View
 
 ASP.NET Core Detection with Responsive View for identifying details about client device, browser, engine, platform, & crawler. Responsive middleware for routing base upon request client device detection to specific view. 
 

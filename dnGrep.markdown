@@ -4,7 +4,7 @@ title: dnGrep
 permalink: /dnGrep/
 ---
 
-# dnGrep
+# Powerful search for Windows
 
 dnGrep allows you to search across files with easy-to-read results. Search through text files, Word and Excel documents, PDFs, and archives using text, regular expression, XPath, and phonetic queries. dnGrep includes search-and-replace, whole-file preview, right-click search in File Explorer, and much more.
 

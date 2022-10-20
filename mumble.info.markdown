@@ -4,9 +4,9 @@ title: Mumble
 permalink: /Mumble/
 ---
 
-# Transmission - a fast, easy, and free BitTorrent client 
+# Open Source, Low Latency, High Quality Voice Chat 
 
-Mumble is an Open Source, low-latency and high-quality voice-chat software.
+Mumble was the first VoIP application to establish true low latency voice communication over a decade ago. But low latency and gaming are not the only use cases it shines in.
 
 
 | Synopsis         |  |

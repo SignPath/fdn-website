@@ -4,7 +4,7 @@ title: PanelSwWixExtension
 permalink: /PanelSwWixExtension/
 ---
 
-# PanelSwWixExtension - the most comprehensive open source WiX extension
+# The most comprehensive open source WiX extension
 
 | Synopsis         |  |
 |------------------|--|

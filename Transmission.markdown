@@ -4,7 +4,7 @@ title: Transmission
 permalink: /Transmission/
 ---
 
-# Transmission - a fast, easy, and free BitTorrent client 
+# A fast, easy, and free BitTorrent client 
 
 
 | Synopsis         |  |

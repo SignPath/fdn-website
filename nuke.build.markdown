@@ -4,7 +4,7 @@ title: nuke.build
 permalink: /nuke.build/
 ---
 
-# NUKE - The AKEless Build System for C#/.NET
+# The AKEless Build System for C#/.NET
 
 NUKE is the best open-source build automation system for C#/.NET that runs cross-platform on .NET Core, .NET Framework, and Mono. 
 

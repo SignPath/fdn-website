@@ -4,7 +4,7 @@ title: DVR-Scan
 permalink: /DVR-Scan/
 ---
 
-# DVR-Scan
+# Cross-platform command-line (CLI) application that automatically detects motion events in video files
 
 Tool for extracting scenes with motion from security camera/DVR footage. Written in Python, depends on OpenCV.
 

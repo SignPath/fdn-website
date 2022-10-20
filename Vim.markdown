@@ -4,7 +4,7 @@ title: Vim
 permalink: /Vim/
 ---
 
-# Vim - the ubiquitous text editor 
+# The ubiquitous text editor 
 
 Vim is a highly configurable text editor for efficiently creating and changing any kind of text. It is included as "vi" with most UNIX systems and with Apple OS X.
 

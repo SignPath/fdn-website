@@ -4,7 +4,7 @@ title: Tiled
 permalink: /mapeditor.org/
 ---
 
-# Tiled - a flexible map editor
+# A flexible map editor
 
 Tiled is a general purpose tile map editor for all tile-based games, such as RPGs, platformers or Breakout clones.
 

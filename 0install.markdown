@@ -4,7 +4,7 @@ title: 0install
 permalink: /0install/
 ---
 
-# Zero Install
+# A decentralised cross-platform software installation system.
 
 Zero Install is a decentralized cross-platform software installation system available under the LGPL. It allows software developers to publish programs directly from their own web-sites, while supporting features familiar from centralized distribution repositories such as shared libraries, automatic updates and digital signatures.
 

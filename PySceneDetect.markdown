@@ -4,10 +4,9 @@ title: PySceneDetect
 permalink: /PySceneDetect/
 ---
 
-# PySceneDetect
+# Scene Cut/Transition Detection
 
-Scene Cut/Transition Detection
-
+PySceneDetect is a command-line application and a Python library for detecting shot changes in videos, and automatically splitting the video into separate clips.
 
 | Synopsis         |  |
 |------------------|--|

@@ -4,9 +4,7 @@ title: flameshot
 permalink: /flameshot/
 ---
 
-# flameshot
-
-Powerful yet simple to use screenshot software.
+# Powerful yet simple to use screenshot software
 
 | Synopsis         |  |
 |------------------|--|

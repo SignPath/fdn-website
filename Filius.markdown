@@ -4,9 +4,7 @@ title: Filius
 permalink: /Filius/
 ---
 
-# Filius
-
-Filius is a network simulator for educational purpose
+# A network simulator for educational purpose
 
 
 | Synopsis         |  |
