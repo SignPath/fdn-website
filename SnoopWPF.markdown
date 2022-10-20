@@ -4,7 +4,7 @@ title: SnoopWPF
 permalink: /SnoopWPF/
 ---
 
-# The WPF Spy Utility
+# Allows you to explore UIs written with WPF
 
 Snoop allows you to explore, as in spy, UIs written with WPF similar to developer tools in modern browsers do for HTML.
 

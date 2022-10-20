@@ -19,7 +19,7 @@ These Open Source projects are signed with code signing certificates by SignPath
 * [Heroic Games Launcher - GOG and Epic Games Launcher](HeroicGamesLauncher)
 * [LiteDB - Embedded NoSQL database for .NET](litedb.org)
 * [MSBuild Binary and Structured Log Viewer](msbuildlog.com)
-* [Mumble - low-latency and high-quality voice-chat softwar](Mumble)
+* [Mumble - low-latency and high-quality voice-chat software](Mumble)
 * [NUKE - The AKEless Build System for C#/.NET](nuke.build)
 * [PanelSwWixExtension - the most comprehensive open source WiX extension](PanelSwWixExtension)
 * [Playnite - a video game library manager and launcher](Playnite)
