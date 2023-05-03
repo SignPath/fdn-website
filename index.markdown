@@ -26,6 +26,7 @@ These Open Source projects are signed with code signing certificates by SignPath
 * [Poe Lurker - trade manager for Path of Exile](Poe-Lurker)
 * [PoE Overlay Community Fork - a tool for Path of Exile](Poe-Overlay-CF)
 * [PySceneDetect - Scene Cut/Transition Detection](PySceneDetect)
+* [Race Element - Solutions for Sim Racing](Race-Element)
 * [Snoop WPF - allows you to explore UIs written with WPF](SnoopWPF)
 * [stellarium - a planetarium for your computer](stellarium.org)
 * [Tiled - a flexible map editor](mapeditor.org)
