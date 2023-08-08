@@ -17,6 +17,7 @@ These Open Source projects are signed with code signing certificates by SignPath
 * [Flameshot - Powerful yet simple to use screenshot software](flameshot)
 * [Git Extensions - a graphical user interface for Git](GitExtensions)
 * [Heroic Games Launcher - GOG and Epic Games Launcher](HeroicGamesLauncher)
+* [libjpeg-turbo - SIMD-accelerated JPEG codec that provides both the libjpeg and TurboJPEG APIs](libjpeg-turbo)
 * [LiteDB - Embedded NoSQL database for .NET](litedb.org)
 * [MSBuild Binary and Structured Log Viewer](msbuildlog.com)
 * [Mumble - low-latency and high-quality voice-chat software](Mumble)
