@@ -24,7 +24,6 @@ These Open Source projects are signed with code signing certificates by SignPath
 * [Mumble - low-latency and high-quality voice-chat software](Mumble)
 * [NUKE - The AKEless Build System for C#/.NET](nuke.build)
 * [odata2poco - Convert Odata Metadata to POCO (DTO) classes](odata2poco)
-* [PanelSwWixExtension - the most comprehensive open source WiX extension](PanelSwWixExtension)
 * [Playnite - a video game library manager and launcher](Playnite)
 * [Poe Lurker - trade manager for Path of Exile](Poe-Lurker)
 * [PoE Overlay Community Fork - a tool for Path of Exile](Poe-Overlay-CF)
