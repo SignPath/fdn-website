@@ -29,6 +29,7 @@ These Open Source projects are signed with code signing certificates by SignPath
 * [PoE Overlay Community Fork - a tool for Path of Exile](Poe-Overlay-CF)
 * [PySceneDetect - Scene Cut/Transition Detection](PySceneDetect)
 * [Race Element - Solutions for Sim Racing](Race-Element)
+* [SkyClient - An open installer for Hypixel.](SkyClient)
 * [Snoop WPF - allows you to explore UIs written with WPF](SnoopWPF)
 * [stellarium - a planetarium for your computer](stellarium.org)
 * [Tiled - a flexible map editor](mapeditor.org)
@@ -36,4 +37,5 @@ These Open Source projects are signed with code signing certificates by SignPath
 * [Transmission - a fast, easy, and free BitTorrent client](Transmission)
 * [Vim - the ubiquitous text editor](Vim)
 * [Wangkanai Detection - ASP.NET Core Detection with Responsive View](WangkanaiDetection)
+* [WSL-USB-GUI - WSL USB Device Manager](WSLUSBGUI)
 * [Zero Install - A decentralised cross-platform software installation system](0install)

@@ -14,6 +14,5 @@ TurboVNC is a high-speed derivative of TightVNC and TigerVNC that contains some 
 | Project handle   | TurboVNC |
 | Homepage         | [turbovnc.org](https://turbovnc.org) |
 | Repository       | [github.com/TurboVNC/turbovnc](https://github.com/TurboVNC/turbovnc) |
-| License          | [GPL v2] (https://opensource.org/license/gpl-2-0/)]
- |
+| License          | [GPL v2] (https://opensource.org/license/gpl-2-0/)] |
 
