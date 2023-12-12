@@ -30,6 +30,7 @@ These Open Source projects are signed with code signing certificates by SignPath
 * [PySceneDetect - Scene Cut/Transition Detection](PySceneDetect)
 * [Race Element - Solutions for Sim Racing](Race-Element)
 * [SkyClient - An open installer for Hypixel.](SkyClient)
+* [Snap Hutao - A Multifunctional Open-source Genshin Toolkit](SnapHutao)
 * [Snoop WPF - allows you to explore UIs written with WPF](SnoopWPF)
 * [stellarium - a planetarium for your computer](stellarium.org)
 * [Tiled - a flexible map editor](mapeditor.org)
