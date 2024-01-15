@@ -16,4 +16,4 @@ Behind the scenes it uses the official command line tools to provide this functi
 | Project handle   | WSL-USB-GUI |
 | Homepage         | [gitlab.com/alelec/wsl-usb-gui](https://gitlab.com/alelec/wsl-usb-gui) |
 | Repository       | [gitlab.com/alelec/wsl-usb-gui](https://gitlab.com/alelec/wsl-usb-gui) |
-| License          | [GPL v2] (https://opensource.org/license/gpl-2-0/)] |
+| License          | [GPL v2](https://opensource.org/license/gpl-2-0/)] |
