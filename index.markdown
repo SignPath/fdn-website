@@ -17,6 +17,7 @@ These Open Source projects are signed with code signing certificates by SignPath
 * [dnGrep - Search across files with easy-to-read results](dnGrep)
 * [DBreeze - Multi-paradigm database management system for .NET and Mono](DBreeze)
 * [DVR-Scan - Tool for extracting scenes with motion from security camera/DVR footage](DVR-Scan)
+* [EarQuiz Frequencies -- Software for technical ear training on equalization](earquiz.org)
 * [Filius - Network simulator for educational purpose](Filius)
 * [Flameshot - Powerful yet simple to use screenshot software](flameshot)
 * [Git Extensions - Graphical user interface for Git](GitExtensions)
