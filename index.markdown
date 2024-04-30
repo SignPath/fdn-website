@@ -24,6 +24,7 @@ These Open Source projects are signed with code signing certificates by SignPath
 * [Heroic Games Launcher - GOG and Epic Games Launcher](HeroicGamesLauncher)
 * [IETF DraftForge - Write, Review, Refine and Submit Internet-Drafts](draftforge)
 * [libjpeg-turbo - SIMD-accelerated JPEG codec that provides both the libjpeg and TurboJPEG APIs](libjpeg-turbo)
+* [Lichess Broadcaster - Publish chess tournament moves to an online broadcast](LichessBroadcaster)
 * [LiteDB - Embedded NoSQL database for .NET](litedb.org)
 * [MSBuild Binary and Structured Log Viewer](msbuildlog.com)
 * [Mumble - Low-latency and high-quality voice-chat software](Mumble)
