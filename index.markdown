@@ -28,6 +28,7 @@ These Open Source projects are signed with code signing certificates by SignPath
 * [LiteDB - Embedded NoSQL database for .NET](litedb.org)
 * [MSBuild Binary and Structured Log Viewer](msbuildlog.com)
 * [Mumble - Low-latency and high-quality voice-chat software](Mumble)
+* [NETworkManager - A powerful tool for managing networks and troubleshoot network problems!](NETworkManager)
 * [NUKE - The AKEless Build System for C#/.NET](nuke.build)
 * [odata2poco - Convert Odata Metadata to POCO (DTO) classes](odata2poco)
 * [OpenSC - Open source smart card tools and middleware. PKCS#11/MiniDriver](OpenSC)
