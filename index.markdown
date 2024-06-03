@@ -10,7 +10,6 @@ SignPath Foundation provides reliable code signing for Open Source projects.
 
 These Open Source projects are signed with code signing certificates by SignPath Foundation:
 
-* [Amethyst - Tiling window manager for windows 10](Amethyst)
 * [auto-mcs - Cross platform Minecraft server manager](auto-mcs)
 * [Collapse Launcher - Advanced Launcher for miHoYo games](CollapseLauncher)
 * [Converseen - A Batch Image Processor Tool](converseen)
