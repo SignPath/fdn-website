@@ -1,0 +1,12 @@
+GPLv3: 
+  name: GNU GPL v3
+  link: https://www.gnu.org/licenses/old-licenses/gpl-3.0.html
+LGPLv3:
+  name: GNU LGPL v3
+  link: https://www.gnu.org/licenses/lgpl-3.0.html
+MIT:
+  name: MIT license
+  link: https://opensource.org/licenses/MIT
+BSD-2-clause:
+  name: 2-clause BSD
+  link: https://opensource.org/licenses/BSD-2-Clause

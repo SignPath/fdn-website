@@ -1,0 +1,44 @@
+<html>
+<head>
+    <title>{{ page.title }}</title>
+</head>
+<body>
+    {% include header.html %}
+    <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+            <article class="post">
+                <header class="post-header">{{ page.title }}</header>
+                <div class="post-content">
+                    <h1>{{ page.tagline }}</h1>
+                    <p>{{ page.description }}</p>
+                    <table>
+                        <thead>
+                            <tr>Synopsis</tr>
+                            <tr></tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Project handle</td>
+                                <td>{{ page.id }}</td>
+                            </tr>
+                            <tr>
+                                <td>Homepage</td>
+                                <td><a href="https://{{page.homepage}}">{{page.homepage}}</a></td>
+                            </tr>
+                            <tr>
+                                <td>Repository</td>
+                                <td><a href="https://{{page.repository}}">{{page.repository}}</a></td>
+                            </tr>
+                            <tr>
+                                <td>License</td>
+                                {% assign license = site.data.licenses[page.license] %}
+                                <td><a href="{{license.link}}">{{license.name}}</a></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </article>
+        </div>
+    </main>
+</body>      
+</html>

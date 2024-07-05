@@ -31,6 +31,17 @@ github_username:  signpath
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-datapage-generator
+
+page_gen-dirs: true
+
+page_gen:
+- data: projects
+  template: project
+  name: id
+  title: title
+  extension: html
+  debug: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,0 +1,46 @@
+- id: 0install
+  title: 0install
+  category: developer-tools
+  tagline: Decentralised cross-platform software installation system
+  description: Zero Install is a decentralized cross-platform software installation system available under the LGPL. It allows software developers to publish programs directly from their own web-sites, while supporting features familiar from centralized distribution repositories such as shared libraries, automatic updates and digital signatures.
+  homepage: 0install.net
+  repository: github.com/0install/0install-win
+  license: LGPLv3
+
+- id: auto-mcs
+  title: auto-mcs
+  category: gaming
+  tagline: Cross platform Minecraft server manager
+  description: This software provides a simple and easy-to-digest experience for those who want to play Minecraft with their friends without the hassle of server installation & maintenance.
+  homepage: auto-mcs.com
+  repository: github.com/macarooni-man/auto-mcs
+  license: GPLv3
+
+- id: CollapseLauncher
+  title: Collapse Launcher
+  category: gaming
+  tagline: Advanced Launcher for miHoYo games
+  description: |
+    Collapse Launcher is an open-source, community driven launcher for miHoYo/HoYoverse game titles (including Honkai Impact 3rd, Genshin Impact and Honkai: Star Rail) under MIT License, focusing on accessibilty and advanceness to the users for their game of choice by maintaining/launching the games and access to other Community Tools within a single application. Collapse Launcher designed using modern Windows Fluent Design in-mind and running on self-contained runtime, giving a "native application" feeling to the users without requiring to install any pre-requisite applications/components.
+  homepage: github.com/CollapseLauncher
+  repository: github.com/CollapseLauncher/Collapse
+  license: MIT
+
+- id: converseen
+  title: Converseen
+  category: graphics
+  tagline: Batch Image Processor Tool
+  description: Converseen is a free cross-platform batch image processor. It allows you to convert, resize, rotate, and flip an infinite number of images with a single mouse click. Moreover, Converseen can convert an entire PDF document into a set of images with your preferred characteristics. You can choose from over 100 formats, set the size, resolution, and the filename.
+  homepage: converseen.fasterland.net
+  repository: github.com/Faster3ck/Converseen
+  license: GPLv3
+
+- id: DBreeze
+  title: DBreeze
+  category: developer-tools
+  tagline: Multi-paradigm database management system for .NET and Mono
+  description: DBreeze Database is a professional, open-source, multi-paradigm (embedded Key-Value store, objects, NoSql, text search, multi-parameter search etc.), multi-threaded, transactional and ACID-compliant data management system for .NET 3.5> / Xamarin MONO Android iOS / .NET Core 1.0> / .NET Standard 1.6> / Universal Windows Platform / .NET Portable / .NET5 / CoreRT.
+  homepage: github.com/hhblaze/DBreeze
+  repository: github.com/hhblaze/DBreeze
+  license: BSD-2-clause
+
