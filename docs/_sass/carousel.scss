@@ -1,0 +1,81 @@
+.carousel {
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-grow: 1;
+  align-self: stretch;
+
+  ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    overflow: hidden;
+    height: 60px;
+    align-items: center;
+    width: 100%;
+
+    li {
+      min-width: 100%;
+      display: flex;
+      margin-left: -100%;
+      justify-content: center;
+      display: none;
+      opacity: 0;
+
+      transition: margin-left 1s ease-in-out, opacity 1s ease-in-out;
+
+      svg {
+        height: 40px;
+        margin: 0px 40px;
+        cursor: default;
+      }
+      order: 999;
+    }
+
+    li.out-left, li.active, li.show, li.out-right { display: flex; }
+    li.active, li.show, li.out-right { margin-left: 0%; }
+    li.active, li.show { opacity: 1;}
+
+  }
+
+  a {
+    display: block;
+    padding: 15px 5px;
+    margin: 15px 20px;
+
+    svg {
+      fill: $white-border-color;
+    }
+  }
+
+}
+
+@media only screen and (min-width: 700px) {
+  .carousel { /* carousel with 2 items */
+    ul {
+      li {
+        min-width: 50%;
+        margin-left: -50%;
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .carousel { /* carousel with 3 items and buttons on left/right */
+    ul {
+      order: 2;
+      max-width: calc(100% - 60px);
+
+      li {
+        min-width: 33.33%;
+        margin-left: -33.33%;
+      }
+    }
+
+    a { margin: 0px; }
+    a:first-child { order: 1; }
+    a:last-child { order: 3; }
+  }
+}

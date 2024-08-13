@@ -1,0 +1,34 @@
+.icon {
+    width: 48px;
+    height: 48px;
+  position: relative;
+  top: 3px;
+  
+  &:before{
+    width: 48px;
+    height: 48px;
+    font-size: 48px;
+  }
+  &.blue {
+    color: $blue-font-color;
+  }
+  &.darkBlue{
+    color: $blue-link-color
+  }
+  
+  &.small{
+    width: 20px;
+    height: 20px;
+    top: 5px;
+  }
+  
+  &.blog{
+    width: 12px;
+    height: 12px;
+  }
+  
+  &.footer, &.pricing{
+    width: 26px;
+    height: 26px;
+  }
+}

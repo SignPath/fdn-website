@@ -1,0 +1,15 @@
+---
+---
+
+/** order is important (variables and main on top) **/
+@import 
+	'variables.scss', // contains colors,
+	'main.scss', 
+	//	'fontello.scss',
+	'carousel.scss',
+	'columns.scss',
+	'header.scss',
+	'home.scss',
+	'footer.scss',
+	'svg.scss',
+	'list.scss'

@@ -1,0 +1,83 @@
+<!-- last_modified_at:  -->
+{%- if title == null -%}
+  {%- if page.title != null -%}
+    {%- assign title = page.title | append: ' | SignPath Foundation' -%}
+  {%- else -%}
+    {%- assign title = site.title -%}
+  {%- endif -%}
+{%- endif -%}
+
+{%- if page.description != null -%}
+  {%- assign description = page.description -%}
+{%- else -%}
+  {%- assign description = site.url %}
+{%- endif -%}
+
+<!DOCTYPE html>
+<html lang="en" data-appurl='{{ site.url }}'>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="canonical" href='{{ site.url }}{{page.url}}' />
+  <!-- Begin Jekyll SEO tag v2.6.1 -->
+  <title>{{ title }}</title>
+  <meta property="og:title" content="{{ title }}" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:description" content="{{description}}" />
+  <meta property="og:url" content="{{ site.url }}{{page.url}}" />
+  <meta property="og:site_name" content="SignPath Foundation - Code Signing for Open Sor" />
+  <meta name="description" content="{{description}}"/>
+  <!-- End Jekyll SEO tag -->
+  <link rel="stylesheet" href="/assets/css/index.css?cache=2023-09-05">
+  <link rel="alternate" type="application/atom+xml" title="SignPath.io Blog" href="/feed.xml">
+  <script src='/assets/js/main-bundle.js?cache=2023-09-22'></script>
+  {%- if page.redirhack != null -%}
+  <!-- 404 redirect -->
+  <script>
+    if (document.location.pathname.endsWith("/"))
+    {
+      loc = document.location;
+      path = loc.pathname.substring(0, loc.pathname.length-1);
+      newUrl = loc.origin + path + loc.search + loc.hash;
+      loc.replace (newUrl);
+    }
+  </script>
+  {%- endif -%}
+  <link rel="icon" href="/assets/favicon-50x50.png" sizes="32x32">
+  <link rel="icon" href="/assets/favicon.png" sizes="192x192">
+  <link rel="apple-touch-icon-precomposed" href="/assets/favicon.png">
+  <meta name="msapplication-TileImage" content="/assets/favicon.png">
+</head>
+<body>
+  <header>
+    <div>
+      <!-- TODO: should be a SignPath Foundation logo -->
+      <a href='/'><img src='/assets/logo.svg' width="181" height="36" alt='SignPath'></a>
+      <nav>
+        <ul>
+            <li>
+              <a href='/projects'>Projects</a>
+            </li>
+            <!--<li>
+              <a href='/faq'>FAQ</a>
+            </li>-->
+            <li>
+              <a href='/about'>About</a>
+            </li>
+            <li>
+              <a href='/terms'>Terms</a>
+            </li>
+          <li class='apply'><a class='btn btn-primary' href='/apply'>Apply</a>
+          </li>
+        </ul>
+        <a id='main-menu-toggle' href='#' onclick='document.querySelector("header > div > nav > ul").classList.toggle("open")'>
+          <div></div>
+          <div></div>
+          <div></div>
+        </a>
+      </nav>
+    </div>
+  </header>
+  <main>

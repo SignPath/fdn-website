@@ -1,0 +1,40 @@
+footer {
+	background-color: $dark-grey-background-color;
+	color: $white-font-color;
+
+	& > div {
+		max-width: $content-width;
+		margin: auto;
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
+
+		& > div {
+			display: flex;
+			flex-direction: column;
+			margin: 20px 40px;
+			justify-content: center;
+			min-width: 150px;
+
+			a {
+				color: inherit;
+				margin: 5px 0px;
+				display: inline-block;
+
+				& > i {
+					font-size: 1.4em;
+					margin-right: 10px;
+				}
+			}
+		}
+
+		& > div:first-child > img {
+			margin-bottom: 10px;
+			max-width: 100%;
+		}
+
+		& > div:last-child {
+			min-width: 140px;
+		}
+	}
+}

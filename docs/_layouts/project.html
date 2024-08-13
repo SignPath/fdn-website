@@ -1,0 +1,37 @@
+{% include header.html %}
+
+<section class="bg-black font-white top-section">
+  <div>
+    <h1><a href='/projects' class='grey-font'>Projects</a><span class='grey-font'>&nbsp;&gt;&nbsp;</span>{{ page.title }}</h1>
+  </div>
+</section>
+<section class="default-section stretch">
+  <div>
+    <article>
+      <h1>{{ page.tagline }}</h1>
+
+      <p>{{ page.description | markdownify }}</p>
+
+      <table>
+        <tr>
+          <th>Project handle</th>
+          <td>{{ page.id }}</td>
+        </tr>
+        <tr>
+          <th>Homepage</th>
+          <td><a href='{{ page.homepage }}'>{{ page.homepage | remove_first: "https://" }}</a></td>
+        </tr>
+        <tr>
+          <th>Repository</th>
+          <td><a href='{{ page.repository }}'>{{ page.repository | remove_first: "https://" }}</a></td>
+        </tr>
+        <tr>
+          <th>License</th>
+          <td><a href='{{ site.data.licenses[page.license].link }}'>{{ site.data.licenses[page.license].name }}</a></td>
+        </tr>
+      </table>
+    </article>
+  </div>
+</section>  
+
+{% include footer.html %}

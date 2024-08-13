@@ -1,0 +1,33 @@
+AGPL3:
+  name: AGPL 3.0
+  link: https://opensource.org/license/agpl-v3
+Apache-v2_0:
+  name: Apache License 2.0
+  link: https://www.apache.org/licenses/LICENSE-2.0
+BSD-2-clause:
+  name: 2-clause BSD
+  link: https://opensource.org/licenses/BSD-2-Clause
+BSD-3-clause:
+  name: 3-clause BSD
+  link: https://opensource.org/licenses/BSD-3-Clause
+GPLv2:
+  name: GNU GPL v2
+  link: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+GPLv3: 
+  name: GNU GPL v3
+  link: https://www.gnu.org/licenses/old-licenses/gpl-3.0.html
+LGPLv2_1:
+  name: GNU LGPL v2.1
+  link: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+LGPLv3:
+  name: GNU LGPL v3
+  link: "https://www.gnu.org/licenses/lgpl-3.0.html"
+MIT:
+  name: MIT license
+  link: https://opensource.org/licenses/MIT
+MS-PL:
+  name: Microsoft Public License (MS-PL)
+  link: https://opensource.org/licenses/MS-PL
+Vim:
+  name: Free software (Vim license)
+  link: https://vimhelp.org/uganda.txt.html#license

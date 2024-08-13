@@ -1,0 +1,145 @@
+main > section.home {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 40px 0px;
+	margin: auto;
+	flex-direction: row;
+
+	h1 {
+		font-size: 3em;
+		text-align: center;
+	}
+
+	&.grey {
+		background-color: $light-grey-background-color;
+	}
+
+	& > div {
+		display: flex;
+		flex-wrap: wrap;
+		padding: 40px 0px;
+		margin: auto;
+		flex-direction: row;
+		column-gap: 30px;
+
+		div.center {
+			text-align: center;
+		}
+
+		& > div.description {
+			width: calc(50% - 15px);
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			padding: 0px;
+			padding: 40px 0px;
+			text-align: left;
+
+			& > * {
+				text-align: inherit;
+			}
+			
+			& > h2 {
+				margin-bottom: 0px;
+			}
+
+			& > h1, h3, h2 {
+				margin-left: 40px;
+				margin-right: 40px;
+				margin-top: 0px;
+			}
+			
+			& > p, & > ul {
+				margin: 20px 40px;
+				margin-top: 0px;
+			}
+
+			p.buttons {
+				display: flex;
+				column-gap: 30px;
+				justify-content: center;
+				align-items: center;
+			}
+		}
+
+		& > div.img {
+			min-width: 300px;
+			width: calc(50% - 15px);
+			display: flex;
+			padding: 0px;
+			justify-content: center;
+			align-items: center;
+
+			& > div {
+				margin: 20px;
+				overflow: hidden;
+				box-shadow: $shadow;
+				border-radius: $border-radius;
+
+				&.no-shadow {
+					box-shadow: none;
+				}
+
+				& > img {
+					width: auto;
+					display: block;
+				}
+			}
+		}
+	}
+
+	&.right {
+		& > div > div.description {
+			text-align: right;
+
+			&.left {
+				text-align: left;
+			}
+		}
+
+		& > div > div.img {
+			order: 2;
+		}
+	}
+}
+
+@media only screen and (max-width: 1000px) {
+	main > section.home {
+
+		& > div > div.description {
+			width: 100%;
+			text-align: center;
+
+			& > p {
+				margin: 0px 20px;
+
+				& > a.btn {
+					margin-top: 20px;
+				}
+			}
+		}
+
+		& > div > div.img {
+			width: 100%;
+			max-height: 50%;
+			text-align: center;
+
+			& > div {
+
+				& > img {
+					max-width: 100%;
+				}
+			}
+		}
+
+		&.right {
+			& > div > div.description {
+				text-align: center;
+			}
+
+			& > div > div.img {
+			 	order: 0;
+			}
+		}
+	}
+}
