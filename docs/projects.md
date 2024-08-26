@@ -27,6 +27,6 @@ header: Projects
 
 <ul class='projects'>
 {%- for project in site.data.projects -%}
-  <li title='{{ project.title }}' data-category='{{ project.category }}'><a href='/projects/{{ project.id }}'>{{ project.title }}</a> - {{ project.tagline }}</li>
+  <li title='{{ project.title }}' data-category='{{ project.category }}'><a href='/projects/{{ project.id | downcase }}'>{{ project.title }}</a> - {{ project.tagline }}</li>
 {%- endfor -%}
 </ul>
