@@ -3,6 +3,11 @@ layout: default
 header: Code of conduct
 ---
 
+> **Draft**
+>
+> The code of conduct is still in a draft version.
+{:.panel.warning}
+
 # SignPath Foundation conditions for Open Source projects
 
 This page details what conditions must be met by OSS projects in order to be eligible for signing by SignPath Foundation.

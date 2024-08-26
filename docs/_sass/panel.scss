@@ -1,0 +1,67 @@
+blockquote.panel {
+	border: 1px solid $grey-border-color;
+	border-radius: 6px;
+	padding: 0px 20px;
+	margin: 10px 0px;
+
+	& > p:first-child::before,
+	& > h6:first-child::before {
+		margin-right: 10px;
+		display: inline-block;
+	}
+
+	&.info, &.warning, &.tip {
+		& > p:first-child::before,
+		& > h6:first-child::before {
+			font-family: "Line Awesome Free";
+			font-weight: 800;
+		}
+	}
+
+	&.info {
+		background-color: $light-grey-background-color;
+		& > p:first-child::before,
+		& > h6:first-child::before {
+			content: "\f05a";
+		}
+	}
+	&.tip {
+		background-color: $light-grey-background-color;
+		& > p:first-child::before,
+		& > h6:first-child::before {
+			content: "\f0eb";
+		}
+	}
+	
+	&.warning {
+		background-color: $light-orange-background-color;
+		& > p:first-child::before,
+		& > h6:first-child::before {
+			content: "\f071";				
+		}
+	}
+
+	&.product {
+		background-color: $light-blue-background-color;
+		& > p:first-child::before,
+		& > h6:first-child::before {
+			content: "\e808";
+			font-family: fontello;				
+		}
+	}
+
+	& > p:first-child,
+	& > h6:first-child {
+		background-color: $grey-border-color;
+		margin: 0px;
+		padding: 5px 10px;
+		font-weight: bold;
+		font-size: 1em;
+		margin-left: -20px;
+		margin-right: -20px;
+	}
+
+	&.todo {
+		display: none;
+	}
+}
