@@ -152,15 +152,6 @@
   repository: github.com/mbdavid/LiteDB
   license: MIT
 
-- id: mapeditor.org
-  title: Tiled
-  category: gaming
-  tagline: A flexible map editor
-  description: Tiled is a general purpose tile map editor for all tile-based games, such as RPGs, platformers or Breakout clones.
-  homepage: www.mapeditor.org
-  repository: github.com/mapeditor/tiled
-  license: GPLv2
-
 - id: msbuildlog.com
   title: MSBuild
   category: developer-tools
@@ -346,6 +337,15 @@
   homepage: stellarium.org
   repository: github.com/Stellarium/stellarium
   wikipedia: en.wikipedia.org/wiki/Stellarium_(software)
+  license: GPLv2
+
+- id: mapeditor.org
+  title: Tiled
+  category: gaming
+  tagline: A flexible map editor
+  description: Tiled is a general purpose tile map editor for all tile-based games, such as RPGs, platformers or Breakout clones.
+  homepage: www.mapeditor.org
+  repository: github.com/mapeditor/tiled
   license: GPLv2
 
 - id: Transmission
