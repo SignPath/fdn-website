@@ -48,6 +48,7 @@ page_gen:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
 
 sass:
   style: compressed
