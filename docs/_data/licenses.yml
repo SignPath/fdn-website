@@ -1,6 +1,6 @@
 AGPL3:
   name: AGPL 3.0
-  link: https://opensource.org/license/agpl-v3
+  link: https://www.gnu.org/licenses/agpl-3.0.html
 Apache-v2_0:
   name: Apache License 2.0
   link: https://www.apache.org/licenses/LICENSE-2.0
@@ -15,13 +15,13 @@ GPLv2:
   link: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 GPLv3: 
   name: GNU GPL v3
-  link: https://www.gnu.org/licenses/old-licenses/gpl-3.0.html
+  link: https://www.gnu.org/licenses/gpl-3.0.html
 LGPLv2_1:
   name: GNU LGPL v2.1
   link: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
 LGPLv3:
   name: GNU LGPL v3
-  link: "https://www.gnu.org/licenses/lgpl-3.0.html"
+  link: https://www.gnu.org/licenses/lgpl-3.0.html
 MIT:
   name: MIT license
   link: https://opensource.org/licenses/MIT

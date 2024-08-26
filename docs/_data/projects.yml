@@ -49,8 +49,8 @@
   category: productivity
   tagline: Powerful search for Windows
   description: dnGrep allows you to search across files with easy-to-read results. Search through text files, Word and Excel documents, PDFs, and archives using text, regular expression, XPath, and phonetic queries. dnGrep includes search-and-replace, whole-file preview, right-click search in File Explorer, and much more.
-  homepage: http://dngrep.github.io
-  repository: https://github.com/dnGrep/dnGrep
+  homepage: dngrep.github.io
+  repository: github.com/dnGrep/dnGrep
   license: GPLv3
 
 - id: draftforge
@@ -58,8 +58,8 @@
   category: developer-tools
   tagline: Write, Review, Refine and Submit Internet-Drafts 
   description: An open source fully-featured collaborative editor to write, review, refine and submit Internet-Drafts in XMLRFC, Markdown or plaintext format.
-  homepage: https://draftforge.ietf.org
-  repository: https://github.com/ietf-tools/editor
+  homepage: draftforge.ietf.org
+  repository: github.com/ietf-tools/editor
   license: BSD-3-clause
 
 - id: DVR-Scan
@@ -67,8 +67,8 @@
   category: graphics
   tagline: Cross-platform command-line (CLI) application that automatically detects motion events in video files
   description: Tool for extracting scenes with motion from security camera/DVR footage. Written in Python, depends on OpenCV.
-  homepage: https://dvr-scan.readthedocs.io
-  repository: https://github.com/Breakthrough/DVR-Scan
+  homepage: dvr-scan.readthedocs.io
+  repository: github.com/Breakthrough/DVR-Scan
   license: BSD-2-clause
 
 - id: earquiz.org
@@ -76,8 +76,8 @@
   category: audio
   tagline: Software for technical ear training on equalization
   description: EarQuiz Frequencies is a software for ear training on equalization. Its goal is to help musicians and other audio professionals or students learn how to hear frequency bands, and to adjust an EQ consciously. Available for Windows and macOS.
-  homepage: https://earquiz.org/EQ_Frequencies
-  repository: https://github.com/Gdalik/EarQuiz_Frequencies
+  homepage: earquiz.org/EQ_Frequencies
+  repository: github.com/Gdalik/EarQuiz_Frequencies
   license: GPLv3
 
 - id: Filius
@@ -85,8 +85,8 @@
   category: educational
   tagline: A network simulator for educational purpose
   description: ''
-  homepage: https://www.lernsoftware-filius.de
-  repository: https://gitlab.com/filius1/filius
+  homepage: www.lernsoftware-filius.de
+  repository: gitlab.com/filius1/filius
   license: GPLv3
 
 - id: flameshot
@@ -94,8 +94,8 @@
   category: productivity
   tagline: Powerful yet simple to use screenshot software
   description: ''
-  homepage: https://flameshot.org
-  repository: https://github.com/flameshot-org/flameshot
+  homepage: flameshot.org
+  repository: github.com/flameshot-org/flameshot
   license: GPLv3
 
 - id: GitExtensions
@@ -103,8 +103,8 @@
   category: developer-tools
   tagline: A graphical user interface for Git
   description: Git Extensions is a graphical user interface for Git that allows you to control Git without using the commandline
-  homepage: https://gitextensions.github.io
-  repository: https://github.com/gitextensions/gitextensions
+  homepage: gitextensions.github.io
+  repository: github.com/gitextensions/gitextensions
   license: GPLv3
 
 - id: HeroicGamesLauncher
@@ -112,8 +112,8 @@
   category: gaming
   tagline: GOG and Epic Games Launcher
   description: An OpenSource GOG and Epic Games launcher for Linux, Windows and macOS.
-  homepage: https://heroicgameslauncher.com
-  repository: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
+  homepage: heroicgameslauncher.com
+  repository: github.com/Heroic-Games-Launcher/HeroicGamesLauncher
   license: GPLv3
 
 - id: libjpeg-turbo
@@ -121,8 +121,8 @@
   category: graphics
   tagline: SIMD-accelerated JPEG codec that provides both the libjpeg and TurboJPEG APIs
   description: A JPEG image codec that uses SIMD instructions to accelerate JPEG compression and decompression on systems with popular CPU architectures, such as x86-64, Arm, and PowerPC. On such systems, libjpeg-turbo is generally 2-6x as fast as libjpeg, all else being equal. In many cases, the performance of libjpeg-turbo rivals that of proprietary high-speed JPEG codecs. libjpeg-turbo is an ISO/ITU-T reference implementation for the JPEG image format.
-  homepage: https://libjpeg-turbo.org
-  repository: https://github.com/libjpeg-turbo/libjpeg-turbo
+  homepage: libjpeg-turbo.org
+  repository: github.com/libjpeg-turbo/libjpeg-turbo
   license: BSD-3-clause
 
 - id: LichessBroadcaster
@@ -130,8 +130,8 @@
   category: gaming
   tagline: Publish chess tournament moves to an online broadcast
   description: This is a cross-platform desktop application for automatically uploading PGN files (chess game notation) from your local computer to a live Lichess Broadcast.
-  homepage: https://github.com/lichess-org/broadcaster
-  repository: https://github.com/lichess-org/broadcaster
+  homepage: github.com/lichess-org/broadcaster
+  repository: github.com/lichess-org/broadcaster
   license: AGPL3
 
 - id: LichessFishnet
@@ -139,8 +139,8 @@
   category: gaming
   tagline: Distributed Stockfish analysis for lichess.org
   description: Allows users to donate CPU time for chess engine analysis on lichess.org.
-  homepage: https://github.com/lichess-org/fishnet
-  repository: https://github.com/lichess-org/fishnet
+  homepage: github.com/lichess-org/fishnet
+  repository: github.com/lichess-org/fishnet
   license: GPLv3
 
 - id: litedb.org
@@ -148,8 +148,8 @@
   categoy: developer-tools
   tagline: Embedded NoSQL database for .NET
   description: An open source MongoDB-like database with zero conﬁguration - mobile ready
-  homepage: https://www.litedb.org
-  repository: https://github.com/mbdavid/LiteDB
+  homepage: www.litedb.org
+  repository: github.com/mbdavid/LiteDB
   license: MIT
 
 - id: mapeditor.org
@@ -157,8 +157,8 @@
   category: gaming
   tagline: A flexible map editor
   description: Tiled is a general purpose tile map editor for all tile-based games, such as RPGs, platformers or Breakout clones.
-  homepage: https://www.mapeditor.org
-  repository: https://github.com/mapeditor/tiled
+  homepage: www.mapeditor.org
+  repository: github.com/mapeditor/tiled
   license: GPLv2
 
 - id: msbuildlog.com
@@ -166,8 +166,8 @@
   category: developer-tools
   tagline: Binary and Structured Log Viewer
   description: A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values. It can greatly simplify build investigations and provides a portable log interchange format and a rich interactive log viewer app.
-  homepage: https://msbuildlog.com
-  repository: https://github.com/KirillOsenkov/MSBuildStructuredLog
+  homepage: msbuildlog.com
+  repository: github.com/KirillOsenkov/MSBuildStructuredLog
   license: MIT
 
 - id: Mumble
@@ -175,9 +175,9 @@
   category: audio
   tagline: Low-latency and high-quality voice-chat software
   description: Mumble was the first VoIP application to establish true low latency voice communication over a decade ago. But low latency and gaming are not the only use cases it shines in.
-  homepage: https://www.mumble.info
-  repository: https://github.com/mumble-voip/mumble
-  wikipedia: https://en.wikipedia.org/wiki/Mumble_%28software%29
+  homepage: www.mumble.info
+  repository: github.com/mumble-voip/mumble
+  wikipedia: en.wikipedia.org/wiki/Mumble_%28software%29
   license: BSD-3-clause
 
 - id: NETworkManager
@@ -185,8 +185,8 @@
   category: developer-tools
   tagline: A powerful tool for managing networks and troubleshoot network problems!
   description: Connect and manage remote systems with Remote Desktop, PowerShell, PuTTY, TigerVNC or AWS (Systems Manager) Session Manager. Analyze and troubleshoot your network and systems with features such as the WiFi Analyzer, IP Scanner, Port Scanner, Ping Monitor, Traceroute, DNS lookup or LLDP/CDP capture (and many more) in a unfied interface. Hosts (or networks) can be saved in (encrypted) profiles and used across all features. 
-  homepage: https://borntoberoot.net/NETworkManager
-  repository: https://github.com/BornToBeRoot/NETworkManager
+  homepage: borntoberoot.net/NETworkManager
+  repository: github.com/BornToBeRoot/NETworkManager
   license: GPLv3
 
 - id: nuke.build
@@ -194,8 +194,8 @@
   category: developer-tools
   tagline: The AKEless Build System for C#/.NET
   description: NUKE is the best open-source build automation system for C#/.NET that runs cross-platform on .NET Core, .NET Framework, and Mono. 
-  homepage: https://nuke.build
-  repository: https://github.com/nuke-build/nuke
+  homepage: nuke.build
+  repository: github.com/nuke-build/nuke
   license: MIT
 
 - id: nvda
@@ -203,8 +203,8 @@
   category: accessibility
   tagline: The free and open source Screen Reader for Microsoft Windows
   description: NVDA (NonVisual Desktop Access) is a free, open source screen reader for Microsoft Windows.
-  homepage: https://nvaccess.org
-  repository: https://github.com/nvaccess/nvda
+  homepage: nvaccess.org
+  repository: github.com/nvaccess/nvda
   license: GPLv2
 
 - id: odata2poco
@@ -212,8 +212,8 @@
   category: developer-tools
   tagline: Convert Odata Metadata to POCO (DTO) classes
   description: OData2Poco is a code generation tool for generating plain-old CLR objects (POCO/DTO) in c# and typescript from OData feeds. POCO classes can be used in a typed RESTful client OData services. Code generation can be controlled by setting many options.
-  homepage: https://github.com/moh-hassan/odata2poco
-  repository: https://github.com/moh-hassan/odata2poco
+  homepage: github.com/moh-hassan/odata2poco
+  repository: github.com/moh-hassan/odata2poco
   license: MIT
 
 - id: OpenSC
@@ -221,8 +221,8 @@
   category: developer-tools
   tagline: Open source smart card tools and middleware. PKCS#11/MiniDriver
   description: OpenSC provides a set of libraries and utilities to work with smart cards. Its main focus is on cards that support cryptographic operations, and facilitate their use in security applications such as authentication, mail encryption and digital signatures.
-  homepage: https://github.com/OpenSC/OpenSC/wiki
-  repository: https://github.com/OpenSC/OpenSC
+  homepage: github.com/OpenSC/OpenSC/wiki
+  repository: github.com/OpenSC/OpenSC
   license: LGPLv2_1
 
 - id: Playnite
@@ -230,8 +230,8 @@
   category: gaming
   tagline: A video game library manager and launcher
   description: Playnite is a video game library manager and launcher with support for wide range of 3rd party libraries and emulation support, providing one unified interface for all games.
-  homepage: https://playnite.link
-  repository: https://github.com/JosefNemec/Playnite
+  homepage: playnite.link
+  repository: github.com/JosefNemec/Playnite
   license: MIT
 
 - id: Poe-Lurker
@@ -239,8 +239,8 @@
   category: gaming
   tagline: Trade manager for Path of Exile
   description: Poe Lurker is a simple yet very powerful trade manager meant to ease the trading experience for Path of Exile.
-  homepage: https://github.com/C1rdec/Poe-Lurker
-  repository: https://github.com/C1rdec/Poe-Lurker
+  homepage: github.com/C1rdec/Poe-Lurker
+  repository: github.com/C1rdec/Poe-Lurker
   license: MIT
 
 - id: Poe-Overlay-CF
@@ -248,8 +248,8 @@
   category: gaming
   tagline: A tool for Path of Exile
   description: PoE Overlay is a tool for Path of Exile. The core aspect is to blend in with the game. Built with Electron and Angular.
-  homepage: https://github.com/PoE-Overlay-Community/PoE-Overlay-Community-Fork#poe-overlay-community-fork
-  repository: https://github.com/PoE-Overlay-Community/PoE-Overlay-Community-Fork
+  homepage: github.com/PoE-Overlay-Community/PoE-Overlay-Community-Fork#poe-overlay-community-fork
+  repository: github.com/PoE-Overlay-Community/PoE-Overlay-Community-Fork
   license: MIT
 
 - id: PySceneDetect
@@ -257,8 +257,8 @@
   category: graphics
   tagline: Scene Cut/Transition Detection
   description: PySceneDetect is a command-line application and a Python library for detecting shot changes in videos, and automatically splitting the video into separate clips.
-  homepage: https://scenedetect.com
-  repository: https://github.com/Breakthrough/PySceneDetect
+  homepage: scenedetect.com
+  repository: github.com/Breakthrough/PySceneDetect
   license: BSD-3-clause
 
 - id: Race-Element
@@ -271,8 +271,8 @@
     - Setups
     - Liveries
     - Racing Tools
-  homepage: https://race.elementfuture.com
-  repository: https://github.com/RiddleTime/Race-Element
+  homepage: race.elementfuture.com
+  repository: github.com/RiddleTime/Race-Element
   license: GPLv3
 
 - id: rainmeter
@@ -280,8 +280,8 @@
   category: productivity
   tagline: Desktop customization tool for Windows
   description: Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. You are only limited by your imagination and creativity. Rainmeter is open source software distributed free of charge under the terms of the GNU GPL v2 license.
-  homepage: https://www.rainmeter.net
-  repository: https://github.com/rainmeter/rainmeter
+  homepage: www.rainmeter.net
+  repository: github.com/rainmeter/rainmeter
   license: GPLv2
 
 - id: repentogon.com
@@ -289,8 +289,8 @@
   category: gaming
   tagline: Isaac Script Extender 
   description: 'REPENTOGON is a mod for The Binding of Isaac: Repentance that brings much-needed bug fixes, extra functionality, and performance enhancements to the Lua API.'
-  homepage: https://repentogon.com
-  repository: https://github.com/TeamREPENTOGON/REPENTOGON
+  homepage: repentogon.com
+  repository: github.com/TeamREPENTOGON/REPENTOGON
   license: GPLv2
 
 - id: SkyClient
@@ -298,8 +298,8 @@
   category: gaming
   tagline: An open installer for Hypixel
   description: SkyClient is a program that installs mods and resource packs for you. We have over 50+ mods and packs for you to simply click and install instantly!
-  homepage: https://skyclient.co
-  repository: https://github.com/SkyblockClient/SkyblockClient
+  homepage: skyclient.co
+  repository: github.com/SkyblockClient/SkyblockClient
   license: MIT
 
 - id: Smartmontools
@@ -307,8 +307,8 @@
   category: developer-tools
   tagline: S.M.A.R.T. Monitoring Tools
   description: The smartmontools package contains two utility programs (smartctl and smartd) to control and monitor storage systems using the Self-Monitoring, Analysis and Reporting Technology System (S.M.A.R.T.) built into most modern SATA, NVMe and SCSI hard disks. 
-  homepage: https://www.smartmontools.org
-  repository: https://github.com/smartmontools/smartmontools
+  homepage: www.smartmontools.org
+  repository: github.com/smartmontools/smartmontools
   license: GPLv2
 
 - id: SnapHutao
@@ -316,8 +316,8 @@
   category: gaming
   tagline: A Multifunctional Open-source Genshin Toolkit
   description: Snap Hutao is an open-source Genshin Impact toolkit under MIT license, designed for modern Windows platform to improve the gaming experience for desktop players. By combining existing official resources with new features designed by the development team, it provides a complete and useful set of tools without the need to rely on mobile devices. Snap Hutao does not take any destructive modification to the game client to ensure the security of the toolkit.
-  homepage: https://hut.ao
-  repository: https://github.com/DGP-Studio/Snap.Hutao
+  homepage: hut.ao
+  repository: github.com/DGP-Studio/Snap.Hutao
   license: MIT
 
 - id: SnoopWPF
@@ -325,8 +325,8 @@
   category: developer-tools
   tagline: Allows you to explore UIs written with WPF
   description: Snoop allows you to explore, as in spy, UIs written with WPF similar to developer tools in modern browsers do for HTML.
-  homepage: https://github.com/snoopwpf/snoopwpf
-  repository: https://github.com/snoopwpf/snoopwpf
+  homepage: github.com/snoopwpf/snoopwpf
+  repository: github.com/snoopwpf/snoopwpf
   license: MS-PL
 
 - id: SQLiteBrowser
@@ -334,8 +334,8 @@
   category: developer-tools
   tagline: DB Browser for SQLite
   description: DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite. DB4S is for users and developers who want to create, search, and edit databases. DB4S uses a familiar spreadsheet-like interface, and complicated SQL commands do not have to be learned.
-  homepage: https://sqlitebrowser.org
-  repository: https://github.com/sqlitebrowser/sqlitebrowser
+  homepage: sqlitebrowser.org
+  repository: github.com/sqlitebrowser/sqlitebrowser
   license: GPLv3
 
 - id: stellarium.org
@@ -343,9 +343,9 @@
   category: science
   tagline: A planetarium for your computer
   description: Stellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like what you see with the naked eye, binoculars or a telescope.
-  homepage: https://stellarium.org
-  repository: https://github.com/Stellarium/stellarium
-  wikipedia: https://en.wikipedia.org/wiki/Stellarium_(software)
+  homepage: stellarium.org
+  repository: github.com/Stellarium/stellarium
+  wikipedia: en.wikipedia.org/wiki/Stellarium_(software)
   license: GPLv2
 
 - id: Transmission
@@ -353,9 +353,9 @@
   category: other
   tagline: A fast, easy, and free BitTorrent client
   description: ''
-  homepage: https://transmissionbt.com
-  repository: https://github.com/transmission/transmission
-  wikipedia: https://en.wikipedia.org/wiki/Transmission_(BitTorrent_client)
+  homepage: transmissionbt.com
+  repository: github.com/transmission/transmission
+  wikipedia: en.wikipedia.org/wiki/Transmission_(BitTorrent_client)
   license: GPLv2
 
 - id: TurboVNC
@@ -363,8 +363,8 @@
   category: developer-tools
   tagline: Fast TightVNC-compatible Unix remote desktop software for 3D and video
   description: TurboVNC is a high-speed derivative of TightVNC and TigerVNC that contains some unique features, such as built-in VNC session management, an integrated SSH client, and one-time password support.  TurboVNC uses a variant of Tight encoding that is tuned to maximize performance for image- intensive applications (such as VirtualGL, video applications, and image editors) while still providing excellent performance for other types of application
-  homepage: https://turbovnc.org
-  repository: https://github.com/TurboVNC/turbovnc
+  homepage: turbovnc.org
+  repository: github.com/TurboVNC/turbovnc
   license: GPLv2
 
 - id: Vim
@@ -372,9 +372,9 @@
   category: developer-tools
   tagline: The ubiquitous text editor
   description: Vim is a highly configurable text editor for efficiently creating and changing any kind of text. It is included as "vi" with most UNIX systems and with Apple OS X.
-  homepage: https://www.vim.org
-  repository: https://github.com/vim/vim-win32-installer
-  wikipedia: https://en.wikipedia.org/wiki/Vim_(text_editor)
+  homepage: www.vim.org
+  repository: github.com/vim/vim-win32-installer
+  wikipedia: en.wikipedia.org/wiki/Vim_(text_editor)
   license: Vim
 
 - id: WangkanaiDetection
@@ -382,9 +382,9 @@
   category: developer-tools
   tagline: ASP.NET Core Detection with Responsive View
   description: ASP.NET Core Detection with Responsive View for identifying details about client device, browser, engine, platform, & crawler. Responsive middleware for routing base upon request client device detection to specifi
-  homepage: https://github.com/wangkanai/Detection
-  repository: https://github.com/wangkanai/Detection
-  license: Apachev2_0
+  homepage: github.com/wangkanai/Detection
+  repository: github.com/wangkanai/Detection
+  license: Apache-v2_0
 
 - id: WSLUSBGUI
   title: WSL USB GUI
@@ -393,7 +393,7 @@
   description: |
     This application provideds a gui to manage connecting USB devices from Windows to the WSL linux environment.
 
-    Behind the scenes it uses the official command line tools to provide this functionality; usbipd-win. For more information, see: https://devblogs.microsoft.com/commandline/connecting-usb-devices-to-wsl/
-  homepage: https://gitlab.com/alelec/wsl-usb-gui
-  repository: https://gitlab.com/alelec/wsl-usb-gui
+    Behind the scenes it uses the official command line tools to provide this functionality; usbipd-win. For more information, see: devblogs.microsoft.com/commandline/connecting-usb-devices-to-wsl/
+  homepage: gitlab.com/alelec/wsl-usb-gui
+  repository: gitlab.com/alelec/wsl-usb-gui
   license: GPLv2
