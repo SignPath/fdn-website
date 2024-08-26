@@ -1,0 +1,19 @@
+div.projects-select-ctn {
+	background-color: $light-grey-background-color;
+	border-radius: 6px;
+	padding: 10px 10px;
+	margin-bottom: 1.5em;
+	display: flex;
+	flex-wrap: wrap;
+
+	div {
+		margin-right: 20px;
+
+		select {
+			font-family: inherit;
+			font-size: inherit;
+			margin-left: 0.5em;
+			border: 0px solid transparent;
+		}
+	}
+}

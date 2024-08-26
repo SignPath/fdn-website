@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   initCarousel();
+  filterProjects();
 });
 
 function initCarousel() {
@@ -116,4 +117,54 @@ function initCarousel() {
 
 		
 	})
+}
+
+function filterProjects() {
+	// parse url to already show hide components on startup
+	const url = new URL(location);
+	let searchTerm = url.searchParams.get('search') || '';
+	let category = url.searchParams.get('category') || 'all';
+	filter_projects_internal(category, searchTerm);
+
+	var search_field = document.getElementById('projects-search-field');
+	var category_select = document.getElementById('projects-category-select');
+	if (search_field && category_select) {
+		search_field.value = searchTerm;
+		category_select.value = category;
+
+		search_field.addEventListener('input', function(e) {
+			// change url
+			const url = new URL(location);
+			if (e.target.value == '') {
+				url.searchParams.delete('search');
+				history.replaceState({}, "", url);
+			} else {
+				url.searchParams.set('search', e.target.value);
+				history.pushState({}, '', url);
+			}
+
+			filter_projects_internal(category_select.value, e.target.value);
+		});
+
+		category_select.addEventListener('change', function(e) {
+			const url = new URL(location);
+			if (category_select.value == 'all') {
+				url.searchParams.delete("category")
+			} else {
+				url.searchParams.set("category", category_select.value);
+			}
+			history.pushState({}, "", url);
+			
+
+			filter_projects_internal(category_select.value, search_field.value);
+		});
+	}
+}
+
+function filter_projects_internal(category, searchTerm) {
+	document.querySelectorAll('ul.projects li').forEach(function(listItem) {
+		let categoryMatches = (category == 'all') || listItem.dataset.category == category;
+		let searchTermMatches = (searchTerm.length == 0) || listItem.title.toLowerCase().includes(searchTerm.toLowerCase());
+		listItem.style.display = (categoryMatches && searchTermMatches) ? 'block' : 'none';
+	});
 }
