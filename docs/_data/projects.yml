@@ -200,7 +200,7 @@
 
 - id: nvda
   title: NVAccess NVDA
-  category: accessability
+  category: accessibility
   tagline: The free and open source Screen Reader for Microsoft Windows
   description: NVDA (NonVisual Desktop Access) is a free, open source screen reader for Microsoft Windows.
   homepage: https://nvaccess.org

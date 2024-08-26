@@ -12,7 +12,7 @@ header: Projects
     Category 
     <select id='projects-category-select'>
       <option value='all'>All categories</option>
-      <option value='accessability'>Accessability</option>
+      <option value='accessibility'>Accessibility</option>
       <option value='audio'>Audio</option>
       <option value='developer-tools'>Developer tools</option>
       <option value='educational'>Educational</option>
