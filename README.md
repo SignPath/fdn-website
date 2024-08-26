@@ -1,4 +1,4 @@
-<a href="https://signpath.org"> <img src="docs/assets/signpath-logo.svg" width="500px"> </a>
+<a href="https://signpath.org"> <img src="docs/assets/logo.svg" width="500px"> </a>
 
 # SignPath Foundation Website
 
