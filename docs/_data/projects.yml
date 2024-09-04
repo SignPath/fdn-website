@@ -153,7 +153,7 @@
   license: MIT
 
 - id: msbuildlog.com
-  title: MSBuild
+  title: MSBuildLog
   category: developer-tools
   tagline: Binary and Structured Log Viewer
   description: A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values. It can greatly simplify build investigations and provides a portable log interchange format and a rich interactive log viewer app.
