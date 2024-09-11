@@ -226,6 +226,15 @@
   repository: github.com/OpenSC/OpenSC
   license: LGPLv2_1
 
+- id: OpenXR-MotionCompensation
+  title: OpenXR-MotionCompensation
+  category: gaming
+  tagline: Enables the use of a VR headset in combination with a motion simulator
+  description: When using a motion simulator in combination with a VR headset (hmd) the movement of the simulator causes the in-game camera to change alongside your position in the real world. In flight or racing simulations you are basically feel being pushed around inside the cockpit when the motion rig moves. Motion compensation reduces or ideally removes that effect by locking the in-game world to the pose of the motion rig. This software aims to provide an API layer for motion compensation to be used with applications and hmds supporting the OpenXR standard. 
+  homepage: github.com/BuzzteeBear/OpenXR-MotionCompensation
+  repository: github.com/BuzzteeBear/OpenXR-MotionCompensation
+  license: LGPLv2_1
+
 - id: Playnite
   title: Playnite
   category: gaming
@@ -358,6 +367,15 @@
   repository: github.com/mapeditor/tiled
   license: GPLv2
 
+- id: Tonbrett
+  title: Tonbrett
+  category: audio
+  tagline: open source discord soundboard
+  description: Tonbrett is an Open Source Discord soundboard made due to Discord providing very strict limits in the free version (Only 5 sounds.à 5 seconds), tonbrett further features being an external application and therefore also works an on separate device or separate monitor 
+  homepage: github.com/DRSchlaubi/tonbrett
+  repository: github.com/DRSchlaubi/tonbrett
+  license: MIT
+
 - id: Transmission
   title: Transmission
   category: other
@@ -407,3 +425,12 @@
   homepage: gitlab.com/alelec/wsl-usb-gui
   repository: gitlab.com/alelec/wsl-usb-gui
   license: GPLv2
+
+- id: X-Minecraft-Launcher
+  title: X Minecraft Launcher
+  category: gaming
+  tagline: A Minecraft Launcher integrating the modrinth/curseforge and your mods together!
+  description: X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods, shader packs. It also has integration with Minecraft Forge, Fabric, Quilt, CurseForge and Modrinth.
+  homepage: xmcl.app
+  repository: github.com/Voxelum/x-minecraft-launcher
+  license: MIT
