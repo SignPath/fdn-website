@@ -7,6 +7,15 @@
   repository: github.com/0install/0install-win
   license: LGPLv3
 
+- id: AnyPackage
+  title: AnyPackage
+  category: developer tools
+  tagline: PowerShell unified package management interface
+  description: AnyPackage is a cross-platform PowerShell unified package management interface. Manage multiple package managers from a single set of commands. 
+  homepage: anypackage.dev
+  repository: github.com/anypackage/anypackage
+  license: MIT
+
 - id: auto-mcs
   title: auto-mcs
   category: gaming
@@ -72,6 +81,15 @@
   repository: github.com/ietf-tools/editor
   license: BSD-3-clause
 
+- id: DSPaul-COMPASS
+  title: DSPaul-COMPASS
+  category: gaming
+  tagline: All yourTabletop RPG resources in one place. 
+  description: The Codex Organizer to make Pen-and-paper Adventuring Super Simple or COMPASS for short is a desktop application to organize and manage all your TTRPG rulebooks, maps, character sheets and other resources. 
+  homepage: compassapp.info/
+  repository: github.com/DSPaul/COMPASS
+  license: GPLv3
+
 - id: DVR-Scan
   title: DVR-Scan
   category: graphics
@@ -79,7 +97,7 @@
   description: Tool for extracting scenes with motion from security camera/DVR footage. Written in Python, depends on OpenCV.
   homepage: dvr-scan.readthedocs.io
   repository: github.com/Breakthrough/DVR-Scan
-  license: BSD-2-clause
+  license: GPLv3
 
 - id: earquiz.org
   title: EarQuiz Frequencies
@@ -89,6 +107,24 @@
   homepage: earquiz.org/EQ_Frequencies
   repository: github.com/Gdalik/EarQuiz_Frequencies
   license: GPLv3
+
+- id: ET:Legacy
+  title: ET: Legacy
+  category: gaming
+  tagline: Game, FPS, Multiplayer
+  description: ET: Legacy is an open source project based on the code of Wolfenstein: Enemy Territory which was released in 2010 under the terms of the GPLv3 license. 
+  homepage: etlegacy.com/
+  repository: github.com/etlegacy/etlegacy/
+  license: GPLv3
+
+- id: Fabulously-Optimized
+  title: Fabulously Optimized
+  category: gaming
+  tagline: Installer
+  description: Installer for a simple Minecraft modpack that focuses on performance and graphics enhancements. 
+  homepage: download.fo/
+  repository: github.com/Fabulously-Optimized/fabulously-optimized
+  license: BSD-3-clause
 
 - id: Filius
   title: Filius
@@ -125,6 +161,15 @@
   homepage: heroicgameslauncher.com
   repository: github.com/Heroic-Games-Launcher/HeroicGamesLauncher
   license: GPLv3
+
+- id: hyphanet
+  title: hyphanet
+  category: developer tools
+  tagline: decentralized censorship-resistant and privacy-respecting publishing and communication
+  description: Hyphanet provides a peer-to-peer network which makes it easy to read and publish with strong privacy protections. Plugins built on its decentralized data store let you do things like host your own website, use microblogging and forums, share or stream video, and more, without central authority.
+  homepage: www.hyphanet.org
+  repository: github.com/hyphanet/sign-windows-installer
+  license: GPLv2
 
 - id: libjpeg-turbo
   title: libjpeg-turbo
@@ -366,6 +411,15 @@
   homepage: www.mapeditor.org
   repository: github.com/mapeditor/tiled
   license: GPLv2
+
+- id: texstudio
+  title: texstudio
+  category: educational
+  tagline: texstudio - a fully featured LaTeX editor
+  description: TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible. 
+  homepage: texstudio.org
+  repository: github.com/texstudio-org/texstudio
+  license: GPLv3
 
 - id: Tonbrett
   title: Tonbrett
