@@ -45,15 +45,6 @@
   repository: github.com/CollapseLauncher/Collapse
   license: MIT
 
-- id: COMPASS
-  title: COMPASS
-  category: educational
-  tagline: All yourTabletop RPG resources in one place. 
-  description: The Codex Organizer to make Pen-and-paper Adventuring Super Simple or COMPASS for short is a desktop application to organize and manage all your TTRPG rulebooks, maps, character sheets and other resources. 
-  homepage: compassapp.info/
-  repository: github.com/DSPaul/COMPASS
-  license: GPLv3
-
 - id: converseen
   title: Converseen
   category: graphics
