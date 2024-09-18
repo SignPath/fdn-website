@@ -108,7 +108,7 @@
   repository: github.com/Gdalik/EarQuiz_Frequencies
   license: GPLv3
 
-- id: ET_Legacy
+- id: etlegacy
   title: ET Legacy
   category: gaming
   tagline: Game, FPS, Multiplayer
