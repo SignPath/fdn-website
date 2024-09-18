@@ -171,6 +171,15 @@
   repository: github.com/hyphanet/sign-windows-installer
   license: GPLv2
 
+- id: KSP-CKAN
+  title: KSP-CKAN
+  category: gaming
+  tagline: The Comprehensive Kerbal Archive Network, a Mod Manager for Kerbal Space Program
+  description: The CKAN is a metadata respository and associated tools to allow you to find, install, and manage mods for Kerbal Space Program. It provides strong assurances that mods are installed in the way prescribed by their metadata files, for the correct version of Kerbal Space Program, alongside their dependencies, and without any conflicting mods. The CKAN has been inspired by the solid and proven metadata formats from both the Debian project and the CPAN, each of which manages tens of thousands of packages. If you have ever used a package manager to install software on linux, you can think of this as the equivalent for KSP mods."
+  homepage: github.com/KSP-CKAN/CKAN/wiki
+  repository: github.com/KSP-CKAN/CKAN
+  license: MIT
+
 - id: libjpeg-turbo
   title: libjpeg-turbo
   category: graphics
@@ -233,6 +242,15 @@
   description: Connect and manage remote systems with Remote Desktop, PowerShell, PuTTY, TigerVNC or AWS (Systems Manager) Session Manager. Analyze and troubleshoot your network and systems with features such as the WiFi Analyzer, IP Scanner, Port Scanner, Ping Monitor, Traceroute, DNS lookup or LLDP/CDP capture (and many more) in a unfied interface. Hosts (or networks) can be saved in (encrypted) profiles and used across all features. 
   homepage: borntoberoot.net/NETworkManager
   repository: github.com/BornToBeRoot/NETworkManager
+  license: GPLv3
+
+- id: NovelWriter
+  name: novelWriter
+  category: educational
+  tagline: A markdown-like editor for novels
+  description: A markdown-like text editor designed for writing novels and larger projects of many smaller plain text documents.
+  homepage: novelwriter.io
+  repository: github.com/vkbo/novelWriter
   license: GPLv3
 
 - id: nuke.build
@@ -347,6 +365,15 @@
   homepage: repentogon.com
   repository: github.com/TeamREPENTOGON/REPENTOGON
   license: GPLv2
+
+- id: Satisfactory Modding
+  title: Satisfactory Modding
+  category: gaming
+  tagline:  A mod manager for easy installation of mods and modloader for Satisfactory 
+  description: A desktop application mod manager for the game Satisfactory that replaces the need for manual mod downloading. It is available on all major operating systems and works with all game distribution platforms. Within the app you can browse, download and mange mods, as well as share profiles and manage mods on dedicated servers.
+  homepage: ficsit.app/
+  repository: github.com/satisfactorymodding/SatisfactoryModManager
+  license: GPLv3
 
 - id: SkyClient
   title: SkyClient
