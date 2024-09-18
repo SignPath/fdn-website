@@ -244,8 +244,8 @@
   repository: github.com/BornToBeRoot/NETworkManager
   license: GPLv3
 
-- id: NovelWriter
-  name: NovelWriter
+- id: novelWriter
+  title: novelWriter
   category: educational
   tagline: A markdown-like editor for novels
   description: A markdown-like text editor designed for writing novels and larger projects of many smaller plain text documents.
