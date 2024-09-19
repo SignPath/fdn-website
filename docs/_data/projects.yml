@@ -420,6 +420,15 @@
   repository: github.com/sqlitebrowser/sqlitebrowser
   license: GPLv3
 
+- id: Starship Prompt
+  title: Starship Prompt
+  category: developer-tools
+  tagline: Starship - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+  desription: The minimal, blazing-fast, and infinitely customizable prompt for any shell! Works on the most common shells on the most common operating systems. Use it everywhere! Brings the best-in-class speed and safety of Rust, to make your prompt as quick and reliable as possible. Every little detail is customizable to your liking, to make this prompt as minimal or feature-rich as you'd like it to be.
+  homepage: starship.rs
+  repository: github.com/starship/starship
+  license: ISC
+
 - id: stellarium.org
   title: Stellarium
   category: science
