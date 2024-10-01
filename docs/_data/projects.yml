@@ -16,6 +16,15 @@
   repository: github.com/anypackage/anypackage
   license: MIT
 
+- id: Archi
+  title: Archi
+  category: developer tools
+  tagline: ArchiMate Modelling Toolkit
+  description: The Archi modelling toolkit is targeted toward all levels of Enterprise Architects and Modellers. It provides a solution to users who may be making their first steps in the ArchiMate modelling language, or who are looking for an open source, cross-platform ArchiMate modelling tool for their company or institution and wish to engage with the language.
+  homepage: archimatetool.com/
+  repository: github.com/archimatetool/archi
+  license: MIT
+
 - id: auto-mcs
   title: auto-mcs
   category: gaming
