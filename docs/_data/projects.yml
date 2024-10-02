@@ -34,6 +34,15 @@
   repository: github.com/macarooni-man/auto-mcs
   license: GPLv3
 
+- id: Brewtarget
+  title: Brewtarget
+  category: educational
+  tagline: Brewtarget – Beer Brewing Software for Homebrewers
+  description: Brewtarget is a cross-platform desktop beer recipe creation tool for Linux, Mac, and Windows.  It automatically calculates color, bitterness, and other key parameters for you while you drag and drop ingredients into the recipe. Brewtarget also has many other tools such as priming sugar calculators, OG correction help, and a unique mash designing tool. It also can export and import recipes in BeerJSON and BeerXML, allowing you to easily share recipes with friends who use other programs.
+  homepage: brewtarget.beer/
+  repository: github.com/Brewtarget/brewtarget/
+  license: GPLv3
+
 - id: Chewing-IM
   title: Chewing IM
   category: productivity
@@ -152,6 +161,15 @@
   homepage: flameshot.org
   repository: github.com/flameshot-org/flameshot
   license: GPLv3
+
+- id: gettext for Windows
+  title: mlocati-gettext-windows
+  category: developer-tools
+  tagline: ''
+  description: Windows binaries for GNU iconv and gettext tools
+  homepage: mlocati.github.io/articles/gettext-iconv-windows.html
+  repository: github.com/mlocati/gettext-iconv-windows/
+  license: MIT
 
 - id: GitExtensions
   title: Git Extensions
