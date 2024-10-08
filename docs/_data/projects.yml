@@ -307,6 +307,15 @@
   repository: github.com/moh-hassan/odata2poco
   license: MIT
 
+- id: OpenNumismat
+  title: OpenNumismat
+  category: other
+  tagline: coin collecting software
+  description: OpenNumismat is a handy and reliable application aimed at coin collectors, numismatists or amateurs looking to create a numismatics collection.
+  homepage: opennumismat.github.io/
+  repository: github.com/OpenNumismat/open-numismat
+  license: GPLv3
+
 - id: OpenSC
   title: OpenSC
   category: developer-tools
