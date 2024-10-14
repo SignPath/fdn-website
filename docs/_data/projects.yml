@@ -334,6 +334,15 @@
   repository: github.com/BuzzteeBear/OpenXR-MotionCompensation
   license: LGPLv2_1
 
+- id: PicView
+  title: PicView
+  category: graphics
+  tagline: Fast, free and customizable image viewer
+  description: PicView is a high-performance, open-source image viewer designed for simplicity and customizability.Enjoy a clean, free, and fast experience with no bloated UI or annoying pop-ups. Available in portable and installable versions.
+  homepage: picview.org/
+  repository: github.com/Ruben2776/PicView
+  license: GPLv3
+
 - id: Playnite
   title: Playnite
   category: gaming
