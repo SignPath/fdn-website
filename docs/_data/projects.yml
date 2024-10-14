@@ -34,6 +34,14 @@
   repository: github.com/macarooni-man/auto-mcs
   license: GPLv3
 
+- id: Auto-Neutron
+  title: Auto-Neutron
+  tagline: Auto_Neutron - An automatic neutron route plotter for Elite Dangerous
+  description: A route plotter for Elite dangerous that plots routes from Spansh's API or CSV files, and then automatically pastes system into clipboard or automatically routes systems with AutoHotkey.
+  homepage: github.com/Numerlor/Auto_Neutron
+  repository: github.com/Numerlor/Auto_Neutron
+  license: GPLv3
+
 - id: Brewtarget
   title: Brewtarget
   category: educational
