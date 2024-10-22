@@ -107,6 +107,15 @@
   repository: github.com/ietf-tools/editor
   license: BSD-3-clause
 
+- id: Drawpile
+  title: Drawpile
+  category: gaming
+  tagline: Drawpile – a collaborative drawing program
+  description: Drawpile is a collaborative drawing program that lets multiple people draw, sketch, paint and animate on the same canvas simultaneously. 
+  homepage: drawpile.net/
+  repository: github.com/drawpile/Drawpile
+  license: GPLv3
+
 - id: DSPaul-COMPASS
   title: DSPaul-COMPASS
   category: gaming
@@ -538,6 +547,15 @@
   repository: github.com/TurboVNC/turbovnc
   license: GPLv2
 
+- id: Source 2 Viewer
+  title: ValveResourceFormat  
+  category: gaming
+  tagline: View, extract, and decompile Source 2 game assets with ease.
+  description: Source 2 Viewer is a powerful tool that allows you to browse VPK archives, view, extract, and decompile Source 2 assets, including maps, models, materials, textures, sounds, and more.
+  homepage: valveresourceformat.github.io/
+  repository: github.com/ValveResourceFormat/ValveResourceFormat
+  license: MIT
+  
 - id: Vim
   title: Vim
   category: developer-tools
@@ -547,6 +565,15 @@
   repository: github.com/vim/vim-win32-installer
   wikipedia: en.wikipedia.org/wiki/Vim_(text_editor)
   license: Vim
+
+- id: VSCodium
+  title: VSCodium
+  category: developer-tools
+  tagline: Free/Libre Open Source Software Binaries of Visual Studio Code
+  description: VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor Visual Studio Code.
+  homepage: vscodium.com/
+  repository: github.com/VSCodium/vscodium
+  license: MIT
 
 - id: WangkanaiDetection
   title: Wangkanai Detection
