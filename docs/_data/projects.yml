@@ -36,11 +36,21 @@
 
 - id: Auto-Neutron
   title: Auto-Neutron
+  category: gaming
   tagline: Auto_Neutron - An automatic neutron route plotter for Elite Dangerous
   description: A route plotter for Elite dangerous that plots routes from Spansh's API or CSV files, and then automatically pastes system into clipboard or automatically routes systems with AutoHotkey.
   homepage: github.com/Numerlor/Auto_Neutron
   repository: github.com/Numerlor/Auto_Neutron
   license: GPLv3
+
+- id: Bloxtrap
+  title: Bloxstrap
+  category: gaming
+  tagline: Bloxstrap - An alternative bootstrapper for Roblox with a bunch of extra features
+  description: Bloxstrap is an alternative bootstrapper (or launcher) for Roblox, providing additional extensible features that Roblox players may want.
+  homepage: bloxstraplabs.com
+  repository: github.com/bloxstraplabs/bloxstrap
+  license: MIT
 
 - id: Brewtarget
   title: Brewtarget
@@ -88,6 +98,15 @@
   homepage: github.com/hhblaze/DBreeze
   repository: github.com/hhblaze/DBreeze
   license: BSD-2-clause
+
+- id: Dlss Updater
+  title: Dlss Updater
+  category: gaming
+  tagline: Dlss Updater is a tool to conveniently configure used dlss-dlls for your games.
+  description: Dlss Updater is a tool to conveniently configure used dlss-dlls for your games.
+  homepage: github.com/Drommedhar/DlssUpdater
+  repository: github.com/Drommedhar/DlssUpdater
+  license: MIT
 
 - id: dnGrep
   title: dnGrep
