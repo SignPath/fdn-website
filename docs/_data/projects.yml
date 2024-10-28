@@ -99,8 +99,8 @@
   repository: github.com/hhblaze/DBreeze
   license: BSD-2-clause
 
-- id: Dlss Updater
-  title: Dlss Updater
+- id: Dlss-Updater
+  title: Dlss-Updater
   category: gaming
   tagline: Dlss Updater is a tool to conveniently configure used dlss-dlls for your games.
   description: Dlss Updater is a tool to conveniently configure used dlss-dlls for your games.
