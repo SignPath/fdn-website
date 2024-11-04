@@ -388,16 +388,6 @@
   repository: github.com/Ruben2776/PicView
   license: GPLv3
 
-- id: Pinta
-  tile: Pinta
-  category: graphics
-  tagline: Pinta: Painting Made Simple
-  description: Pinta is a free, open source program for drawing and image editing. Its goal is to provide users with a simple yet powerful way to draw and manipulate images on Linux, Mac, Windows, and *BSD
-  homepage: github.com/PintaProject/Pinta
-  repository: github.com/PintaProject/Pinta
-  wikipedia: en.wikipedia.org/wiki/Pinta_(software)
-  license: MIT
-
 - id: Playnite
   title: Playnite
   category: gaming
