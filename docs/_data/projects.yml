@@ -185,7 +185,7 @@
   category: other
   tagline: A free Monero desktop wallet
   description: Feather is an easy-to-use, small, and fast graphical wallet for the Monero cryptocurrency. It is beginner-friendly, but also provides an extensive set of optional advanced features. It ships with sane defaults that suit most users, but can be configured for uncommon or high threat models. It serves as a testing grounds for experimental features that may later be adopted in reference wallets.
-  homepage: featherwallet.org/
+  homepage: https://featherwallet.org/
   repository: github.com/feather-wallet/feather
   license: BSD-3-clause
   
@@ -388,15 +388,6 @@
   repository: github.com/Ruben2776/PicView
   license: GPLv3
 
-- id: Playnite
-  title: Playnite
-  category: gaming
-  tagline: A video game library manager and launcher
-  description: Playnite is a video game library manager and launcher with support for wide range of 3rd party libraries and emulation support, providing one unified interface for all games.
-  homepage: playnite.link
-  repository: github.com/JosefNemec/Playnite
-  license: MIT
-
 - id: Pinta
   tile: Pinta
   category: graphics
@@ -405,6 +396,15 @@
   homepage: github.com/PintaProject/Pinta
   repository: github.com/PintaProject/Pinta
   wikipedia: en.wikipedia.org/wiki/Pinta_(software)
+  license: MIT
+
+- id: Playnite
+  title: Playnite
+  category: gaming
+  tagline: A video game library manager and launcher
+  description: Playnite is a video game library manager and launcher with support for wide range of 3rd party libraries and emulation support, providing one unified interface for all games.
+  homepage: playnite.link
+  repository: github.com/JosefNemec/Playnite
   license: MIT
 
 - id: Poe-Lurker
