@@ -179,7 +179,16 @@
   homepage: download.fo/
   repository: github.com/Fabulously-Optimized/fabulously-optimized
   license: BSD-3-clause
-
+  
+- id: Feather-Wallet
+  title: Feather Wallet
+  category: other
+  tagline: A free Monero desktop wallet
+  description: Feather is an easy-to-use, small, and fast graphical wallet for the Monero cryptocurrency. It is beginner-friendly, but also provides an extensive set of optional advanced features. It ships with sane defaults that suit most users, but can be configured for uncommon or high threat models. It serves as a testing grounds for experimental features that may later be adopted in reference wallets.
+  homepage: featherwallet.org/
+  repository: github.com/feather-wallet/feather
+  license: BSD-3-clause
+  
 - id: Filius
   title: Filius
   category: educational
@@ -386,6 +395,16 @@
   description: Playnite is a video game library manager and launcher with support for wide range of 3rd party libraries and emulation support, providing one unified interface for all games.
   homepage: playnite.link
   repository: github.com/JosefNemec/Playnite
+  license: MIT
+
+- id: Pinta
+  tile: Pinta
+  category: graphics
+  tagline: Pinta: Painting Made Simple
+  description: Pinta is a free, open source program for drawing and image editing. Its goal is to provide users with a simple yet powerful way to draw and manipulate images on Linux, Mac, Windows, and *BSD
+  homepage: github.com/PintaProject/Pinta
+  repository: github.com/PintaProject/Pinta
+  wikipedia: en.wikipedia.org/wiki/Pinta_(software)
   license: MIT
 
 - id: Poe-Lurker
