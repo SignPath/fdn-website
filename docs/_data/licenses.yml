@@ -34,3 +34,6 @@ MS-PL:
 Vim:
   name: Free software (Vim license)
   link: https://vimhelp.org/uganda.txt.html#license
+MPL-2.0:
+  name: Mozilla Public License 2.0
+  link: https://opensource.org/licenses/MPL-2.0
