@@ -490,7 +490,7 @@
   tagline: An open installer for Hypixel
   description: SkyClient is a program that installs mods and resource packs for you. We have over 50+ mods and packs for you to simply click and install instantly!
   homepage: skyclient.co
-  repository: github.com/SkyblockClient/SkyblockClient
+  repository: github.com/SkyblockClient/SkyClient-Windows
   license: MIT
 
 - id: Smartmontools
