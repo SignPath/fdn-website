@@ -475,6 +475,15 @@
   repository: github.com/TeamREPENTOGON/REPENTOGON
   license: GPLv2
 
+- id: RSNA DICOM Anonymizer
+  title: RSNA DICOM Anonymizer
+  category: developer tools
+  tagline: The RSNA DICOM Anonymizer is a cross platform, stand-alone de-identification utility.
+  description: DICOM image files are imported either via network transfers or directly from the local file system. When a DICOM file is received, it is de-identified and then stored in a user-defined local storage directory. Anonymized images can be exported either to a remote DICOM server or an AWS S3 Object store such as the RSNA Imaging Archive.
+  homepage: rsna.github.io/anonymizer/
+  repositroy: github.com/RSNA/anonymizer
+  license: RSNA-MIRC
+
 - id: Satisfactory Modding
   title: Satisfactory Modding
   category: gaming
