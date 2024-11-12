@@ -226,10 +226,10 @@
   license: GPLv3
 
 - id: hh-lol-prophet
-  title: chinese: lol对局先知   english: lol game prophet
+  title: chinese-lol对局先知   english-lol game prophet
   category: gaming
   tagline: lol.buffge.com
-  description: chinese: 上等马牛马分析,自动接受对局自动ban pick,基于lol client api 合法不封号. english: Top tier analysis of horses, cows, and horses, automatic acceptance of matches and automatic ban pick, based on the LOL client API for legal account suspension
+  description: chinese- 上等马牛马分析,自动接受对局自动ban pick,基于lol client api 合法不封号. english- Top tier analysis of champs automatic acceptance of matches and automatic ban pick, based on the LOL client API for legal account suspension
   homepage: lol.buffge.com
   repository: github.com/real-web-world/hh-lol-prophet
   license: MIT
