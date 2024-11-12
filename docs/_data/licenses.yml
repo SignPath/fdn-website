@@ -37,3 +37,6 @@ Vim:
 MPL-2.0:
   name: Mozilla Public License 2.0
   link: https://opensource.org/licenses/MPL-2.0
+RSNA-MIRC:
+  name: RSNA MIRC Public License Version 2.0
+  link: https://github.com/RSNA/anonymizer/blob/master/LICENSE
