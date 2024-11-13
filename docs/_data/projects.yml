@@ -538,6 +538,15 @@
   repository: github.com/snoopwpf/snoopwpf
   license: MS-PL
 
+- id: SoulFire
+  title: SoulFire
+  category: gaming
+  tagline: Advanced Minecraft Server-Stresser Tool
+  description: Launch bot attacks on your servers to measure performance. 
+  homepage: soulfiremc.com/
+  repository: github.com/AlexProgrammerDE/SoulFireClient
+  license: GPLv3
+
 - id: SQLiteBrowser
   title: SQLiteBrowser
   category: developer-tools
