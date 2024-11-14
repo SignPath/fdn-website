@@ -191,7 +191,8 @@
 
 - id: Fibratus
   title: Fibratus
-  category: A modern tool for Windows kernel exploration and tracing 
+  category: developer tools
+  tagline: A modern tool for Windows kernel exploration and tracing 
   description: Fibratus is a tool for exploration and tracing of the Windows kernel. It lets you trap system-wide events such as process life-cycle, file system I/O, registry modifications or network requests among many other observability signals. In a nutshell, Fibratus allows for gaining deep operational visibility into the Windows kernel but also processes running on top of it. It requires no drivers nor third-party software. Events can be shipped to a wide array of output sinks or dumped to capture files for local inspection and forensics analysis. The powerful filtering engine permits drilling into the event flux entrails and the rules engine is capable of detecting stealthy adversary attacks and sophisticated threats. You can use filaments to extend Fibratus with your own arsenal of tools and so leverage the power of the Python ecosystem.
   homepage: fibratus.io
   repository: github.com/rabbitstack/fibratus
