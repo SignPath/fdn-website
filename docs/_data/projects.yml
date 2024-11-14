@@ -388,6 +388,15 @@
   repository: github.com/BuzzteeBear/OpenXR-MotionCompensation
   license: LGPLv2_1
 
+- id: ParsecVDisplay
+  title: ParsecVDisplay
+  category: developer tools
+  tagline: ParsecVDisplay - Perfect virtual display for game streaming
+  description: This project provides a standalone solution for creating virtual displays on a Windows host using the Parsec Virtual Display Driver (VDD), independent of the Parsec app. The Parsec VDD enables virtual displays on Windows 10+ systems, it leverages the IddCx API (Indirect Display Driver) to generate virtual displays with support for high resolutions and refresh rates, including up to 4K and 240 Hz. This capability makes it a versatile tool for gaming, streaming, or remote work, allowing users to simulate multiple screens for an enhanced, flexible visual experience. ParsecVDisplay is a comprehensive virtual display manager for Parsec VDD, built with C# and WPF.
+  homepage: github.com/nomi-san/parsec-vdd
+  repository: github.com/nomi-san/parsec-vdd
+  license: MIT
+
 - id: PicView
   title: PicView
   category: graphics
@@ -500,6 +509,15 @@
   description: A desktop application mod manager for the game Satisfactory that replaces the need for manual mod downloading. It is available on all major operating systems and works with all game distribution platforms. Within the app you can browse, download and mange mods, as well as share profiles and manage mods on dedicated servers.
   homepage: ficsit.app/
   repository: github.com/satisfactorymodding/SatisfactoryModManager
+  license: GPLv3
+
+- id: SDRangel
+  title: SDRangel
+  category: audio
+  tagline: TX & RX Software Defined Radio
+  description: SDRangel is a Software Defined Radio application. It is used with RF hardware to transmit, receive and anlyse radio signals. The signals can be displayed using a 2D or 3D spectrogram and oscilloscope. Modems for a variety of communications protocols allow transmission and decoding of audio, video, text and telemetry.
+  homepage: www.sdrangel.org/
+  repository: github.com/f4exb/sdrangel
   license: GPLv3
 
 - id: SkyClient
