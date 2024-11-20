@@ -703,6 +703,15 @@
   repository: github.com/wangkanai/Detection
   license: Apache-v2_0
 
+- id: welle.io
+  title: welle.io
+  category: audio
+  tagline: A DAB/DAB+ Software Defined Radio (SDR) 
+  description: welle.io is an open source software defined radio for receiving and decoding DAB/DAB+ digital radio.
+  homepage: welle.io/
+  repository: github.com/AlbrechtL/welle.io/
+  license: GPLv2
+
 - id: WelsonJS
   title: WelsonJS
   category: developer-tools
