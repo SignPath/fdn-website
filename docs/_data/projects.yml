@@ -225,6 +225,15 @@
   repository: github.com/gitextensions/gitextensions
   license: GPLv3
 
+- id: heob
+  title: heob
+  category: developer tools
+  tagline: Detects buffer overflows and memory leaks
+  description: Can be used to find heap-related errors, like buffer-overflows, use-after-free, and memory leaks. Also contains a sampling profiler, and both memory leaks and profiler results can be output as flame-graphs.
+  homepage: github.com/ssbssa/heob
+  repository: github.com/ssbssa/heob
+  license: BSL-1.0
+
 - id: HeroicGamesLauncher
   title: Heroic Games Launcher
   category: gaming
