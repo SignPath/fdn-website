@@ -470,15 +470,6 @@
   repository: github.com/PoE-Overlay-Community/PoE-Overlay-Community-Fork
   license: MIT
 
-- id: PotatoVN
-  title: PotatoVN
-  category: gaming
-  tagline: A software to help you manage your visual novels in your computer
-  description: PotatoVN is a VisualNovel management tool, designed to provide a convenient game management platform for galgame fans. It can help you: automatically retrieve games in folders; automatically obtain game information from multiple databases (currently supports bangumi, visual novel database), and synchronize the play status from the account; synchronize game archives with the cloud (this function requires any synchronization software on the computer to synchronize archive folders, such as OneDrive, NextCloud, Nut Cloud, Baidu Cloud Sync Disk, etc.); count game play time; automatically decompress games from compressed packages, and automatically identify and add them to the game library.
-  homepage: https://potatovn.net/
-  repository: github.com/GoldenPotato137/PotatoVN
-  license: Apache-v2_0
-
 - id: PWAsForFirefox
   title: PWAsForFirefox
   category: productivity
