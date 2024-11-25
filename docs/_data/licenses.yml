@@ -43,3 +43,6 @@ RSNA-MIRC:
 BSL-1.0:
   name: Boost Software License 1.0
   link: https://opensource.org/license/bsl-1-0
+Apache-2.0:
+  name: Apache License, Version 2.0
+  link: https://www.apache.org/licenses/LICENSE-2.0
