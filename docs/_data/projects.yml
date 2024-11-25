@@ -388,6 +388,17 @@
   repository: github.com/OpenNumismat/open-numismat
   license: GPLv3
 
+
+- id: OpenRCT2
+  title: OpenRCT2
+  category: gaming
+  tagline: OpenRCT2
+  description: An open source re-implementation of RollerCoaster Tycoon 2 🎢 
+  homepage: openrct2.io/
+  repository: github.com/OpenRCT2/OpenRCT2
+  wikipedia: en.wikipedia.org/wiki/OpenRCT2
+  license: GPLv3
+
 - id: OpenSC
   title: OpenSC
   category: developer-tools
