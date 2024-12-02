@@ -343,6 +343,15 @@
   repository: github.com/BornToBeRoot/NETworkManager
   license: GPLv3
 
+- id: Nortantis
+  title: Nortantis
+  category: gaming
+  tagline: Nortantis Fantasy Map Creator
+  description: Nortantis is a free, open source fantasy map generator and editor, created by an author for authors. With it, you can quickly generate a random world, then fine tune it to match your story’s world. 
+  homepage: jandjheydorn.com/nortantis
+  repository: github.com/jeheydorn/nortantis
+  license: AGPL3
+
 - id: novelWriter
   title: novelWriter
   category: educational
@@ -498,6 +507,15 @@
   homepage: pwasforfirefox.filips.si/
   repository: github.com/filips123/PWAsForFirefox
   license: MPL-2.0
+
+- id: PyJibe
+  title: PyJibe
+  category: science
+  tagline: AFM data analysis with an emphasis on biological specimens 
+  description: PyJibe is a user interface for data analysis in atomic force microscopy (AFM) with an emphasis on biological specimens, such as tissue sections or single cells.
+  homepage: pyjibe.readthedocs.io/
+  repository: github.com/AFM-analysis/PyJibe
+  license: GPL-3.0
 
 - id: PySceneDetect
   title: PySceneDetect
