@@ -74,7 +74,7 @@
 - id: ClassIsland
   title: ClassIsland
   category: educational
-  tagline: ClassIsland - A schedule information displaying tool for multimedia screens in classroom
+  tagline: A schedule information displaying tool for multimedia screens in classroom
   description: ClassIsland is an information display tool for class schedules on multimedia screens in the classroom. It supports reminders at certain time points, such as when classes start and when classes end, and supports emphasizing reminders through full-screen special effects, voice, sound effects, etc. ClassIsland also supports displaying a variety of practical information, such as weather, countdown, etc., and supports extending the functionality of the application through plugins.
   homepage: classisland.tech/
   repository: github.com/ClassIsland/ClassIsland/
