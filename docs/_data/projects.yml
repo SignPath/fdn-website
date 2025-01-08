@@ -731,6 +731,15 @@
   repository: github.com/DRSchlaubi/tonbrett
   license: MIT
 
+- id: tosu
+  title: tosu
+  category: gaming
+  tagline: a powerful memory reader for rhythm game 
+  description: A program that passively reads osu! memory to provide third parties huge layer of JSON, based on which you can build cool and beautiful interfaces, both through HTML+JS, and with any programming language using websockets
+  homepage: tosu.app
+  repository: github.com/tosuapp/tosu
+  license: LGPLv3
+
 - id: Transmission
   title: Transmission
   category: other
