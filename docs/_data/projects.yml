@@ -613,6 +613,15 @@
   repository: github.com/f4exb/sdrangel
   license: GPLv3
 
+- id: simple-acme
+  title: simple-acme
+  category: developer tools
+  tagline: A swiss army knife for ACME certificate management.
+  description: A command line interface to automatically create, install and update ACME certificates.
+  homepage: simple-acme.com/
+  repository: github.com/simple-acme/simple-acme/
+  license: Apache-v2_0
+
 - id: SkyClient
   title: SkyClient
   category: gaming
