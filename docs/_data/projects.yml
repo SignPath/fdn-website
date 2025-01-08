@@ -108,6 +108,16 @@
   repository: github.com/hhblaze/DBreeze
   license: BSD-2-clause
 
+- id: DCOR-Aid
+  title: DCOR-Aid
+  category: science
+  tagline: Graphical user interface for accessing the Deformability Cytometry Open Repository
+  description: DCOR-Aid is an interface to DCOR, the Deformability Cytometry Open Repository. The software facilitates data upload, download, sharing and searching, and it integrates with existing software for day-to-day deformability cytometry data analysis.
+  homepage: dcor.mpl.mpg.de
+  repository: github.com/DCOR-dev/DCOR-Aid/
+  wikipedia: dc.readthedocs.io    
+  license: GPLv3
+
 - id: Dlss-Updater
   title: Dlss-Updater
   category: gaming
@@ -753,7 +763,7 @@
 - id: Virtual Display Driver
   title: Virtual Display Driver
   category: developer tools
-  tagline: Add virtual monitors to your windows 10/11 device! 
+  tagline: Add virtual monitors to your windows 10/11 device
   description: Based on Microsoft Indirect Display Driver Sample. This creates a virtual display in Windows that acts and functions just like a real one. It's useful for streaming, virtual reality applications, recording, headless servers, etc. The benefit over a physical display is the ability to adjust resolutions and refresh rates beyond the physical displays capabilities. For example, this would enable the ability to stream a game from your home PC using game streaming software at 240hz at 8K while owning a 60hz 1080p monitor (unrealistic, but explains the abilities well). For servers without displays, this enabled remote desktop and screen streaming to other systems as if there were a display installed.
   homepage: vdd.mikethetech.com/
   repository: github.com/VirtualDisplay/Virtual-Display-Driver
