@@ -43,7 +43,7 @@
   repository: github.com/Numerlor/Auto_Neutron
   license: GPLv3
   
-- id: Bitcoin Safe
+- id: Bitcoin-Safe
   title: Bitcoin Safe
   category: other
   tagline: A bitcoin savings wallet for the entire family
@@ -465,7 +465,7 @@
   license: LGPLv2_1
 
 - id: OpenXR-MotionCompensation
-  title: OpenXR-MotionCompensation
+  title: OpenXR MotionCompensation
   category: gaming
   tagline: Enables the use of a VR headset in combination with a motion simulator
   description: When using a motion simulator in combination with a VR headset (hmd) the movement of the simulator causes the in-game camera to change alongside your position in the real world. In flight or racing simulations you are basically feel being pushed around inside the cockpit when the motion rig moves. Motion compensation reduces or ideally removes that effect by locking the in-game world to the pose of the motion rig. This software aims to provide an API layer for motion compensation to be used with applications and hmds supporting the OpenXR standard. 
@@ -483,7 +483,7 @@
   license: MIT
 
 - id: Pengu-Loader
-  title: Pengu-Loader
+  title: Pengu Loader
   category: gaming
   tagline: Build your unmatched LoL Client
   description: Pengu Loader is a powerful plugin loader tailored for the League of Legends Client, enabling limitless customization and personalization. With Pengu Loader, you can seamlessly load JavaScript plugins directly into the Client, allowing you to transform its appearance, add unique features, and integrate custom content to enhance your overall experience.
@@ -606,7 +606,7 @@
   license: GPLv2
 
 - id: RSNA-DICOM-Anonymizer
-  title: RSNA-DICOM-Anonymizer
+  title: RSNA DICOM Anonymizer
   category: developer tools
   tagline: The RSNA DICOM Anonymizer is a cross platform, stand-alone de-identification utility.
   description: DICOM image files are imported either via network transfers or directly from the local file system. When a DICOM file is received, it is de-identified and then stored in a user-defined local storage directory. Anonymized images can be exported either to a remote DICOM server or an AWS S3 Object store such as the RSNA Imaging Archive.
@@ -614,7 +614,7 @@
   repository: github.com/RSNA/anonymizer
   license: RSNA-MIRC
 
-- id: Satisfactory Modding
+- id: Satisfactory-Modding
   title: Satisfactory Modding
   category: gaming
   tagline:  A mod manager for easy installation of mods and modloader for Satisfactory 
@@ -695,7 +695,7 @@
   repository: github.com/sqlitebrowser/sqlitebrowser
   license: GPLv3
 
-- id: Starship Prompt
+- id: Starship-Prompt
   title: Starship Prompt
   category: developer-tools
   tagline: Starship - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -733,7 +733,7 @@
   license: GPLv3
 
 - id: Thunder-Engine
-  title: Thunder-Engine
+  title: Thunder Engine
   category: gaming
   tagline: Cross-platform 2D and 3D game engine with modular architecture 
   description: Thunder Engine is free for all purposes an open-source multi-functional lightweight game engine for creating 2D and 3D games. It provides a basic framework and extensible tools. So developers can focus on the creation, and the Thunder Engine will do the routine.
@@ -778,7 +778,7 @@
   repository: github.com/TurboVNC/turbovnc
   license: GPLv2
 
-- id: Source 2 Viewer
+- id: Source-2-Viewer
   title: ValveResourceFormat  
   category: gaming
   tagline: View, extract, and decompile Source 2 game assets with ease.
@@ -798,7 +798,7 @@
   license: Vim
 
 - id: Virtual-Display-Driver
-  title: Virtual-Display-Driver
+  title: Virtual Display Driver
   category: developer-tools
   tagline: Add virtual monitors to your windows 10/11 device
   description: Based on Microsoft Indirect Display Driver Sample. This creates a virtual display in Windows that acts and functions just like a real one. It is useful for streaming, virtual reality applications, recording, headless servers, etc. The benefit over a physical display is the ability to adjust resolutions and refresh rates beyond the physical displays capabilities. For example, this would enable the ability to stream a game from your home PC using game streaming software at 240hz at 8K while owning a 60hz 1080p monitor (unrealistic, but explains the abilities well). For servers without displays, this enabled remote desktop and screen streaming to other systems as if there were a display installed.
