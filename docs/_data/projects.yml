@@ -43,15 +43,6 @@
   repository: github.com/Numerlor/Auto_Neutron
   license: GPLv3
 
-- id: Bitcoin Safe
-  title: Bitcoin Safe
-  category: other
-  tagline: A bitcoin savings wallet for the entire family
-  description: The Bitcoin savings wallet for securing your bitcoin in Single and Multisig. With the focus on long term saving the wallet puts security first. The Bitcoin Safe setup wizard makes Single and Multi-signature wallets easy for non-technical people to setup.  Step-by-step instructions on how to use the hardware wallets and  receive and send tests ensure everything works.
-  homepage: www.bitcoin-safe.org
-  repository: github.com/andreasgriffin/bitcoin-safe
-  license: GPL3
-
 - id: Bloxtrap
   title: Bloxstrap
   category: gaming
