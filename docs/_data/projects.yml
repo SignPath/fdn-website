@@ -118,7 +118,7 @@
   license: BSD-2-clause
 
 - id: DCOR-Aid
-  title: DCOR-Aid
+  title: DCOR Aid
   category: science
   tagline: Graphical user interface for accessing the Deformability Cytometry Open Repository
   description: DCOR-Aid is an interface to DCOR, the Deformability Cytometry Open Repository. The software facilitates data upload, download, sharing and searching, and it integrates with existing software for day-to-day deformability cytometry data analysis.
@@ -128,7 +128,7 @@
   license: GPLv3
 
 - id: Dlss-Updater
-  title: Dlss-Updater
+  title: Dlss Updater
   category: gaming
   tagline: Dlss Updater is a tool to conveniently configure used dlss-dlls for your games.
   description: Dlss Updater is a tool to conveniently configure used dlss-dlls for your games.
@@ -164,7 +164,7 @@
   license: GPLv3
 
 - id: DSPaul-COMPASS
-  title: DSPaul-COMPASS
+  title: DSPaul COMPASS
   category: gaming
   tagline: All yourTabletop RPG resources in one place. 
   description: The Codex Organizer to make Pen-and-paper Adventuring Super Simple or COMPASS for short is a desktop application to organize and manage all your TTRPG rulebooks, maps, character sheets and other resources. 
@@ -173,7 +173,7 @@
   license: GPLv3
 
 - id: DVR-Scan
-  title: DVR-Scan
+  title: DVR Scan
   category: graphics
   tagline: Cross-platform command-line (CLI) application that automatically detects motion events in video files
   description: Tool for extracting scenes with motion from security camera/DVR footage. Written in Python, depends on OpenCV.
@@ -244,7 +244,7 @@
   repository: github.com/flameshot-org/flameshot
   license: GPLv3
 
-- id: Floorp Browser  
+- id: Floorp-Browser  
   title: Floorp Browser
   category: accessibility
   tagline: The flexible browser based on Firefox
