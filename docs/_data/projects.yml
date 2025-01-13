@@ -244,16 +244,6 @@
   repository: github.com/flameshot-org/flameshot
   license: GPLv3
 
-- id: Floorp Browser  
-  title: Floorp Browser
-  category: accessibility
-  tagline: Floorp - The flexible browser based on Firefox
-  description: Floorp is an open-source web browser based on Mozilla Firefox, developed by the Japanese student community Ablaze. It offers extensive customization options, including vertical tabs, multifunctional sidebars, and support for custom CSS, enhancing user flexibility. Floorp maintains compatibility with Firefox add-ons and is regularly updated to ensure security and performance. 
-  homepage: floorp.app
-  repository: github.com/Floorp-Projects/Floorp
-  wikipedia: en.wikipedia.org/wiki/Floorp
-  license: MPL-2.0
-  
 - id: GitExtensions
   title: Git Extensions
   category: developer-tools
