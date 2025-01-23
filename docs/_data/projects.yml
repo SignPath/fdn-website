@@ -308,6 +308,15 @@
   repository: github.com/Predidit/Kazumi  
   license: GPLv3
 
+- id: KeeperFX
+  title: KeeperFX
+  category: gaming
+  tagline: Opensource remake and Fan eXpansion of Dungeon Keeper
+  description: KeeperFX is an open-source remake and fan expansion of Dungeon Keeper. The main goal of KeeperFX is to preserve and expand upon the original Dungeon Keeper experience, offering many new features, improvements, and much more while staying true to the original feeling of the game. 
+  homepage: keeperfx.net
+  repository: github.com/dkfans/keeperfx
+  license: GPLv2
+
 - id: KSP-CKAN
   title: KSP-CKAN
   category: gaming
