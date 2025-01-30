@@ -88,6 +88,15 @@
   homepage: classisland.tech/
   repository: github.com/ClassIsland/ClassIsland/
   license: MIT
+
+- id: ClassWidgets
+  title: ClassWidgets
+  category: educational
+  tagline: ClassWidgets - a desktop component application for displaying course information
+  description: ClassWidgets is a desktop widget application that displays the current course schedule.
+  homepage: cw.rinlit.cn/
+  repository: github.com/Class-Widgets/Class-Widgets
+  license: GPLv3
   
 - id: CollapseLauncher
   title: Collapse Launcher
