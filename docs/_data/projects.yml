@@ -136,6 +136,15 @@
   wikipedia: dc.readthedocs.io    
   license: GPLv3
 
+- id: DC-tools-for-Windows
+  title: DC-tools-for-Windows
+  category: science
+  tagline: Tools for automating data analysis in deformability cytometry 
+  description: The toolset comprises of command-line utilities that are used for automating data analysis in deformability cytometry. The tools can be used for tasks such as dataset compression, dataset verification, data postprocessing, and data upload to a Deformability Cytometry Open Repository (DCOR) instance.
+  homepage: github.com/DC-analysis/DC-tools-for-Windows/
+  repository: github.com/DC-analysis/DC-tools-for-Windows/
+  license: GPLv3
+
 - id: Dlss-Updater
   title: Dlss Updater
   category: gaming
