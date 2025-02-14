@@ -55,9 +55,14 @@ The code signing certificate is issued to *SignPath Foundation*. This means that
 
 * **No hacking tools**
   
-  Software must not include features that may be used to circumvent security measures or exploit security vulnerabilities of their execution environment (e.g. operating system), including security diagnosis tools.
+  Software must not include features designed to identify or exploit security vulnerabilities or circumvent security measures of their execution environment. This includes security diagnosis tools that actively scan for and highlight exploitable vulnerabilities, e.g. by identifying unprotected network ports, missing password protection etc.
+  
+  This clause _does not_ probibit:
 
-  We are aware of the utility of white hat security tools, but cannot sign them using SignPath Foundation certificates.
+  * features that detect _actual_ security breaches, e.g. traces of being hacked, presence of malware or potentially unwanted programs 
+  * scanning software artifacts during development or testing (since this occurs outside the software's execution environment)
+
+  We are aware of the utility of white hat security tools, but cannot sign them using SignPath Foundation certificates at this time.
 
 ### Conditions for end user interactions
 
