@@ -344,6 +344,15 @@
   repository: github.com/KSP-CKAN/CKAN
   license: MIT
 
+- id: LGTVCompanion
+  title: LGTVCompanion
+  category: other
+  tagline: Power On and Off WebOS LG TVs together with your PC
+  description: Power On and Off WebOS LG TVs together with your PC
+  homepage: github.com/JPersson77/LGTVCompanion
+  repository: github.com/JPersson77/LGTVCompanion
+  license: MIT
+
 - id: libjpeg-turbo
   title: libjpeg-turbo
   category: graphics
