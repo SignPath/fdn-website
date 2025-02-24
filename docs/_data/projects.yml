@@ -641,6 +641,15 @@
   repository: github.com/RiddleTime/Race-Element
   license: GPLv3
 
+- id: RadToolz
+  title: RadToolz
+  category: productivity
+  tagline: A Microsoft Excel® add-in for radiation safety professionals
+  description: RadToolz is a Microsoft Excel® add-in that brings several radiation safety equations into easy to implement functions:  These functions include: Half-life in seconds, minutes, hours, or years; Specific activity in curies/gram; Enumerates decay series; Radioactive decay for series; Dose conversion factors for inhalation and ingestion (ICRP 68 and 72); Simple Gaussian plume dispersion (χ/Q).
+  homepage: www.radtoolz.com/
+  repository: github.com/radtoolz/RadToolz
+  license: MIT
+
 - id: rainmeter
   title: Rainmeter
   category: productivity
