@@ -181,6 +181,15 @@
   repository: github.com/drawpile/Drawpile
   license: GPLv3
 
+- id: Driver-Store-Explorer
+  title: Driver Store Explorer
+  category: developer-tools
+  tagline: Driver Store Explorer [RAPR] 
+  description: Driver Store Explorer [RAPR] makes it easier to deal with Windows driver store. Supported operations include list/add/install/delete third-party driver packages.
+  homepage: github.com/lostindark/DriverStoreExplorer
+  repository: github.com/lostindark/DriverStoreExplorer
+  license: GPLv2
+
 - id: DSPaul-COMPASS
   title: DSPaul COMPASS
   category: gaming
@@ -517,6 +526,15 @@
   homepage: github.com/nomi-san/parsec-vdd
   repository: github.com/nomi-san/parsec-vdd
   license: MIT
+
+- id: PDF-Stitcher
+  title: PDF Stitcher
+  category: educational
+  tagline: The open source PDF stitching software for sewists, by sewists.
+  description: PDF Sticher is a utility for stitching together many PDF pages from one document into a single page. This program was created in order to convert sewing patterns into a convenient format for projecting, though it could be used to stitch together any PDF. Additional features include selecting layers to appear in the final document and layer-specific line property modifications, such as line thickness and colour.
+  homepage: www.pdfstitcher.org/
+  repository: github.com/cfcurtis/pdfstitcher
+  license: MPL-2.0
 
 - id: Pengu-Loader
   title: Pengu Loader
