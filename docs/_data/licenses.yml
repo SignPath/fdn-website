@@ -43,3 +43,7 @@ RSNA-MIRC:
 BSL-1.0:
   name: Boost Software License 1.0
   link: https://opensource.org/license/bsl-1-0
+Unlicense:
+  name: The Unlicense
+  link: https://opensource.org/license/unlicense
+  
