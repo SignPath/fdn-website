@@ -389,6 +389,15 @@
   repository: github.com/lichess-org/fishnet
   license: GPLv3
 
+- id: Linuxfabrik-Monitoring-Plugins
+  title: Linuxfabrik Monitoring Plugins
+  category: developer tools
+  tagline: Python-Based Monitoring Plugins for Seamless Network Management
+  description: Check plugins for Icinga and other Nagios-compatible monitoring applications. Each plugin is a standalone command line tool (written in Python) that provides a specific type of check
+  homepage: www.linuxfabrik.ch/de/ueber-uns/open-source
+  repository: github.com/Linuxfabrik/monitoring-plugins
+  license: Unlicense
+
 - id: litedb.org
   title: LiteDB
   categoy: developer-tools
