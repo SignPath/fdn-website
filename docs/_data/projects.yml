@@ -344,6 +344,15 @@
   repository: github.com/dkfans/keeperfx
   license: GPLv2
 
+- id: Kindle-Comic-Converter
+  title: Kindle Comic Converter
+  category: educational
+  tagline: Optimize comics for eink readers like Kindle and Kobo!
+  description: Kindle Comic Converter is a Python app to convert and optimize manga/comics for eink readers like Kindle! It was initially designed for Kindle but also supports Kobo, ReMarkable, and more! Supported source file formats include JPG, PNG, GIF, CBZ, etc and supported output formats include EPUB, MOBI, and CBZ.
+  homepage: github.com/ciromattia/kcc
+  repository: github.com/ciromattia/kcc
+  license: ISC 
+
 - id: KSP-CKAN
   title: KSP-CKAN
   category: gaming
