@@ -326,6 +326,15 @@
   repository: github.com/hyphanet/sign-windows-installer
   license: GPLv2
 
+- id: inkstitch
+  title: inkstitch
+  category: other
+  tagline: An open-source machine embroidery design platform based on Inkscape
+  description: Ink/Stitch aims to be a full-fledged, cross-platform embroidery digitizing platform based entirely on free, open-source software. Our goal is to be approachable for hobbyists while also providing the power needed by professional digitizers. 
+  homepage: inkstitch.org/
+  repository: github.com/inkstitch/inkstitch
+  license: GPLv3
+
 - id: Kazumi
   title: Kazumi
   category: other
