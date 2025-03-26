@@ -16,6 +16,15 @@
   repository: github.com/anypackage/anypackage
   license: MIT
 
+- id: Anx-Reader
+  title: Anx Reader
+  category: educational
+  tagline: Anx Reader - Featuring powerful AI capabilities, it makes reading smarter and more focused.
+  description: Anx Reader, a thoughtfully crafted e-book reader designed for book enthusiasts, supports various formats with powerful AI capabilities.
+  homepage: github.com/Anxcye/anx-reader
+  repository: github.com/Anxcye/anx-reader
+  license: GPLv3
+
 - id: Archi
   title: Archi
   category: developer tools
@@ -280,6 +289,15 @@
   repository: github.com/Floorp-Projects/Floorp
   wikipedia: en.wikipedia.org/wiki/Floorp
   license: MPL-2.0  
+
+- id: Folo
+  title: Folo
+  category: accessibility
+  tagline: Follow everything in one place
+  description: As they say, your thoughts are what you read—and we’ve been consuming noisy feeds for too long! Folo organizes content into one timeline, keeping you updated on what matters, noise-free. Share lists, explore collections, and enjoy distraction-free browsing.
+  homepage: follow.is/
+  repository: github.com/RSSNext/Folo
+  license: GPLv3
 
 - id: GitExtensions
   title: Git Extensions
