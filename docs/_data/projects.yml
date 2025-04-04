@@ -534,6 +534,14 @@
   repository: github.com/OpenNumismat/open-numismat
   license: GPLv3
 
+- id: okww
+  title: okww
+  category: productivity
+  tagline: okww - Automation for Wuthering Waves
+  description: This tool automates gameplay in Wuthering Waves using computer vision and win32api, enabling background operation for efficient resource farming and task completion. It streamlines daily activities by offering one-press clearing for daily tasks and Tacet Fields, and automates combat in various game modes, including Abyss, the open world, and Tacet Fields. Additionally, it enhances user experience by automatically skipping dialogs during quests and picking up in-game items like Echos, flowers, and chests. With support for all game languages for most features, it provides a versatile automation solution.
+  homepage: github.com/ok-oldking/ok-wuthering-waves
+  repository: github.com/ok-oldking/ok-wuthering-waves
+  license: AGPL3
 
 - id: OpenRCT2
   title: OpenRCT2
