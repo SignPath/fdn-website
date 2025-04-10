@@ -4,6 +4,9 @@ AGPL3:
 Apache-v2_0:
   name: Apache License 2.0
   link: https://www.apache.org/licenses/LICENSE-2.0
+0BSD:
+  name: Zero-Clause BSD
+  link: https://opensource.org/license/0bsd
 BSD-2-clause:
   name: 2-clause BSD
   link: https://opensource.org/licenses/BSD-2-Clause
