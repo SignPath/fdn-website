@@ -802,6 +802,15 @@
   repository: github.com/AlexProgrammerDE/SoulFireClient
   license: GPLv3
 
+- id: Spectral
+  title: Spectral
+  category: other
+  tagline: Sinclair ZX Spectrum emulator from the 80s, for Windows, Linux and MacOS.
+  description: Spectral is Sinclair ZX Spectrum emulator from the 80s computer. Probably the easiest to use ZX emulator of its kind. The emulator and its interface can be used just with a mouse.
+  homepage: spectral.zxe.io
+  repository: github.com/r-lyeh/Spectral
+  license: 0BSD
+
 - id: SQLiteBrowser
   title: SQLiteBrowser
   category: developer-tools
