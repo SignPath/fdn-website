@@ -9,7 +9,7 @@
 
 - id: AnyPackage
   title: AnyPackage
-  category: developer tools
+  category: developer-tools
   tagline: PowerShell unified package management interface
   description: AnyPackage is a cross-platform PowerShell unified package management interface. Manage multiple package managers from a single set of commands. 
   homepage: anypackage.dev
@@ -27,7 +27,7 @@
 
 - id: Archi
   title: Archi
-  category: developer tools
+  category: developer-tools
   tagline: ArchiMate Modelling Toolkit
   description: The Archi modelling toolkit is targeted toward all levels of Enterprise Architects and Modellers. It provides a solution to users who may be making their first steps in the ArchiMate modelling language, or who are looking for an open source, cross-platform ArchiMate modelling tool for their company or institution and wish to engage with the language.
   homepage: archimatetool.com/
@@ -47,9 +47,18 @@
   title: Auto Neutron
   category: gaming
   tagline: Auto_Neutron - An automatic neutron route plotter for Elite Dangerous
-  description: A route plotter for Elite dangerous that plots routes from Spansh's API or CSV files, and then automatically pastes system into clipboard or automatically routes systems with AutoHotkey.
+  description: A route plotter for Elite dangerous that plots routes from Spansh API or CSV files, and then automatically pastes system into clipboard or automatically routes systems with AutoHotkey.
   homepage: github.com/Numerlor/Auto_Neutron
   repository: github.com/Numerlor/Auto_Neutron
+  license: GPLv3
+
+- id: Balatro-Mod-Manager
+  title: Balatro Mod Manager
+  category: gaming
+  tagline: Balatro Mod Manager - A standalone mod manager for Balatro that makes finding, downloading, and installing mods easy.
+  description: Balatro Mod Manager (BMM) is a standalone application that makes finding, downloading, and installing mods for Balatro simple and convenient. Unlike manual mod installation that requires editing files and troubleshooting errors, BMM automates the entire process and provides a user-friendly interface to manage your mods.
+  homepage: balatro-mod-manager.dasguney.com/
+  repository: github.com/skyline69/balatro-mod-manager
   license: GPLv3
   
 - id: Bitcoin-Safe
@@ -154,6 +163,15 @@
   repository: github.com/DC-analysis/DC-tools-for-Windows/
   license: GPLv3
 
+- id: Ditto
+  title: Ditto
+  category: productivity
+  tagline: Clipboard Manager
+  description: Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
+  homepage: ditto-cp.sourceforge.io/
+  repository: github.com/sabrogden/Ditto
+  license: GPLv3
+  
 - id: Dlss-Updater
   title: Dlss Updater
   category: gaming
@@ -235,6 +253,15 @@
   repository: github.com/etlegacy/etlegacy/
   license: GPLv3
 
+- id: ExplorerTabUtility
+  title: ExplorerTabUtility
+  category: developer-tools
+  tagline: Supercharge Windows 11 File Explorer with tab management utilities
+  description: Explorer Tab Utility enhances Windows 11 File Explorer by automatically converting new windows to tabs, allowing users to duplicate tabs, reopen closed ones, navigate with custom shortcuts, and manage tabs efficiently. It provides a cleaner and more organized file management experience through a lightweight, non-intrusive utility.
+  homepage: github.com/w4po/ExplorerTabUtility
+  repository: github.com/w4po/ExplorerTabUtility
+  license: MIT
+
 - id: Fabulously-Optimized
   title: Fabulously Optimized
   category: gaming
@@ -255,7 +282,7 @@
 
 - id: Fibratus
   title: Fibratus
-  category: developer tools
+  category: developer-tools
   tagline: Adversary tradecraft detection, protection, and hunting
   description: Fibratus detects, protects, and eradicates advanced adversary tradecraft by scrutinizing and asserting a wide spectrum of system events against a behavior-driven rule engine and YARA memory scanner. Events can also be shipped to a wide array of output sinks or dumped to capture files for local inspection and forensics analysis. You can use filaments to extend Fibratus with your own arsenal of tools and so leverage the power of the Python ecosystem. In a nutshell, the Fibratus mantra is defined by the pillars of realtime behavior detection, memory scanning, and forensics capabilities.
   homepage: fibratus.io
@@ -299,6 +326,24 @@
   repository: github.com/RSSNext/Folo
   license: GPLv3
 
+- id: Ghost-Downloader-3
+  title: Ghost-Downloader-3
+  category: accessibility
+  tagline: AI-powered next-generation downloader
+  description: Ghost-Downloader-3 is a cross-platform fluent-design AI-boost multi-threaded downloader built with Python.
+  homepage: gd3.top/
+  repository: github.com/XiaoYouChR/Ghost-Downloader-3
+  licnese: GPLv3
+  
+- id: Giant-Log-Viewer
+  title: Giant Log Viewer
+  category: accessibility
+  tagline: View text files of any size
+  description: A cross-platform desktop portable application that allows viewing text files of any size when `less` is not available.
+  homepage: github.com/sunny-chung/giant-log-viewer
+  repository: github.com/sunny-chung/giant-log-viewer
+  license: Apache-v2_0
+
 - id: GitExtensions
   title: Git Extensions
   category: developer-tools
@@ -308,9 +353,18 @@
   repository: github.com/gitextensions/gitextensions
   license: GPLv3
 
+- id: Graphia
+  title: Graphia
+  category: developer-tools
+  tagline: Graphia – Open Source Graph Visualisation Software for Big Data
+  description: Graphia is a powerful open source visual analytics application developed to aid the interpretation of large and complex datasets. Graphia can create and visualise graphs from tables of numeric data and display the structures that result. It can also be used to visualise and analyse any data that is already in the form of a graph.
+  homepage: graphia.app/
+  repository: github.com/graphia-app/graphia
+  license: GPLv3
+
 - id: heob
   title: heob
-  category: developer tools
+  category: developer-tools
   tagline: Detects buffer overflows and memory leaks
   description: Can be used to find heap-related errors, like buffer-overflows, use-after-free, and memory leaks. Also contains a sampling profiler, and both memory leaks and profiler results can be output as flame-graphs.
   homepage: github.com/ssbssa/heob
@@ -337,13 +391,22 @@
 
 - id: hyphanet
   title: hyphanet
-  category: developer tools
+  category: developer-tools
   tagline: decentralized censorship-resistant and privacy-respecting publishing and communication
   description: Hyphanet provides a peer-to-peer network which makes it easy to read and publish with strong privacy protections. Plugins built on its decentralized data store let you do things like host your own website, use microblogging and forums, share or stream video, and more, without central authority.
   homepage: www.hyphanet.org
   repository: github.com/hyphanet/sign-windows-installer
   license: GPLv2
 
+- id: Inkeys
+  title: Inkeys
+  category: productivity
+  tagline: Screen annotation tool
+  description: Windows screen annotation tool with efficient annotation and rich features, Make screen demonstrations simpler, teaching more efficient, suitable for touch devices and computers.
+  homepage: github.com/Alan-CRL/Inkeys
+  repository: github.com/Alan-CRL/Inkeys
+  license: GPLv3
+  
 - id: inkstitch
   title: inkstitch
   category: other
@@ -427,7 +490,7 @@
 
 - id: Linuxfabrik-Monitoring-Plugins
   title: Linuxfabrik Monitoring Plugins
-  category: developer tools
+  category: developer-tools
   tagline: Python-Based Monitoring Plugins for Seamless Network Management
   description: Check plugins for Icinga and other Nagios-compatible monitoring applications. Each plugin is a standalone command line tool (written in Python) that provides a specific type of check
   homepage: www.linuxfabrik.ch/de/ueber-uns/open-source
@@ -573,7 +636,7 @@
 
 - id: ParsecVDisplay
   title: ParsecVDisplay
-  category: developer tools
+  category: developer-tools
   tagline: ParsecVDisplay - Perfect virtual display for game streaming
   description: This project provides a standalone solution for creating virtual displays on a Windows host using the Parsec Virtual Display Driver (VDD), independent of the Parsec app. The Parsec VDD enables virtual displays on Windows 10+ systems, it leverages the IddCx API (Indirect Display Driver) to generate virtual displays with support for high resolutions and refresh rates, including up to 4K and 240 Hz. This capability makes it a versatile tool for gaming, streaming, or remote work, allowing users to simulate multiple screens for an enhanced, flexible visual experience. ParsecVDisplay is a comprehensive virtual display manager for Parsec VDD, built with C# and WPF.
   homepage: github.com/nomi-san/parsec-vdd
@@ -723,7 +786,7 @@
 
 - id: RSNA-DICOM-Anonymizer
   title: RSNA DICOM Anonymizer
-  category: developer tools
+  category: developer-tools
   tagline: The RSNA DICOM Anonymizer is a cross platform, stand-alone de-identification utility.
   description: DICOM image files are imported either via network transfers or directly from the local file system. When a DICOM file is received, it is de-identified and then stored in a user-defined local storage directory. Anonymized images can be exported either to a remote DICOM server or an AWS S3 Object store such as the RSNA Imaging Archive.
   homepage: rsna.github.io/anonymizer/
@@ -750,7 +813,7 @@
 
 - id: simple-acme
   title: simple-acme
-  category: developer tools
+  category: developer-tools
   tagline: A swiss army knife for ACME certificate management.
   description: A command line interface to automatically create, install and update ACME certificates.
   homepage: simple-acme.com/
@@ -810,6 +873,15 @@
   homepage: spectral.zxe.io
   repository: github.com/r-lyeh/Spectral
   license: 0BSD
+
+- id: Spicetify
+  title: Spicetify
+  category: productivity
+  tagline: Powerful CLI tool to take control of the Spotify client
+  description: Spicetify is the ultimate tool for Spotify users who want to customize their desktop client and make their music listening experience more enjoyable. With Spicetify, you can easily change the color scheme, add new functionality, and even create entirely new features. Whether you're a music lover, a tech enthusiast, or just someone who wants to make their Spotify experience more personalized, Spicetify is a great option to consider. Give it a try and see how it can enhance your Spotify experience. Happy listening!
+  homepage: spicetify.app/
+  repository: github.com/spicetify/cli/releases
+  license: MIT
 
 - id: SQLiteBrowser
   title: SQLiteBrowser
