@@ -88,6 +88,15 @@
   repository: github.com/Brewtarget/brewtarget/
   license: GPLv3
 
+- id: cargo-nextest
+  title: cargo-nextest
+  category: developer-tools
+  tagline: cargo-nextest - next-generation test runner for Rust
+  description: cargo-nextest is a new, faster test runner for Rust. Nextest is up to 3x faster than cargo test and supports many features for CI and local developer workflows.
+  homepage: github.com/nextest-rs/nextest
+  repository: nexte.st
+  license: Apache-v2_0
+
 - id: Chewing-IM
   title: Chewing IM
   category: productivity
