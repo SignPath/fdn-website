@@ -881,7 +881,7 @@
   description: Spicetify is the ultimate tool for Spotify users who want to customize their desktop client and make their music listening experience more enjoyable. With Spicetify, you can easily change the color scheme, add new functionality, and even create entirely new features. Whether you're a music lover, a tech enthusiast, or just someone who wants to make their Spotify experience more personalized, Spicetify is a great option to consider. Give it a try and see how it can enhance your Spotify experience. Happy listening!
   homepage: spicetify.app/
   repository: github.com/spicetify/cli/releases
-  license: MIT
+  license: LGPLv2_1
 
 - id: SQLiteBrowser
   title: SQLiteBrowser
