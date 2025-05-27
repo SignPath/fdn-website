@@ -97,6 +97,15 @@
   repository: nexte.st
   license: Apache-v2_0
 
+- id: cherrytree
+  title: cherrytree
+  category: productivity
+  tagline: Hierarchical note taking
+  description: A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in either a single file (xml or sqlite) or multiple files and directories.
+  homepage: giuspen.net/cherrytree/
+  repository: github.com/giuspen/cherrytree
+  license: GPLv3
+
 - id: Chewing-IM
   title: Chewing IM
   category: productivity
@@ -918,6 +927,15 @@
   homepage: stellarium.org
   repository: github.com/Stellarium/stellarium
   wikipedia: en.wikipedia.org/wiki/Stellarium_(software)
+  license: GPLv2
+
+- id: sticker-convert
+  title: sticker-convert
+  category: accessibility
+  tagline: sticker-convert - Convert (animated) stickers to/from WhatsApp, Telegram, Signal, Line, Kakao, Naver Band, Viber, Discord, iMessage. Written in Python.
+  description: sticker-convert - Convert (animated) stickers to/from WhatsApp, Telegram, Signal, Line, Kakao, Naver Band, Viber, Discord, iMessage. Written in Python.
+  homepage: github.com/laggykiller/sticker-convert
+  repository: github.com/laggykiller/sticker-convert
   license: GPLv2
 
 - id: mapeditor.org
