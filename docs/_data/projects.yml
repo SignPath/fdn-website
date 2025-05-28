@@ -1048,6 +1048,15 @@
   repository: github.com/wangkanai/Detection
   license: Apache-v2_0
 
+- id: Warzone2100
+  title: Warzone2100
+  category: gaming
+  tagline: Strategy by Design
+  description: Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source 3D real-time strategy game.
+  homepage: wz2100.net/
+  repository: github.com/Warzone2100/warzone2100
+  license: GPLv2
+
 - id: welle.io
   title: welle.io
   category: audio
