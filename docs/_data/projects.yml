@@ -139,7 +139,7 @@
   category: gaming
   tagline: An Advanced Launcher for HoYoverse Games
   description: |
-    Collapse Launcher is an open-source, community driven launcher for miHoYo/HoYoverse game titles (including Honkai Impact 3rd, Genshin Impact, Honkai: Star Rail, Zenless Zone Zero, and other future game titles) built under MIT License, focusing on accessibility and advanceness to the users for their game of choice by maintaining/launching the games and access to other Community Tools within a single application. Collapse Launcher designed using modern Windows Fluent Design in-mind and running on self-contained runtime, giving a “native application” feeling to the users without requiring to install any pre-requisite applications/components.   homepage: github.com/CollapseLauncher
+    Collapse Launcher is an open-source, community driven launcher for miHoYo/HoYoverse game titles (including Honkai Impact 3rd, Genshin Impact, Honkai: Star Rail, Zenless Zone Zero, and other future game titles) built under MIT License, focusing on accessibility and advanceness to the users for their game of choice by maintaining/launching the games and access to other Community Tools within a single application. Collapse Launcher designed using modern Windows Fluent Design in-mind and running on self-contained runtime, giving a “native application” feeling to the users without requiring to install any pre-requisite applications/components.  
   homepage: collapselauncher.com/
   repository: github.com/CollapseLauncher/Collapse
   license: MIT
@@ -152,6 +152,15 @@
   homepage: converseen.fasterland.net
   repository: github.com/Faster3ck/Converseen
   license: GPLv3
+
+- id: daggy
+  title: daggy
+  category: developer-tools
+  tagline: Data Aggregation Utility and C/C++ developer library for data streams catching
+  description: Daggy main goals are server-less, cross-platform, simplicity and ease-of-use. Сan be helpful for developers, QA, DevOps and engineers for debug, analyze and control any data streams, including requests and responses, in distributed network systems, for example, based on micro-service architecture.
+  homepage: github.com/synacker/daggy
+  repository: github.com/synacker/daggy
+  license: MIT
 
 - id: DBreeze
   title: DBreeze
@@ -652,6 +661,15 @@
   repository: github.com/BuzzteeBear/OpenXR-MotionCompensation
   license: LGPLv2_1
 
+- id: ParquetViewer
+  title: ParquetViewer
+  category: accessibility
+  tagline: Simple Windows desktop application for viewing & querying Apache Parquet files 
+  description: ParquetViewer is a utility to quickly view Apache Parquet files on Windows desktop machines. Some key features: - View parquet file metadata - Run simple sql queries on parquet data - Open single or partitioned files
+  homepage: github.com/mukunku/ParquetViewer
+  repository: github.com/mukunku/ParquetViewer
+  license: GPLv3
+  
 - id: ParsecVDisplay
   title: ParsecVDisplay
   category: developer-tools
