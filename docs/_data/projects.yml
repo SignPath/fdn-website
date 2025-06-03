@@ -139,7 +139,7 @@
   category: gaming
   tagline: An Advanced Launcher for HoYoverse Games
   description: |
-    Collapse Launcher is an open-source, community driven launcher for miHoYo/HoYoverse game titles (including Honkai Impact 3rd, Genshin Impact, Honkai: Star Rail, Zenless Zone Zero, and other future game titles) built under MIT License, focusing on accessibility and advanceness to the users for their game of choice by maintaining/launching the games and access to other Community Tools within a single application. Collapse Launcher designed using modern Windows Fluent Design in-mind and running on self-contained runtime, giving a “native application” feeling to the users without requiring to install any pre-requisite applications/components.  homepage: collapselauncher.com/
+    Collapse Launcher is an open-source, community driven launcher for miHoYo/HoYoverse game titles (including Honkai Impact 3rd, Genshin Impact, Honkai: Star Rail, Zenless Zone Zero, and other future game titles) built under MIT License, focusing on accessibility and advanceness to the users for their game of choice by maintaining/launching the games and access to other Community Tools within a single application. Collapse Launcher designed using modern Windows Fluent Design in-mind and running on self-contained runtime, giving a “native application” feeling to the users without requiring to install any pre-requisite applications/components. homepage: collapselauncher.com/
   homepage: collapselauncher.com/
   repository: github.com/CollapseLauncher/Collapse
   license: MIT
@@ -665,7 +665,10 @@
   title: ParquetViewer
   category: accessibility
   tagline: Simple Windows desktop application for viewing & querying Apache Parquet files 
-  description: ParquetViewer is a utility to quickly view Apache Parquet files on Windows desktop machines. Some key features: 1.View parquet file metadata 2.Run simple sql queries on parquet data 3.Open single or partitioned files
+  description: ParquetViewer is a utility to quickly view Apache Parquet files on Windows desktop machines. Some key features: |
+    -View parquet file metadata 
+    -Run simple sql queries on parquet data 
+    -Open single or partitioned files
   homepage: github.com/mukunku/ParquetViewer
   repository: github.com/mukunku/ParquetViewer
   license: GPLv3
