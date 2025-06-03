@@ -139,7 +139,7 @@
   category: gaming
   tagline: An Advanced Launcher for HoYoverse Games
   description: |
-    Collapse Launcher is an open-source, community driven launcher for miHoYo/HoYoverse game titles (including Honkai Impact 3rd, Genshin Impact, Honkai: Star Rail, Zenless Zone Zero, and other future game titles) built under MIT License, focusing on accessibility and advanceness to the users for their game of choice by maintaining/launching the games and access to other Community Tools within a single application. Collapse Launcher designed using modern Windows Fluent Design in-mind and running on self-contained runtime, giving a “native application” feeling to the users without requiring to install any pre-requisite applications/components.  
+    Collapse Launcher is an open-source, community driven launcher for miHoYo/HoYoverse game titles (including Honkai Impact 3rd, Genshin Impact, Honkai: Star Rail, Zenless Zone Zero, and other future game titles) built under MIT License, focusing on accessibility and advanceness to the users for their game of choice by maintaining/launching the games and access to other Community Tools within a single application. Collapse Launcher designed using modern Windows Fluent Design in-mind and running on self-contained runtime, giving a “native application” feeling to the users without requiring to install any pre-requisite applications/components.  homepage: collapselauncher.com/
   homepage: collapselauncher.com/
   repository: github.com/CollapseLauncher/Collapse
   license: MIT
