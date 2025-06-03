@@ -665,7 +665,7 @@
   title: ParquetViewer
   category: accessibility
   tagline: Simple Windows desktop application for viewing & querying Apache Parquet files 
-  description: ParquetViewer is a utility to quickly view Apache Parquet files on Windows desktop machines. Some key features: - View parquet file metadata - Run simple sql queries on parquet data - Open single or partitioned files
+  description: ParquetViewer is a utility to quickly view Apache Parquet files on Windows desktop machines. Some key features: 1.View parquet file metadata 2.Run simple sql queries on parquet data 3.Open single or partitioned files
   homepage: github.com/mukunku/ParquetViewer
   repository: github.com/mukunku/ParquetViewer
   license: GPLv3
