@@ -34,6 +34,15 @@
   repository: github.com/archimatetool/archi
   license: MIT
 
+- id: asdf-overlay
+  title: asdf-overlay
+  category: productivity
+  tagline: High performance game overlay library for Windows
+  description: Asdf Overlay provides an easy to use interface to draw on top of window framebuffer by hooking rendering backends. GPU shared texture was used to avoid framebuffer copy via CPU. As a result, Asdf Overlay is capable of rendering overlay with any size without performance loss.
+  homepage: github.com/storycraft/asdf-overlay
+  repository: github.com/storycraft/asdf-overlay
+  license: Apache-v2_0
+
 - id: auto-mcs
   title: auto-mcs
   category: gaming
@@ -651,6 +660,15 @@
   homepage: github.com/OpenSC/OpenSC/wiki
   repository: github.com/OpenSC/OpenSC
   license: LGPLv2_1
+
+- id: openterface-connect
+  title: openterface-connect
+  category: developer-tools
+  tagline: Openterface - Bridging Interfaces to Open Possibilities
+  description: Openterface MiniKVM software enables seamless management of multiple computers through KVM-over-USB, offering a reliable, multifunctional console solution for IT professionals, developers, and tech enthusiasts working with edge devices, servers, and compact setups.
+  homepage: openterface.com
+  repository: github.com/TechxArtisanStudio/Openterface_QT
+  license: GPLv3
 
 - id: OpenXR-MotionCompensation
   title: OpenXR MotionCompensation
