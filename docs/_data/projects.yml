@@ -52,6 +52,15 @@
   repository: github.com/macarooni-man/auto-mcs
   license: GPLv3
 
+- id: AUTO_MAA
+  title: AUTO_MAA
+  category: productivity
+  tagline: AUTO_MAA - A MAA Multi Account Management and Automation Tool
+  description: A MAA Multi Account Management and Automation Tool
+  homepage: doc.automaa.xyz/
+  repository: https://github.com/DLmaster361/AUTO_MAA/
+  license: GPLv3
+
 - id: Auto-Neutron
   title: Auto Neutron
   category: gaming
@@ -701,6 +710,15 @@
   repository: github.com/nomi-san/parsec-vdd
   license: MIT
 
+- id: PasteIntoFile
+  title: PasteIntoFile
+  category: accessibility
+  tagline: A simple tool to paste clipboard content into files.
+  description: PasteIntoFile is a lightweight program that allows users to paste clipboard content directly into files, simplifying workflows and enhancing productivity.
+  homepage: github.com/eltos/PasteIntoFile
+  repository: github.com/eltos/PasteIntoFile
+  license: MIT
+
 - id: PDF-Stitcher
   title: PDF Stitcher
   category: educational
@@ -1005,6 +1023,16 @@
   repository: github.com/thunder-engine/thunder
   license: Apache-v2_0
 
+- id: tik-manager
+  title: tik-manager
+  category: gaming
+  tagline: The ultimate light-weight CG Pipeline for VFX & Games
+  description: Tik Manager is a flexible pipeline solution. It is simple for small-scale projects yet robust enough for heavy loads. Additionally, it offers a variety of features that make it suitable for any stage of production.
+  homepage: tik-manager.com/
+  repository: github.com/masqu3rad3/tik_manager4
+  license: GPLv3
+  
+  repository: 
 - id: Tonbrett
   title: Tonbrett
   category: audio
@@ -1113,6 +1141,15 @@
   description: WelsonJS - Build a Windows app on the Windows built-in JavaScript engine. Now, You can build an Windows desktop app with JavaScript, TypeScript, CoffeeScript, ReScript, and HTML/CSS on Windows built-in ECMAScript engine.
   homepage: catswords.social/@catswords_oss
   repository: github.com/gnh1201/welsonjs
+  license: GPLv3
+
+- id: windows-cleaner
+  title: windows-cleaner
+  category: productivity
+  tagline: Reclaim Space, Revive Performance
+  description: Open-source Windows optimization tool that safely removes junk files and boosts system performance with one click.
+  homepage: github.com/darkmatter2048/WindowsCleaner
+  repository: github.com/darkmatter2048/WindowsCleaner
   license: GPLv3
 
 - id: WSLUSBGUI
