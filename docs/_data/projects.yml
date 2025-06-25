@@ -826,7 +826,7 @@
   description: PyJibe is a user interface for data analysis in atomic force microscopy (AFM) with an emphasis on biological specimens, such as tissue sections or single cells.
   homepage: pyjibe.readthedocs.io/
   repository: github.com/AFM-analysis/PyJibe
-  license: GPL-3.0
+  license: GPLv3
 
 - id: PySceneDetect
   title: PySceneDetect
@@ -836,6 +836,15 @@
   homepage: scenedetect.com
   repository: github.com/Breakthrough/PySceneDetect
   license: BSD-3-clause
+
+- id: Qt-Bitcoin-Trader
+  title: Qt Bitcoin Trader
+  category: other
+  tagline: Cross-platform open-source crypto trading client
+  description: Qt Bitcoin Trader is an open-source C++/Qt application for managing and automating cryptocurrency trades on multiple exchanges via a graphical interface.
+  homepage: qtbitcointrader.com
+  repository: github.com/JulyIghor/QtBitcoinTrader
+  license: GPLv3
 
 - id: Race-Element
   title: Race Element
@@ -1160,6 +1169,15 @@
   homepage: catswords.social/@catswords_oss
   repository: github.com/gnh1201/welsonjs
   license: GPLv3
+
+- id: wiilink-patcher-gui
+  title: wiilink-patcher-gui
+  category: gaming
+  tagline: Get easily up and running with WiiLink!
+  description: WiiLink Patcher GUI is a Python application that helps you to get up and running with the WiiLink service. It automatically downloads and patches Wii channels from Nintendo’s servers to make them ready to install and use on a modded console.
+  homepage: wiilink.ca/
+  repository: github.com/WiiLink24/WiiLink-Patcher-GUI
+  license: MPL-2.0
 
 - id: windows-cleaner
   title: windows-cleaner
