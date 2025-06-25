@@ -78,6 +78,15 @@
   homepage: balatro-mod-manager.dasguney.com/
   repository: github.com/skyline69/balatro-mod-manager
   license: GPLv3
+
+- id: BetterHI3Launcher
+  title: BetterHI3Launcher
+  category: gaming
+  tagline: A much better Honkai Impact 3rd launcher
+  description: A much better Honkai Impact 3rd launcher with additional features. Visit the GitHub repository for more information.
+  homepage: github.com/BuIlDaLiBlE/BetterHI3Launcher/blob/master/README.md
+  repository: github.com/BuIlDaLiBlE/BetterHI3Launcher
+  license: Unlicense
   
 - id: Bitcoin-Safe
   title: Bitcoin Safe
@@ -370,6 +379,15 @@
   homepage: follow.is/
   repository: github.com/RSSNext/Folo
   license: GPLv3
+
+- id: frpmgr
+  title: frpmgr
+  category: accessibility
+  tagline: A user-friendly desktop GUI client for FRP on Windows
+  description: FRP Manager is a multi-node, graphical reverse proxy tool designed for FRP on Windows. It allows users to setup reverse proxy easily without writing the configuration file. FRP Manager provides a complete solution to help you avoid many tedious operations when deploying a reverse proxy.
+  homepage: github.com/koho/frpmgr
+  repository: github.com/koho/frpmgr
+  license: Apache-v2_0
 
 - id: Ghost-Downloader-3
   title: Ghost-Downloader-3
