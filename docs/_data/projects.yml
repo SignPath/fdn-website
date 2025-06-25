@@ -706,6 +706,15 @@
   repository: github.com/BuzzteeBear/OpenXR-MotionCompensation
   license: LGPLv2_1
 
+- id: Pactus
+  title: Pactus
+  category: developer-tools
+  tagline: Pactus - Where Community Builds Trustless!
+  description: Pactus is an open source, layer-1 blockchain technology with a revolutionary, secure, Solid State Proof of Stake Consensus. Come join us and build a decentralized future together!
+  homepage: pactus.org/
+  repository: github.com/pactus-project/pactus
+  license: MIT
+
 - id: ParquetViewer
   title: ParquetViewer
   category: accessibility
