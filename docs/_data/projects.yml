@@ -461,6 +461,16 @@
   repository: github.com/hyphanet/sign-windows-installer
   license: GPLv2
 
+- id: InChI
+  title: InChI
+  category: science
+  tagline: The IUPAC International Chemical Identifier. It is a standard identifier for chemical databases that facilitates effective information management across chemistry.
+  description: The International Chemical Identifier is a textual identifier for chemical substances, designed to provide a standard way to encode molecular information and to facilitate the search for such information in databases and on the web. Initially developed by the International Union of Pure and Applied Chemistry (IUPAC) and National Institute of Standards and Technology (NIST) from 2000 to 2005, the format and algorithms are non-proprietary. Since May 2009, it has been developed by the InChI Trust, a nonprofit charity from the United Kingdom which works to implement and promote the use of InChI.
+  homepage: github.com/IUPAC-InChI/InChI
+  repository: github.com/IUPAC-InChI/InChI
+  wikipedia: en.wikipedia.org/wiki/International_Chemical_Identifier
+  license: MIT
+
 - id: Inkeys
   title: Inkeys
   category: productivity
@@ -706,6 +716,15 @@
   repository: github.com/BuzzteeBear/OpenXR-MotionCompensation
   license: LGPLv2_1
 
+- id: OptiScaler
+  title: OptiScaler
+  category: gaming
+  tagline: Unlock cross-platform upscaling and frame generation in supported games
+  description: OptiScaler is an open-source middleware that allows PC games with native support for DLSS, FSR, or XeSS to be dynamically modified to use alternative upscaling and frame generation technologies. By intercepting and redirecting upscaler API calls, OptiScaler enables users to swap one vendor's upscaler for another—such as running FSR 4 or XeSS in a game that originally supports only DLSS. It also supports experimental frame generation through FSR 3 and modded DLSS-G replacements, even on non-NVIDIA GPUs. Compatible with DirectX 11, 12, and Vulkan titles, OptiScaler provides a flexible platform for enhancing game performance and visual fidelity while remaining GPU-vendor agnostic. It also includes an in-game overlay for live tweaking and performance monitoring.
+  homepage: github.com/cdozdil/OptiScaler
+  repository: github.com/cdozdil/OptiScaler
+  license: GPLv3
+
 - id: Pactus
   title: Pactus
   category: developer-tools
@@ -940,6 +959,15 @@
   homepage: skyclient.co
   repository: github.com/SkyblockClient/SkyClient-Windows
   license: MIT
+
+- id: SkyRoof
+  title: SkyRoof
+  category: science
+  tagline: SDR-based satellite tracking and signal processing software
+  description: SkyRoof combines satellite tracking and SDR functions in one application, which opens some interesting possibilities. For example, all satellite traces on the waterfall are labelled with satellite names, the boundaries of the transponder segments follow the Doppler shift, and all frequency tuning is done visually, with a mouse.
+  homepage: ve3nea.github.io/SkyRoof/
+  repository: github.com/VE3NEA/SkyRoof
+  license: AGPL3
 
 - id: Smartmontools
   title: Smartmontools
@@ -1217,3 +1245,15 @@
   homepage: xmcl.app
   repository: github.com/Voxelum/x-minecraft-launcher
   license: MIT
+
+- id: Zen
+  title: Zen
+  category: accessibility
+  tagline: Zen - a simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
+  description: Zen is a simple and powerful desktop application that helps you browse the internet and use your apps without annoying ads, trackers, or hidden threats. It works quietly in the background, blocking unwanted content across your entire computer — not just in your web browser, but in your other apps too. Zen comes ready to protect you with built-in filters, and you can easily customize it to suit your needs. Whether you're looking for a cleaner, faster, and more private online experience, or just want to stop invasive tracking, Zen has you covered. Available for Windows, macOS, and Linux. Free and open source, forever.
+  homepage: zenprivacy.net/
+  repository: github.com/ZenPrivacy/zen-desktop
+  license: MIT
+  
+
+  
