@@ -1225,6 +1225,15 @@
   repository: github.com/darkmatter2048/WindowsCleaner
   license: GPLv3
 
+- id: WinMemoryCleaner
+  title: WinMemoryCleaner
+  category: productivity
+  tagline: Windows Memory Cleaner
+  description: This free RAM cleaner uses native Windows features to optimize memory areas. It is a compact, portable, and smart application. 
+  homepage: github.com/IgorMundstein/WinMemoryCleaner
+  repository: github.com/IgorMundstein/WinMemoryCleaner
+  license: GPLv3
+
 - id: WSLUSBGUI
   title: WSL USB GUI
   category: developer-tools
