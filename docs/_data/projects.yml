@@ -298,6 +298,20 @@
   repository: github.com/Gdalik/EarQuiz_Frequencies
   license: GPLv3
 
+- id: Espanso
+  title: Espanso
+  category: developer-tools
+  tagline: Espanso – A Privacy-first, Cross-platform Text Expander
+  description: |
+    Espanso is a cross-platform text-expander written in Rust. It detects when you type a specific keyword and replaces it with something else. This is useful in many ways:
+    -  Save a lot of typing, expanding common sentences.
+    -  Create system-wide code snippets.
+    -  Execute custom scripts.
+    -  Use emojis like a pro.
+  homepage: espanso.org/
+  repository: github.com/espanso/espanso
+  license: GPLv3
+
 - id: etlegacy
   title: ET Legacy
   category: gaming
@@ -388,6 +402,15 @@
   homepage: github.com/koho/frpmgr
   repository: github.com/koho/frpmgr
   license: Apache-v2_0
+
+- id: geany
+  title: geany
+  category: developer-tools
+  tagline: The Flyweight IDE
+  description: Geany is a powerful, stable and lightweight programmers text editor that provides tons of useful features without bogging down your workflow. It runs on Linux, Windows and macOS, is translated into over 40 languages, and has built-in support for more than 50 programming languages. 
+  homepage: geany.org/
+  repository: https://github.com/geany/geany
+  license: GPLv2
 
 - id: Ghost-Downloader-3
   title: Ghost-Downloader-3
@@ -524,6 +547,15 @@
   homepage: github.com/KSP-CKAN/CKAN/wiki
   repository: github.com/KSP-CKAN/CKAN
   license: MIT
+
+- id: kubetail
+  title: kubetail
+  category: developer-tools
+  tagline: Real-time logging dashboard for Kubernetes
+  description: Kubetail is a general-purpose logging dashboard for Kubernetes, optimized for tailing logs across multi-container workloads in real-time. With Kubetail, you can view logs from all the containers in a workload (e.g. Deployment or DaemonSet) merged into a single, chronological timeline, delivered to your browser or terminal. 
+  homepage: kubetail.com
+  repository: github.com/kubetail-org/kubetail
+  license: Apache-v2_0
 
 - id: LGTVCompanion
   title: LGTVCompanion
@@ -1005,6 +1037,15 @@
   repository: github.com/AlexProgrammerDE/SoulFireClient
   license: GPLv3
 
+- id: SoulSplitter
+  title: SoulSplitter
+  category: gaming
+  tagline: A livesplit plugin for souls-games
+  description: Official speedrun timer and autosplitter for Dark Souls 1, Dark Souls 3, Sekiro, Elden Ring and Armored Core.
+  homepage: github.com/FrankvdStam/SoulSplitter
+  repository: github.com/FrankvdStam/SoulSplitter
+  license: GPLv3
+
 - id: Spectral
   title: Spectral
   category: other
@@ -1013,6 +1054,15 @@
   homepage: spectral.zxe.io
   repository: github.com/r-lyeh/Spectral
   license: 0BSD
+
+- id: spencermacro
+  title: spencermacro
+  category: gaming
+  tagline: Spencer Macro Utilities - Macro Toolkit for Game Glitches and Input Control
+  description: Spencer Macro Utilities is a lightweight input automation tool designed primarily for use in games, enabling short macros, controlled input creation, and process manipulation. Originally built for experimenting with physics-based mechanics, it has grown into a general-purpose tool used by various gaming communities to explore glitch behavior, automate sequences, and test edge-case interactions. The tool is open source, designed to be flexible, and does not rely on memory editing or unauthorized game or process modification.
+  homepage: spencermacro.vercel.app/
+  repository: github.com/Spencer0187/Roblox-Macro-Utilities
+  license: GPLv3
 
 - id: Spicetify
   title: Spicetify
