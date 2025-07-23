@@ -1119,6 +1119,16 @@
   repository: github.com/mapeditor/tiled
   license: GPLv2
 
+- id: Tera Term
+  title: Tera Term
+  category: productivity
+  tagline: An open source terminal emulator with built-in communication client
+  description: Tera Term is a terminal emulator that supports serial port, TCP/IP (telnet, SSH), and named pipe connections. It emulates VT100 and part of VT200/300 emulation, and supports TEK4010 emulation. Tera Term has a macro interpreter that runs scripts written in Tera Term Language (TTL). It allows users to automate the Tera Term terminal emulator.
+  homepage: teratermproject.github.io/
+  repository: github.com/TeraTermProject/teraterm
+  wikipedia: en.wikipedia.org/wiki/Tera_Term
+  license: BSD-3-clause
+
 - id: texstudio
   title: texstudio
   category: educational
@@ -1183,6 +1193,15 @@
   homepage: turbovnc.org
   repository: github.com/TurboVNC/turbovnc
   license: GPLv2
+
+- id: TurboWarp
+  title: TurboWarp
+  category: educational
+  tagline: Block-based programming language
+  description: TurboWarp extends the Scratch programming language with improved performance, new extensions, helpful features, and the ability to export projects so they can run anywhere. It can be used to make games, simulations, art, animations, and more. TurboWarp is not affiliated with the Scratch Foundation.
+  homepage: desktop.turbowarp.org/
+  repository: github.com/TurboWarp/desktop/
+  license: GPLv3
 
 - id: Source-2-Viewer
   title: ValveResourceFormat  
