@@ -160,6 +160,22 @@
   homepage: cw.rinlit.cn/
   repository: github.com/Class-Widgets/Class-Widgets
   license: GPLv3
+
+- id: cobolt platinum hill
+  title: cobolt platinum hill
+  category: accessibility
+  tagline: Cobolt - We believe the future of AI is local, private, and personalized.
+  description: |
+    Cobolt represents our vision for the future of AI assistants:
+      * Privacy-first by design — everything runs locally
+      * Extensible with our open Model Context Protocol (MCP)
+      * Powered by Ollama for smooth performance
+      * Personalized without sending your data to the cloud
+      * Built by the community, for the community
+    Cobolt is a cross-platform desktop application that enables you to get answers, and perform actions on the data that matters to you. Cobolt only stores data on your device, and uses locally running AI models. Cobolt can also remembers important details about you, and use it to give you personalized responses.And yes! your memories are stored on your device. You can connect to your favourite tools and data sources using the Model Context Protocol (MCP).
+  homepage: github.com/platinum-hill/cobolt
+  repository: github.com/platinum-hill/cobolt
+  license: Apache-v2_0
   
 - id: CollapseLauncher
   title: Collapse Launcher
@@ -412,6 +428,15 @@
   repository: https://github.com/geany/geany
   license: GPLv2
 
+- id: geany-plugins
+  title: geany-plugins
+  category: developer-tools
+  tagline: Plugins for Geany - The Flyweight IDE
+  description: Geany has a plugin system which allows to get more features into Geany and developers can easily add new features and/or improve existing ones. The Geany-Plugins project is a combined release for each matching Geany release. It includes a huge number of plugins for different purposes. Please have a look at https://plugins.geany.org/ for more information.
+  homepage: www.geany.org/
+  repsoitory: github.com/geany/geany-plugins
+  license: GPLv3
+
 - id: Ghost-Downloader-3
   title: Ghost-Downloader-3
   category: accessibility
@@ -419,7 +444,7 @@
   description: Ghost-Downloader-3 is a cross-platform fluent-design AI-boost multi-threaded downloader built with Python.
   homepage: gd3.top/
   repository: github.com/XiaoYouChR/Ghost-Downloader-3
-  licnese: GPLv3
+  license: GPLv3
   
 - id: Giant-Log-Viewer
   title: Giant Log Viewer
@@ -437,6 +462,15 @@
   description: Git Extensions is a graphical user interface for Git that allows you to control Git without using the commandline
   homepage: gitextensions.github.io
   repository: github.com/gitextensions/gitextensions
+  license: GPLv3
+
+- id: Gopher64
+  title: Gopher64
+  category: gaming
+  tagline: Highly compatible N64 emulator, built-in netplay
+  description: Gopher64 is an open-source Nintendo 64 emulator written in Rust. Although it is the successor to Simple64, Gopher64 was written from scratch. Where it made sense, portions of the code were adapted or inspired by existing elements in Simple64/Mupen64Plus and ares. Gopher64 does not use any per-game hacks or settings, and it does not use plugins. 
+  homepage: github.com/gopher64/gopher64
+  repository: github.com/gopher64/gopher64
   license: GPLv3
 
 - id: Graphia
@@ -730,6 +764,15 @@
   repository: github.com/OpenSC/OpenSC
   license: LGPLv2_1
 
+- id: OpenSpeedy
+  title: OpenSpeedy
+  category: gaming
+  tagline: OpenSpeedy is an open-source and free game speed modifier tool that breaks through frame rate limitations and provides a smoother gaming acceleration experience.
+  description: OpenSpeedy is an open-source and free game speed modifier tool that breaks through frame rate limitations and provides a smoother gaming acceleration experience.
+  homepage: github.com/game1024/OpenSpeedy
+  repository: github.com/game1024/OpenSpeedy
+  license: GPLv3
+
 - id: openterface-connect
   title: openterface-connect
   category: developer-tools
@@ -1017,6 +1060,15 @@
   description: Snap Hutao is an open-source Genshin Impact toolkit under MIT license, designed for modern Windows platform to improve the gaming experience for desktop players. By combining existing official resources with new features designed by the development team, it provides a complete and useful set of tools without the need to rely on mobile devices. Snap Hutao does not take any destructive modification to the game client to ensure the security of the toolkit.
   homepage: hut.ao
   repository: github.com/DGP-Studio/Snap.Hutao
+  license: MIT
+
+- id: sniffnet
+  title: sniffnet
+  category: accessibility
+  tagline: Comfortably monitor your Internet traffic 
+  description: Sniffnet is a powerful yet intuitive network monitoring tool, providing a polished dashboard of your Internet traffic. Sniffnet is cross-platform, completely free, and open-source — available for everyone to use without restrictions.
+  homepage: sniffnet.net/ 
+  repository: github.com/GyulyVGC/sniffnet
   license: MIT
 
 - id: SnoopWPF
