@@ -727,6 +727,15 @@
   repository: github.com/moh-hassan/odata2poco
   license: MIT
 
+- id: OpenBRF Redux
+  title: OpenBRF Redux
+  category: gaming
+  tagline: A modding tool for editing Mount&Blade 1.011 and Warband binary resource (BRF) files.
+  description: A de-rusted, maintained version of Marco Tarini OpenBRF tool for modding Mount&Blade 1.011 and Warband; it comes with dark-mode, 64-bit and Linux support, and receives bug fixes and enhancements.
+  homepage: forum.taleworlds.com/?threads/462517
+  repository: github.com/Swyter/openbrf-redux
+  license: GPLv2
+
 - id: OpenNumismat
   title: OpenNumismat
   category: other
