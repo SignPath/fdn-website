@@ -241,6 +241,15 @@
   homepage: ditto-cp.sourceforge.io/
   repository: github.com/sabrogden/Ditto
   license: GPLv3
+
+- id: dlss-swapper
+  title: dlss-swapper
+  category: gaming
+  tagline: DLSS Swapper - download, manage, and swap DLSS, FSR, and XeSS versions in your installed games
+  description: DLSS Swapper is a tool that allows you to conveniently download, manage, and swap DLSS, FSR, and XeSS dlls allowing you to upgrade or downgrade DLSS, FSR, and XeSS version in a game without the game needing an update.
+  homepage: github.com/beeradmoore/dlss-swapper
+  repository: github.com/beeradmoore/dlss-swapper
+  license: GPLv3
   
 - id: Dlss-Updater
   title: Dlss Updater
@@ -875,6 +884,15 @@
   homepage: picview.org/
   repository: github.com/Ruben2776/PicView
   license: GPLv3
+
+- id: pinokio
+  title: pinokio
+  category: accessibility
+  tagline: Pinokio - install, run, and manage anything with 1 click
+  description: Pinokio is a platform that makes it easy to install, manage, and automate any open source project on your machine.
+  homepage: pinokio.co/
+  repository: github.com/pinokiocomputer/pinokio
+  license: MIT
 
 - id: Pinta
   title: Pinta
