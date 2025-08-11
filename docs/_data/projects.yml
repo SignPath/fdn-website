@@ -1198,7 +1198,7 @@
   repository: github.com/mapeditor/tiled
   license: GPLv2
 
-- id: Tera Term
+- id: Tera-Term
   title: Tera Term
   category: productivity
   tagline: An open source terminal emulator with built-in communication client
