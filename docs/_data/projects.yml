@@ -161,7 +161,7 @@
   repository: github.com/Class-Widgets/Class-Widgets
   license: GPLv3
 
-- id: cobolt platinum hill
+- id: cobolt-platinum-hill
   title: cobolt platinum hill
   category: accessibility
   tagline: Cobolt - We believe the future of AI is local, private, and personalized.
@@ -657,7 +657,7 @@
 - id: The-Logfile-Navigator
   title: lnav
   category: productivity
-  tagline: A log file viewer for the terminal.
+  tagline: A log file viewer for the terminal
   description: A log file viewer for that terminal that can merge, tail, search, filter, and query log files with ease.  Just point lnav at a directory and it will take care of the rest. File formats are automatically detected and compressed files are unpacked on the fly. Online help and previews for operations make it simpler to level up your experience.
   homepage: lnav.org/
   repository: github.com/tstack/lnav
