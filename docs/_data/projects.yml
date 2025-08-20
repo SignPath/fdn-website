@@ -663,6 +663,15 @@
   repository: github.com/mbdavid/LiteDB
   license: MIT
 
+- id: The-Logfile-Navigator
+  title: lnav
+  category: productivity
+  tagline: A log file viewer for the terminal
+  description: A log file viewer for that terminal that can merge, tail, search, filter, and query log files with ease.  Just point lnav at a directory and it will take care of the rest. File formats are automatically detected and compressed files are unpacked on the fly. Online help and previews for operations make it simpler to level up your experience.
+  homepage: lnav.org/
+  repository: github.com/tstack/lnav
+  license: BSD-2-clause  
+
 - id: mlocati-gettext-windows
   title: mlocati-gettext-windows
   category: developer-tools
