@@ -1026,15 +1026,6 @@
   repository: github.com/rainmeter/rainmeter
   license: GPLv2
 
-- id: REasy-Editor
-  title: reasy-editor
-  category: gaming
-  tagline: A modding toolkit for RE Engine games
-  description: REasy Editor is a graphical tool for visualizing and editing file formats used in RE Engine games, such as RSZ and related types. It presents structured game data in a user-friendly interface, making it easier to inspect, understand, and modify complex assets.
-  homepage: github.com/seifhassine/Reasy
-  repository: github.com/seifhassine/Reasy
-  license: MIT
-
 - id: repentogon.com
   title: REPENTOGON
   category: gaming
