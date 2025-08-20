@@ -490,7 +490,16 @@
   homepage: graphia.app/
   repository: github.com/graphia-app/graphia
   license: GPLv3
-
+  
+- id: Helium
+  title: helium
+  category: accessibility
+  tagline: Helium - Fast and private web-browsing without ads or other bullshit
+  description: Best privacy, unbiased ad-blocking, support for all Chromium extensions; and cool features like native !bangs. No adware, bloat, no visual noise, no invasive AI integrations.
+  homepage: helium.computer/
+  repository: /imputnet/helium-windows
+  license: AGPL3
+  
 - id: heob
   title: heob
   category: developer-tools
