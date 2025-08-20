@@ -654,15 +654,6 @@
   repository: github.com/Linuxfabrik/monitoring-plugins
   license: Unlicense
 
-- id: The-Logfile-Navigator
-  title: lnav
-  category: productivity
-  tagline: A log file viewer for the terminal
-  description: A log file viewer for that terminal that can merge, tail, search, filter, and query log files with ease.  Just point lnav at a directory and it will take care of the rest. File formats are automatically detected and compressed files are unpacked on the fly. Online help and previews for operations make it simpler to level up your experience.
-  homepage: lnav.org/
-  repository: github.com/tstack/lnav
-  license: BSD-2-clause
-
 - id: litedb.org
   title: LiteDB
   categoy: developer-tools
@@ -1025,6 +1016,15 @@
   homepage: www.rainmeter.net
   repository: github.com/rainmeter/rainmeter
   license: GPLv2
+
+- id: REasy-Editor
+  title: reasy-editor
+  category: gaming
+  tagline: A modding toolkit for RE Engine games
+  description: REasy Editor is a graphical tool for visualizing and editing file formats used in RE Engine games, such as RSZ and related types. It presents structured game data in a user-friendly interface, making it easier to inspect, understand, and modify complex assets.
+  homepage: github.com/seifhassine/Reasy
+  repository: github.com/seifhassine/Reasy
+  license: MIT
 
 - id: repentogon.com
   title: REPENTOGON
