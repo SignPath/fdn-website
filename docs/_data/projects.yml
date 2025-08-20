@@ -491,6 +491,15 @@
   repository: github.com/graphia-app/graphia
   license: GPLv3
 
+- id: Helium
+  title: helium
+  category: accessibility
+  tagline: Helium - Fast and private web-browsing without ads or other bullshit
+  description: Best privacy, unbiased ad-blocking, support for all Chromium extensions; and cool features like native !bangs. No adware, bloat, no visual noise, no invasive AI integrations.
+  homepage: helium.computer/
+  repository: github.com/imputnet/helium-chromiu
+  license: AGPL3
+
 - id: heob
   title: heob
   category: developer-tools
@@ -644,6 +653,15 @@
   homepage: www.linuxfabrik.ch/de/ueber-uns/open-source
   repository: github.com/Linuxfabrik/monitoring-plugins
   license: Unlicense
+
+- id: The-Logfile-Navigator
+  title: lnav
+  category: productivity
+  tagline: A log file viewer for the terminal.
+  description: A log file viewer for that terminal that can merge, tail, search, filter, and query log files with ease.  Just point lnav at a directory and it will take care of the rest. File formats are automatically detected and compressed files are unpacked on the fly. Online help and previews for operations make it simpler to level up your experience.
+  homepage: lnav.org/
+  repository: github.com/tstack/lnav
+  license: BSD-2-clause
 
 - id: litedb.org
   title: LiteDB
@@ -1008,11 +1026,20 @@
   repository: github.com/rainmeter/rainmeter
   license: GPLv2
 
+- id: REasy-Editor
+  title: reasy-editor
+  category: gaming
+  tagline: A modding toolkit for RE Engine games
+  description: REasy Editor is a graphical tool for visualizing and editing file formats used in RE Engine games, such as RSZ and related types. It presents structured game data in a user-friendly interface, making it easier to inspect, understand, and modify complex assets.
+  homepage: github.com/seifhassine/Reasy
+  repository: github.com/seifhassine/Reasy
+  license: MIT
+
 - id: repentogon.com
   title: REPENTOGON
   category: gaming
   tagline: Isaac Script Extender 
-  description: 'REPENTOGON is a mod for The Binding of Isaac: Repentance that brings much-needed bug fixes, extra functionality, and performance enhancements to the Lua API.'
+  description: REPENTOGON is a mod for The Binding of Isaac: Repentance that brings much-needed bug fixes, extra functionality, and performance enhancements to the Lua API.
   homepage: repentogon.com
   repository: github.com/TeamREPENTOGON/REPENTOGON
   license: GPLv2
