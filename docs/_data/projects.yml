@@ -814,8 +814,8 @@
   category: gaming
   tagline: Unlock cross-platform upscaling and frame generation in supported games
   description: OptiScaler is an open-source middleware that allows PC games with native support for DLSS, FSR, or XeSS to be dynamically modified to use alternative upscaling and frame generation technologies. By intercepting and redirecting upscaler API calls, OptiScaler enables users to swap one vendor's upscaler for another—such as running FSR 4 or XeSS in a game that originally supports only DLSS. It also supports experimental frame generation through FSR 3 and modded DLSS-G replacements, even on non-NVIDIA GPUs. Compatible with DirectX 11, 12, and Vulkan titles, OptiScaler provides a flexible platform for enhancing game performance and visual fidelity while remaining GPU-vendor agnostic. It also includes an in-game overlay for live tweaking and performance monitoring.
-  homepage: github.com/cdozdil/OptiScaler
-  repository: github.com/cdozdil/OptiScaler
+  homepage: github.com/optiscaler/OptiScaler
+  repository: github.com/optiscaler/OptiScaler
   license: GPLv3
 
 - id: Pactus
