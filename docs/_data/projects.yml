@@ -58,7 +58,7 @@
   tagline: AUTO_MAA - A MAA Multi Account Management and Automation Tool
   description: A MAA Multi Account Management and Automation Tool
   homepage: doc.automaa.xyz/
-  repository: https://github.com/DLmaster361/AUTO_MAA/
+  repository: github.com/DLmaster361/AUTO_MAA/
   license: GPLv3
 
 - id: Auto-Neutron
@@ -369,7 +369,7 @@
   category: other
   tagline: A free Monero desktop wallet
   description: Feather is an easy-to-use, small, and fast graphical wallet for the Monero cryptocurrency. It is beginner-friendly, but also provides an extensive set of optional advanced features. It ships with sane defaults that suit most users, but can be configured for uncommon or high threat models. It serves as a testing grounds for experimental features that may later be adopted in reference wallets.
-  homepage: https://featherwallet.org/
+  homepage: featherwallet.org/
   repository: github.com/feather-wallet/feather
   license: BSD-3-clause
 
@@ -405,7 +405,7 @@
   category: accessibility
   tagline: The flexible browser based on Firefox
   description: Floorp is an open-source web browser based on Mozilla Firefox, developed by the Japanese student community Ablaze. It offers extensive customization options, including vertical tabs, multifunctional sidebars, and support for custom CSS, enhancing user flexibility. Floorp maintains compatibility with Firefox add-ons and is regularly updated to ensure security and performance. 
-  homepage: https://floorp.app
+  homepage: floorp.app
   repository: github.com/Floorp-Projects/Floorp
   wikipedia: en.wikipedia.org/wiki/Floorp
   license: MPL-2.0  
@@ -434,7 +434,7 @@
   tagline: The Flyweight IDE
   description: Geany is a powerful, stable and lightweight programmers text editor that provides tons of useful features without bogging down your workflow. It runs on Linux, Windows and macOS, is translated into over 40 languages, and has built-in support for more than 50 programming languages. 
   homepage: geany.org/
-  repository: https://github.com/geany/geany
+  repository: github.com/geany/geany
   license: GPLv2
 
 - id: geany-plugins
@@ -890,7 +890,7 @@
   category: gaming
   tagline: Build your unmatched LoL Client
   description: Pengu Loader is a powerful plugin loader tailored for the League of Legends Client, enabling limitless customization and personalization. With Pengu Loader, you can seamlessly load JavaScript plugins directly into the Client, allowing you to transform its appearance, add unique features, and integrate custom content to enhance your overall experience.
-  homepage: https://pengu.lol/
+  homepage: pengu.lol/
   repository: github.com/PenguLoader/PenguLoader
   license: MIT
 
@@ -954,7 +954,7 @@
   category: gaming
   tagline: A software to help you manage your visual novels in your computer
   description: PotatoVN is a VisualNovel management tool, designed to provide a convenient game management platform for galgame fans. It can help you to automatically retrieve games in folders; automatically obtain game information from multiple databases (currently supports bangumi, visual novel database), and synchronize the play status from the account; synchronize game archives with the cloud (this function requires any synchronization software on the computer to synchronize archive folders, such as OneDrive, NextCloud, Nut Cloud, Baidu Cloud Sync Disk, etc.); count game play time; automatically decompress games from compressed packages, and automatically identify and add them to the game library
-  homepage: https://potatovn.net/
+  homepage: potatovn.net/
   repository: github.com/GoldenPotato137/PotatoVN
   license: Apache-v2_0
 
