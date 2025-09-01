@@ -79,6 +79,15 @@
   repository: github.com/skyline69/balatro-mod-manager
   license: GPLv3
 
+- id: BEAGLE
+  title: BEAGLE
+  category: science
+  tagline: A general purpose library for evaluating the likelihood of sequence evolution on trees
+  description: BEAGLE is a high-performance library that can perform the core calculations at the heart of most Bayesian and Maximum Likelihood phylogenetics packages. It can make use of highly-parallel processors such as those in graphics cards (GPUs) found in many PCs. The project involves an open API and fast implementations of a library for evaluating phylogenetic likelihoods (continuous time Markov processes) of biomolecular sequence evolution. The aim is to provide high performance evaluation ‘services’ to a wide range of phylogenetic software, both Bayesian samplers and Maximum Likelihood optimizers. This allows these packages to make use of implementations that make use of optimized hardware such as graphics processing units.
+  homepage: beagle-dev.github.io
+  repository: github.com/beagle-dev/beagle-lib
+  license: MIT
+
 - id: BetterHI3Launcher
   title: BetterHI3Launcher
   category: gaming
@@ -446,6 +455,15 @@
   repsoitory: github.com/geany/geany-plugins
   license: GPLv3
 
+- id: GHelper
+  title: GHelper
+  category: accessibility
+  tagline: Lightweight control tool for Asus laptops
+  description: Small and lightweight Armoury Crate alternative for Asus laptops offering almost same functionality with much smaller footprint. Works with all popular models, such as ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, Flow Z13, DUO, TUF Series, Strix or Scar Series, ProArt, Vivobook, Zenbook, ROG Ally or Ally X and many more!
+  homepage: g-helper.com/
+  repository: github.com/seerge/g-helper
+  license: GPLv3
+
 - id: Ghost-Downloader-3
   title: Ghost-Downloader-3
   category: accessibility
@@ -582,6 +600,15 @@
   repository: github.com/dkfans/keeperfx
   license: GPLv2
 
+- id: keymagic
+  title: keymagic
+  category: accessibility
+  tagline: A smart keyboard input method editor for complex script languages
+  description: KeyMagic is a Unicode keyboard input customizer designed for complex script languages. It works system-wide across all applications and allows users to add, edit, and switch between multiple keyboard layouts.
+  homepage: keymagic.net/
+  repository: github.com/thantthet/keymagic-3
+  license: GPLv2
+
 - id: Kindle-Comic-Converter
   title: Kindle Comic Converter
   category: educational
@@ -671,6 +698,14 @@
   homepage: lnav.org/
   repository: github.com/tstack/lnav
   license: BSD-2-clause  
+
+- id: Millennium
+  title: Millennium
+  category: gaming
+  tagline: Millennium - A better Steam client experience
+  homepage: steambrew.app/
+  repository: github.com/SteamClientHomebrew/Millennium
+  license: MIT
 
 - id: mlocati-gettext-windows
   title: mlocati-gettext-windows
@@ -1174,7 +1209,7 @@
   title: Spicetify
   category: productivity
   tagline: Powerful CLI tool to take control of the Spotify client
-  description: Spicetify is the ultimate tool for Spotify users who want to customize their desktop client and make their music listening experience more enjoyable. With Spicetify, you can easily change the color scheme, add new functionality, and even create entirely new features. Whether you're a music lover, a tech enthusiast, or just someone who wants to make their Spotify experience more personalized, Spicetify is a great option to consider. Give it a try and see how it can enhance your Spotify experience. Happy listening!
+  description: Spicetify is the ultimate tool for Spotify users who want to customize their desktop client and make their music listening experience more enjoyable. With Spicetify, you can easily change the color scheme, add new functionality, and even create entirely new features. Whether you are a music lover, a tech enthusiast, or just someone who wants to make their Spotify experience more personalized, Spicetify is a great option to consider. Give it a try and see how it can enhance your Spotify experience. Happy listening!
   homepage: spicetify.app/
   repository: github.com/spicetify/cli/releases
   license: LGPLv2_1
@@ -1188,11 +1223,20 @@
   repository: github.com/sqlitebrowser/sqlitebrowser
   license: GPLv3
 
+- id: sqlpage
+  title: sqlpage
+  category: developer-tools
+  tagline: Build full-featured data applications using only SQL
+  description: SQLPage is an open-source web server that generates interactive HTML pages directly from SQL queries. Each .sql file defines a page. It interprets query results to build structured UI components without additional frontend or backend code. SQLPage supports SQLite, PostgreSQL, MySQL, MariaDB and SQL Server.
+  homepage: sql-page.com/
+  repository: github.com/sqlpage/sqlpage
+  license: MIT
+
 - id: Starship-Prompt
   title: Starship Prompt
   category: developer-tools
   tagline: Starship - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-  desription: The minimal, blazing-fast, and infinitely customizable prompt for any shell! Works on the most common shells on the most common operating systems. Use it everywhere! Brings the best-in-class speed and safety of Rust, to make your prompt as quick and reliable as possible. Every little detail is customizable to your liking, to make this prompt as minimal or feature-rich as you'd like it to be.
+  desription: The minimal, blazing-fast, and infinitely customizable prompt for any shell! Works on the most common shells on the most common operating systems. Use it everywhere! Brings the best-in-class speed and safety of Rust, to make your prompt as quick and reliable as possible. Every little detail is customizable to your liking, to make this prompt as minimal or feature-rich as you would like it to be.
   homepage: starship.rs
   repository: github.com/starship/starship
   license: ISC
