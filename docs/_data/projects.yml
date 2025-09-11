@@ -557,7 +557,7 @@
 - id: ImHex
   title: ImHex
   category: other
-  tagline: 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
+  tagline: A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
   description: ImHex is a Hex Editor, a tool to display, decode and analyze binary data to reverse engineer their format, extract informations or patch values in them.
   homepage: imhex.werwolv.net
   repository: github.com/WerWolv/ImHex
