@@ -1093,7 +1093,7 @@
   title: REPENTOGON
   category: gaming
   tagline: Isaac Script Extender 
-  description: REPENTOGON is a mod for The Binding of Isaac: Repentance that brings much-needed bug fixes, extra functionality, and performance enhancements to the Lua API.
+  description: 'REPENTOGON is a mod for The Binding of Isaac: Repentance that brings much-needed bug fixes, extra functionality, and performance enhancements to the Lua API.'
   homepage: repentogon.com
   repository: github.com/TeamREPENTOGON/REPENTOGON
   license: GPLv2
