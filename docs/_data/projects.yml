@@ -554,6 +554,16 @@
   repository: github.com/hyphanet/sign-windows-installer
   license: GPLv2
 
+- id: ImHex
+  title: ImHex
+  category: other
+  tagline: 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
+  description: ImHex is a Hex Editor, a tool to display, decode and analyze binary data to reverse engineer their format, extract informations or patch values in them.
+  homepage: imhex.werwolv.net
+  repository: github.com/WerWolv/ImHex
+  wikipedia: en.wikipedia.org/wiki/ImHex
+  license: GPLv2
+
 - id: InChI
   title: InChI
   category: science
@@ -1061,6 +1071,15 @@
   repository: github.com/rainmeter/rainmeter
   license: GPLv2
 
+- id: Rama
+  title: Rama
+  category: other
+  tagline: move and transform network packets
+  description: Rama is a powerful, modular service framework for Rust that helps you build proxies, servers, and clients with full control over your network stack
+  homepage: ramaproxy.org/
+  repository: github.com/plabayo/rama/
+  license: MIT
+
 - id: REasy-Editor
   title: reasy-editor
   category: gaming
@@ -1074,7 +1093,7 @@
   title: REPENTOGON
   category: gaming
   tagline: Isaac Script Extender 
-  description: 'REPENTOGON is a mod for The Binding of Isaac: Repentance that brings much-needed bug fixes, extra functionality, and performance enhancements to the Lua API.'
+  description: REPENTOGON is a mod for The Binding of Isaac: Repentance that brings much-needed bug fixes, extra functionality, and performance enhancements to the Lua API.
   homepage: repentogon.com
   repository: github.com/TeamREPENTOGON/REPENTOGON
   license: GPLv2
@@ -1087,6 +1106,15 @@
   homepage: rsna.github.io/anonymizer/
   repository: github.com/RSNA/anonymizer
   license: RSNA-MIRC
+
+- id: sabnzbd
+  title: sabnzbd
+  category: accessibility
+  tagline: SABnzbd - Free and easy binary newsreader
+  description: SABnzbd is a free, open-source binary newsreader written in Python. It simplifies the process of downloading from Usenet by automating the entire workflow from start to finish. It automatically downloads, verifies, repairs, extracts, and files away content with zero human interaction.
+  homepage: sabnzbd.org/
+  repository: github.com/sabnzbd/sabnzbd
+  license: GPLv2
 
 - id: Satisfactory-Modding
   title: Satisfactory Modding
