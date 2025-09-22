@@ -1267,7 +1267,7 @@
 
 - id: Spicetify
   title: Spicetify
-  category: productivity
+  category: audio
   tagline: Powerful CLI tool to take control of the Spotify client
   description: Spicetify is the ultimate tool for Spotify users who want to customize their desktop client and make their music listening experience more enjoyable. With Spicetify, you can easily change the color scheme, add new functionality, and even create entirely new features. Whether you are a music lover, a tech enthusiast, or just someone who wants to make their Spotify experience more personalized, Spicetify is a great option to consider. Give it a try and see how it can enhance your Spotify experience. Happy listening!
   homepage: spicetify.app/
