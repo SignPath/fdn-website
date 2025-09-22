@@ -1021,6 +1021,15 @@
   repository: github.com/GoldenPotato137/PotatoVN
   license: Apache-v2_0
 
+- id: promptx-desktop
+  title: PromptX-Desktop
+  category: productivity
+  tagline: Leading AI Agent Context Platform - Chat is all you need
+  description: PromptX Desktop is a comprehensive AI agent platform with core capabilities: AI Role Creation, Intelligent Tool Development, and Cognitive Memory System. Chat is all you need to turn AI agents into experts using advanced prompt engineering and DPML.
+  homepage: github.com/Deepractice/PromptX
+  repository: github.com/Deepractice/PromptX
+  license: MIT
+
 - id: PWAsForFirefox
   title: PWAsForFirefox
   category: productivity
