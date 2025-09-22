@@ -133,6 +133,15 @@
   repository: nexte.st
   license: Apache-v2_0
 
+- id: catime
+  title: catime
+  category: productivity
+  tagline: Catime – A very useful timer (Pomodoro Clock)
+  description: An ultra-lightweight countdown tool with Pomodoro functionality, featuring a transparent interface, rich customization, minimal memory and CPU usage, elegantly managing time.
+  homepage: catime.vladelaina.com/
+  repository: github.com/vladelaina/Catime
+  license: Apache-v2_0
+
 - id: cherrytree
   title: cherrytree
   category: productivity
@@ -628,6 +637,15 @@
   repository: github.com/ciromattia/kcc
   license: ISC 
 
+- id: koncentro
+  title: koncentro
+  category: productivity
+  tagline: Pomodoro, tasks & website blocking
+  description: Koncentro is a productivity app built with Qt that combines timeboxing with the Pomodoro technique and an integrated website blocker. The website blocker supports both a blocklist (sites you want to block) and an allowlist (only specific sites are allowed). You can separate work and personal goals using workspaces. Each workspace has its own set of settings, website blocker configuration, and tasks. 
+  homepage: github.com/kun-codes/Koncentro/
+  repository: github.com/kun-codes/Koncentro/
+  license: GPLv3
+
 - id: KSP-CKAN
   title: KSP-CKAN
   category: gaming
@@ -1002,6 +1020,15 @@
   homepage: potatovn.net/
   repository: github.com/GoldenPotato137/PotatoVN
   license: Apache-v2_0
+
+- id: promptx-desktop
+  title: promptx-desktop
+  category: productivity
+  tagline: Leading AI Agent Context Platform - Chat is all you need
+  description: PromptX Desktop is a comprehensive AI agent platform with core capabilities: AI Role Creation, Intelligent Tool Development, and Cognitive Memory System. Chat is all you need to turn AI agents into experts using advanced prompt engineering and DPML.
+  homepage: github.com/Deepractice/PromptX
+  repository: github.com/Deepractice/PromptX
+  license: MIT
 
 - id: PWAsForFirefox
   title: PWAsForFirefox
@@ -1500,6 +1527,15 @@
   description: X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods, shader packs. It also has integration with Minecraft Forge, Fabric, Quilt, CurseForge and Modrinth.
   homepage: xmcl.app
   repository: github.com/Voxelum/x-minecraft-launcher
+  license: MIT
+
+- id: yasb
+  title: yasb
+  category: productivity
+  tagline: YASB Reborn
+  description: A highly configurable Windows status bar.
+  homepage: github.com/amnweb/yasb
+  repository: github.com/amnweb/yasb
   license: MIT
 
 - id: Zen
