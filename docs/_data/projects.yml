@@ -181,7 +181,7 @@
 
 - id: cobolt-platinum-hill
   title: cobolt platinum hill
-  category: accessibility
+  category: productivity
   tagline: Cobolt - We believe the future of AI is local, private, and personalized.
   description: |
     Cobolt represents our vision for the future of AI assistants:
@@ -420,7 +420,7 @@
 
 - id: Floorp-Browser  
   title: Floorp Browser
-  category: accessibility
+  category: productivity
   tagline: The flexible browser based on Firefox
   description: Floorp is an open-source web browser based on Mozilla Firefox, developed by the Japanese student community Ablaze. It offers extensive customization options, including vertical tabs, multifunctional sidebars, and support for custom CSS, enhancing user flexibility. Floorp maintains compatibility with Firefox add-ons and is regularly updated to ensure security and performance. 
   homepage: floorp.app
@@ -430,7 +430,7 @@
 
 - id: Folo
   title: Folo
-  category: accessibility
+  category: productivity
   tagline: Follow everything in one place
   description: As they say, your thoughts are what you read—and we’ve been consuming noisy feeds for too long! Folo organizes content into one timeline, keeping you updated on what matters, noise-free. Share lists, explore collections, and enjoy distraction-free browsing.
   homepage: follow.is/
@@ -439,7 +439,7 @@
 
 - id: frpmgr
   title: frpmgr
-  category: accessibility
+  category: developer-tools
   tagline: A user-friendly desktop GUI client for FRP on Windows
   description: FRP Manager is a multi-node, graphical reverse proxy tool designed for FRP on Windows. It allows users to setup reverse proxy easily without writing the configuration file. FRP Manager provides a complete solution to help you avoid many tedious operations when deploying a reverse proxy.
   homepage: github.com/koho/frpmgr
@@ -475,7 +475,7 @@
 
 - id: Ghost-Downloader-3
   title: Ghost-Downloader-3
-  category: accessibility
+  category: productivity
   tagline: AI-powered next-generation downloader
   description: Ghost-Downloader-3 is a cross-platform fluent-design AI-boost multi-threaded downloader built with Python.
   homepage: gd3.top/
@@ -484,7 +484,7 @@
   
 - id: Giant-Log-Viewer
   title: Giant Log Viewer
-  category: accessibility
+  category: developer-tools
   tagline: View text files of any size
   description: A cross-platform desktop portable application that allows viewing text files of any size when `less` is not available.
   homepage: github.com/sunny-chung/giant-log-viewer
@@ -520,7 +520,7 @@
   
 - id: Helium
   title: helium
-  category: accessibility
+  category: productivity
   tagline: Helium - Fast and private web-browsing without ads or other bullshit
   description: Best privacy, unbiased ad-blocking, support for all Chromium extensions; and cool features like native !bangs. No adware, bloat, no visual noise, no invasive AI integrations.
   homepage: helium.computer/
@@ -910,7 +910,7 @@
 
 - id: ParquetViewer
   title: ParquetViewer
-  category: accessibility
+  category: developer-tools
   tagline: Simple Windows desktop application for viewing & querying Apache Parquet files 
   description: |
     ParquetViewer is a utility to quickly view Apache Parquet files on Windows desktop machines. Some key features include:
@@ -932,7 +932,7 @@
 
 - id: PasteIntoFile
   title: PasteIntoFile
-  category: accessibility
+  category: productivity
   tagline: A simple tool to paste clipboard content into files.
   description: PasteIntoFile is a lightweight program that allows users to paste clipboard content directly into files, simplifying workflows and enhancing productivity.
   homepage: github.com/eltos/PasteIntoFile
@@ -968,7 +968,7 @@
 
 - id: pinokio
   title: pinokio
-  category: accessibility
+  category: developer-tools
   tagline: Pinokio - install, run, and manage anything with 1 click
   description: Pinokio is a platform that makes it easy to install, manage, and automate any open source project on your machine.
   homepage: pinokio.co/
@@ -1141,7 +1141,7 @@
 
 - id: sabnzbd
   title: sabnzbd
-  category: accessibility
+  category: productivity
   tagline: SABnzbd - Free and easy binary newsreader
   description: SABnzbd is a free, open-source binary newsreader written in Python. It simplifies the process of downloading from Usenet by automating the entire workflow from start to finish. It automatically downloads, verifies, repairs, extracts, and files away content with zero human interaction.
   homepage: sabnzbd.org/
@@ -1213,7 +1213,7 @@
 
 - id: sniffnet
   title: sniffnet
-  category: accessibility
+  category: developer-tools
   tagline: Comfortably monitor your Internet traffic 
   description: Sniffnet is a powerful yet intuitive network monitoring tool, providing a polished dashboard of your Internet traffic. Sniffnet is cross-platform, completely free, and open-source — available for everyone to use without restrictions.
   homepage: sniffnet.net/ 
@@ -1313,7 +1313,7 @@
 
 - id: sticker-convert
   title: sticker-convert
-  category: accessibility
+  category: graphics
   tagline: sticker-convert - Convert (animated) stickers to/from WhatsApp, Telegram, Signal, Line, Kakao, Naver Band, Viber, Discord, iMessage. Written in Python.
   description: sticker-convert - Convert (animated) stickers to/from WhatsApp, Telegram, Signal, Line, Kakao, Naver Band, Viber, Discord, iMessage. Written in Python.
   homepage: github.com/laggykiller/sticker-convert
