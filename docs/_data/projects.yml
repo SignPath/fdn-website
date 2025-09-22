@@ -1520,6 +1520,15 @@
   repository: github.com/Voxelum/x-minecraft-launcher
   license: MIT
 
+- id: yasb
+  title: yasb
+  category: productivity
+  tagline: YASB Reborn
+  description: A highly configurable Windows status bar.
+  homepage: github.com/amnweb/yasb
+  repository: github.com/amnweb/yasb
+  license: MIT
+  
 - id: Zen
   title: Zen
   category: accessibility
