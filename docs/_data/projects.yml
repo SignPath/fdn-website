@@ -637,14 +637,14 @@
   repository: github.com/ciromattia/kcc
   license: ISC 
 
-- id: koncentro
-  title: koncentro
+- id: Koncentro
+  title: Koncentro
   category: productivity
   tagline: Pomodoro, tasks & website blocking
   description: Koncentro is a productivity app built with Qt that combines timeboxing with the Pomodoro technique and an integrated website blocker. The website blocker supports both a blocklist (sites you want to block) and an allowlist (only specific sites are allowed). You can separate work and personal goals using workspaces. Each workspace has its own set of settings, website blocker configuration, and tasks. 
   homepage: github.com/kun-codes/Koncentro/
   repository: github.com/kun-codes/Koncentro/
-  license: GPLv3
+  license: GPL-3.0-or-later
 
 - id: KSP-CKAN
   title: KSP-CKAN
