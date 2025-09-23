@@ -1087,7 +1087,7 @@
 
 - id: RadToolz
   title: RadToolz
-  category: productivity
+  category: science
   tagline: A Microsoft Excel add-in for radiation safety professionals
   description: RadToolz is a Microsoft Excel add-in that brings several radiation safety equations into easy to implement functions. These functions include -> Half-life in seconds, minutes, hours, or years. Specific activity in curies/gram. Enumerates decay series. Radioactive decay for series. Dose conversion factors for inhalation and ingestion (ICRP 68 and 72). Simple Gaussian plume dispersion (χ/Q).
   homepage: www.radtoolz.com/
@@ -1132,7 +1132,7 @@
 
 - id: RSNA-DICOM-Anonymizer
   title: RSNA DICOM Anonymizer
-  category: developer-tools
+  category: science
   tagline: The RSNA DICOM Anonymizer is a cross platform, stand-alone de-identification utility.
   description: DICOM image files are imported either via network transfers or directly from the local file system. When a DICOM file is received, it is de-identified and then stored in a user-defined local storage directory. Anonymized images can be exported either to a remote DICOM server or an AWS S3 Object store such as the RSNA Imaging Archive.
   homepage: rsna.github.io/anonymizer/
