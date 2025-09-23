@@ -117,7 +117,7 @@
 
 - id: Brewtarget
   title: Brewtarget
-  category: educational
+  category: productivity
   tagline: Brewtarget – Beer Brewing Software for Homebrewers
   description: Brewtarget is a cross-platform desktop beer recipe creation tool for Linux, Mac, and Windows.  It automatically calculates color, bitterness, and other key parameters for you while you drag and drop ingredients into the recipe. Brewtarget also has many other tools such as priming sugar calculators, OG correction help, and a unique mash designing tool. It also can export and import recipes in BeerJSON and BeerXML, allowing you to easily share recipes with friends who use other programs.
   homepage: brewtarget.beer/
@@ -630,7 +630,7 @@
 
 - id: Kindle-Comic-Converter
   title: Kindle Comic Converter
-  category: educational
+  category: graphics
   tagline: Optimize comics for eink readers like Kindle and Kobo!
   description: Kindle Comic Converter is a Python app to convert and optimize manga/comics for eink readers like Kindle! It was initially designed for Kindle but also supports Kobo, ReMarkable, and more! Supported source file formats include JPG, PNG, GIF, CBZ, etc and supported output formats include EPUB, MOBI, and CBZ.
   homepage: github.com/ciromattia/kcc
@@ -783,7 +783,7 @@
 
 - id: novelWriter
   title: novelWriter
-  category: educational
+  category: productivity
   tagline: A markdown-like editor for novels
   description: A markdown-like text editor designed for writing novels and larger projects of many smaller plain text documents.
   homepage: novelwriter.io
@@ -941,7 +941,7 @@
 
 - id: PDF-Stitcher
   title: PDF Stitcher
-  category: educational
+  category: productivity
   tagline: The open source PDF stitching software for sewists, by sewists.
   description: PDF Sticher is a utility for stitching together many PDF pages from one document into a single page. This program was created in order to convert sewing patterns into a convenient format for projecting, though it could be used to stitch together any PDF. Additional features include selecting layers to appear in the final document and layer-specific line property modifications, such as line thickness and colour.
   homepage: www.pdfstitcher.org/
