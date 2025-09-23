@@ -19,6 +19,9 @@ GPLv2:
 GPLv3: 
   name: GNU GPL v3
   link: https://www.gnu.org/licenses/gpl-3.0.html
+GPL-3.0-or-later:
+  name: GNU General Public License v3.0 or later
+  link: https://spdx.org/licenses/GPL-3.0-or-later.html
 ISC:
   name: ISC License
   link: https://opensource.org/licenses/ISC
