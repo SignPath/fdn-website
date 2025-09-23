@@ -594,7 +594,7 @@
   
 - id: inkstitch
   title: inkstitch
-  category: other
+  category: graphics
   tagline: An open-source machine embroidery design platform based on Inkscape
   description: Ink/Stitch aims to be a full-fledged, cross-platform embroidery digitizing platform based entirely on free, open-source software. Our goal is to be approachable for hobbyists while also providing the power needed by professional digitizers. 
   homepage: inkstitch.org/
