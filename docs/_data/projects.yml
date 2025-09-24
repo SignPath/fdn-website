@@ -711,7 +711,7 @@
 
 - id: litedb.org
   title: LiteDB
-  categoy: developer-tools
+  category: developer-tools
   tagline: Embedded NoSQL database for .NET
   description: An open source MongoDB-like database with zero conﬁguration - mobile ready
   homepage: www.litedb.org
