@@ -36,7 +36,7 @@
 
 - id: asdf-overlay
   title: asdf-overlay
-  category: productivity
+  category: gaming
   tagline: High performance game overlay library for Windows
   description: Asdf Overlay provides an easy to use interface to draw on top of window framebuffer by hooking rendering backends. GPU shared texture was used to avoid framebuffer copy via CPU. As a result, Asdf Overlay is capable of rendering overlay with any size without performance loss.
   homepage: github.com/storycraft/asdf-overlay
@@ -54,7 +54,7 @@
 
 - id: AUTO_MAA
   title: AUTO_MAA
-  category: productivity
+  category: gaming
   tagline: AUTO_MAA - A MAA Multi Account Management and Automation Tool
   description: A MAA Multi Account Management and Automation Tool
   homepage: doc.automaa.xyz/
@@ -343,7 +343,7 @@
 
 - id: Espanso
   title: Espanso
-  category: developer-tools
+  category: productivity
   tagline: Espanso – A Privacy-first, Cross-platform Text Expander
   description: |
     Espanso is a cross-platform text-expander written in Rust. It detects when you type a specific keyword and replaces it with something else. This is useful in many ways:
@@ -366,7 +366,7 @@
 
 - id: ExplorerTabUtility
   title: ExplorerTabUtility
-  category: developer-tools
+  category: productivity
   tagline: Supercharge Windows 11 File Explorer with tab management utilities
   description: Explorer Tab Utility enhances Windows 11 File Explorer by automatically converting new windows to tabs, allowing users to duplicate tabs, reopen closed ones, navigate with custom shortcuts, and manage tabs efficiently. It provides a cleaner and more organized file management experience through a lightweight, non-intrusive utility.
   homepage: github.com/w4po/ExplorerTabUtility
@@ -720,7 +720,7 @@
 
 - id: The-Logfile-Navigator
   title: lnav
-  category: productivity
+  category: developer-tools
   tagline: A log file viewer for the terminal
   description: A log file viewer for that terminal that can merge, tail, search, filter, and query log files with ease.  Just point lnav at a directory and it will take care of the rest. File formats are automatically detected and compressed files are unpacked on the fly. Online help and previews for operations make it simpler to level up your experience.
   homepage: lnav.org/
@@ -837,7 +837,7 @@
 
 - id: okww
   title: okww
-  category: productivity
+  category: gaming
   tagline: okww - Automation for Wuthering Waves
   description: This tool automates gameplay in Wuthering Waves using computer vision and win32api, enabling background operation for efficient resource farming and task completion. It streamlines daily activities by offering one-press clearing for daily tasks and Tacet Fields, and automates combat in various game modes, including Abyss, the open world, and Tacet Fields. Additionally, it enhances user experience by automatically skipping dialogs during quests and picking up in-game items like Echos, flowers, and chests. With support for all game languages for most features, it provides a versatile automation solution.
   homepage: github.com/ok-oldking/ok-wuthering-waves
@@ -1331,7 +1331,7 @@
 
 - id: Tera-Term
   title: Tera Term
-  category: productivity
+  category: developer-tools
   tagline: An open source terminal emulator with built-in communication client
   description: Tera Term is a terminal emulator that supports serial port, TCP/IP (telnet, SSH), and named pipe connections. It emulates VT100 and part of VT200/300 emulation, and supports TEK4010 emulation. Tera Term has a macro interpreter that runs scripts written in Tera Term Language (TTL). It allows users to automate the Tera Term terminal emulator.
   homepage: teratermproject.github.io/
