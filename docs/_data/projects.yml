@@ -1545,7 +1545,7 @@
   
 - id: Zen
   title: Zen
-  category: accessibility
+  category: productivity
   tagline: Zen - a simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
   description: Zen is a simple and powerful desktop application that helps you browse the internet and use your apps without annoying ads, trackers, or hidden threats. It works quietly in the background, blocking unwanted content across your entire computer — not just in your web browser, but in your other apps too. Zen comes ready to protect you with built-in filters, and you can easily customize it to suit your needs. Whether you're looking for a cleaner, faster, and more private online experience, or just want to stop invasive tracking, Zen has you covered. Available for Windows, macOS, and Linux. Free and open source, forever.
   homepage: zenprivacy.net/
