@@ -565,7 +565,7 @@
 
 - id: ImHex
   title: ImHex
-  category: other
+  category: developer-tools
   tagline: A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. 
   description: ImHex is a Hex Editor, a tool to display, decode and analyze binary data to reverse engineer their format, extract informations or patch values in them.
   homepage: imhex.werwolv.net
@@ -603,7 +603,7 @@
 
 - id: Kazumi
   title: Kazumi
-  category: other
+  category: productivity
   tagline: by Predidit
   description: A cross-platform anime tracking and watching application developed with Flutter, allowing users to edit their own rules to define video sources.
   homepage: github.com/Predidit/Kazumi
@@ -666,7 +666,7 @@
 
 - id: LGTVCompanion
   title: LGTVCompanion
-  category: other
+  category: productivity
   tagline: Power On and Off WebOS LG TVs together with your PC
   description: Power On and Off WebOS LG TVs together with your PC
   homepage: github.com/JPersson77/LGTVCompanion
@@ -1105,7 +1105,7 @@
 
 - id: Rama
   title: Rama
-  category: other
+  category: developer-tools
   tagline: move and transform network packets
   description: Rama is a powerful, modular service framework for Rust that helps you build proxies, servers, and clients with full control over your network stack
   homepage: ramaproxy.org/
@@ -1249,7 +1249,7 @@
 
 - id: Spectral
   title: Spectral
-  category: other
+  category: gaming
   tagline: Sinclair ZX Spectrum emulator from the 80s, for Windows, Linux and MacOS.
   description: Spectral is Sinclair ZX Spectrum emulator from the 80s computer. Probably the easiest to use ZX emulator of its kind. The emulator and its interface can be used just with a mouse.
   homepage: spectral.zxe.io
