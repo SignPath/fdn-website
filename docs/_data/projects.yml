@@ -298,7 +298,7 @@
 
 - id: Drawpile
   title: Drawpile
-  category: gaming
+  category: graphics
   tagline: Drawpile – a collaborative drawing program
   description: Drawpile is a collaborative drawing program that lets multiple people draw, sketch, paint and animate on the same canvas simultaneously. 
   homepage: drawpile.net/
@@ -1359,7 +1359,7 @@
 
 - id: tik-manager
   title: tik-manager
-  category: gaming
+  category: developer-tools
   tagline: The ultimate light-weight CG Pipeline for VFX & Games
   description: Tik Manager is a flexible pipeline solution. It is simple for small-scale projects yet robust enough for heavy loads. Additionally, it offers a variety of features that make it suitable for any stage of production.
   homepage: tik-manager.com/
