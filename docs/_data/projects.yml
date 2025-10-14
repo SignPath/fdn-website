@@ -43,6 +43,15 @@
   repository: github.com/storycraft/asdf-overlay
   license: Apache-v2_0
 
+- id: AstroImageJ
+  title: AstroImageJ
+  category: science
+  tagline: Image Processing and Photometric Extraction for Ultra-Precise Astronomical Light Curves
+  description: AstroImageJ (AIJ), which provides an astronomy specific image display environment and tools for astronomy specific image calibration and data reduction. Although AIJ maintains the general purpose image processing capabilities of ImageJ, AIJ is streamlined for time-series differential photometry, light curve detrending and fitting, and light curve plotting, especially for applications requiring ultra-precise light curves (e.g., exoplanet transits). AIJ provides research grade image calibration and analysis tools with a GUI driven approach, and easily installed cross-platform compatibility. It enables new users, even at the level of undergraduate student, high school student, or amateur astronomer, to quickly start processing, modeling, and plotting astronomical image data with one tightly integrated software package.
+  homepage: astroimagej.com/
+  repository: github.com/AstroImageJ/astroimagej
+  license: GPLv3  
+
 - id: auto-mcs
   title: auto-mcs
   category: gaming
@@ -160,6 +169,15 @@
   homepage: chewing.im
   repository: github.com/chewing/windows-chewing-tsf
   license: LGPLv2_1
+
+- id: ClassicUO
+  title: ClassicUO
+  category: gaming
+  tagline: An open source implementation of the Ultima Online Classic Client.
+  description: ClassicUO is an open source implementation of the Ultima Online Classic Client. This client is intended to emulate all standard client versions and is primarily tested against Ultima Online free shards.
+  homepage: github.com/ClassicUO/ClassicUO
+  repository: github.com/ClassicUO/ClassicUO
+  license: BSD-2-clause  
 
 - id: ClassIsland
   title: ClassIsland
@@ -562,6 +580,15 @@
   homepage: www.hyphanet.org
   repository: github.com/hyphanet/sign-windows-installer
   license: GPLv2
+
+- id: Jubler
+  title: Jubler
+  category: graphics
+  tagline: Open-source subtitle editing
+  description: Jubler is an open-source tool to edit text-based subtitles. It can be used as an authoring software for new subtitles or as a tool to convert, transform, correct and refine existing subtitles. The most popular subtitle formats can be used. Preview of the subtitles in realtime or in design time, spell checking, translation mode and styles editing are some of the main features.
+  homepage: jubler.org/
+  repository: github.com/teras/Jubler
+  license: GPLv2 
 
 - id: ImHex
   title: ImHex
@@ -1166,6 +1193,15 @@
   repository: github.com/f4exb/sdrangel
   license: GPLv3
 
+- id: seelen
+  title: seelen
+  category: productivity
+  tagline: desktop environment 
+  description: fully customizable desktop environment.
+  homepage: seelen.io/
+  repository: github.com/eythaann/seelen-ui
+  license: AGPL3
+
 - id: simple-acme
   title: simple-acme
   category: developer-tools
@@ -1320,6 +1356,15 @@
   repository: github.com/laggykiller/sticker-convert
   license: GPLv2
 
+- id: suanPan
+  title: suanPan
+  category: science
+  tagline: 🧮 An Open Source, Parallel and Heterogeneous Finite Element Analysis Framework 
+  description: 🧮 suanPan is a finite element method (FEM) simulation platform for applications in fields such as solid mechanics and civil/structural/seismic engineering. suanPan is written in modern high-quality C++ code and is targeted to provide an efficient, concise, flexible and reliable FEM simulation platform.
+  homepage: github.com/TLCFEM/suanPan
+  repository: github.com/TLCFEM/suanPan
+  license: GPLv3  
+
 - id: mapeditor.org
   title: Tiled
   category: gaming
@@ -1366,7 +1411,6 @@
   repository: github.com/masqu3rad3/tik_manager4
   license: GPLv3
   
-  repository: 
 - id: Tonbrett
   title: Tonbrett
   category: audio
@@ -1411,6 +1455,15 @@
   description: TurboWarp extends the Scratch programming language with improved performance, new extensions, helpful features, and the ability to export projects so they can run anywhere. It can be used to make games, simulations, art, animations, and more. TurboWarp is not affiliated with the Scratch Foundation.
   homepage: desktop.turbowarp.org/
   repository: github.com/TurboWarp/desktop/
+  license: GPLv3
+  
+- id: TwintailLauncher
+  title: TwintailLauncher
+  category: gaming
+  tagline: Multi-platform launcher for your anime games
+  description: Twintaillauncher is a multi-platform launcher that brings mod support, quality-of-life improvements, and advanced features to a variety of anime-styled games. TTL is an all-in-one tool for downloading, managing, and launching your favorite anime games. It’s designed with flexibility, ease of use, and customization in mind.
+  homepage: twintaillauncher.app/
+  repository: github.com/TwintailTeam/TwintailLauncher
   license: GPLv3
 
 - id: Source-2-Viewer
@@ -1534,6 +1587,15 @@
   repository: github.com/Voxelum/x-minecraft-launcher
   license: MIT
 
+- id: yacreader
+  title: yacreader
+  category: productivity
+  tagline: Comic Reader
+  description: YACReader is a comic reader and comic manager with support for cbr cbz zip rar and pdf comic files. It is available for Windows, Linux and macOS. It’s  a open source project that has been developed since 2008. The first version was released in 2009.
+  homepage: yacreader.com/
+  repository: github.com/YACReader/yacreader
+  license: GPLv3  
+
 - id: yasb
   title: yasb
   category: productivity
@@ -1551,3 +1613,12 @@
   homepage: zenprivacy.net/
   repository: github.com/ZenPrivacy/zen-desktop
   license: MIT
+
+- id: ZenlessZoneZero-OneDragon
+  title: ZenlessZoneZero-OneDragon
+  category: gaming
+  tagline: AI-Powered Automation for ZZZ
+  description: Zenless Zone Zero - One Dragon is a research project focused on automating operations on the Windows system. It primarily utilizes methods such as system screenshots, OCR recognition, YOLO detection, and keyboard/mouse control to automatically complete daily tasks in the game Zenless Zone Zero, thereby reducing repetitive gameplay for players.
+  homepage: one-dragon.com/zzz/zh/home.html
+  repository: github.com/OneDragon-Anything/ZenlessZoneZero-OneDragon
+  license: GPLv3
