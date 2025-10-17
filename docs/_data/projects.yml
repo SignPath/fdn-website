@@ -407,7 +407,7 @@
   description: A neofetch-like tool for fetching system information and displaying it in a visually appealing way. It is written mainly in C, with a focus on performance and customizability.
   homepage: github.com/fastfetch-cli/fastfetch
   repository: github.com/fastfetch-cli/fastfetch
-  license: MIT  
+  license: MIT
   
 - id: Feather-Wallet
   title: Feather Wallet
@@ -879,26 +879,6 @@
   homepage: github.com/ok-oldking/ok-wuthering-waves
   repository: github.com/ok-oldking/ok-wuthering-waves
   license: AGPL3
-
-- id: OpenHV
-  title: OpenHV
-  category: gaming
-  tagline: OpenHV - Sci-Fi RTS game
-  description: A Pixelart Science-Fiction Real-Time Strategy game with Multiplayer (LAN and internet) support, competent skirmish AI as well as an integrated map editor.
-  homepage: openhv.net
-  repository: github.com/OpenHV/OpenHV
-  license: GPLv3
-
-- id: OpenRA
-  title: OpenRA
-  category: gaming
-  tagline: OpenRA – RTS game engine
-  description: |
-    Real-time strategy game engine for early Westwood games such as Command & Conquer: 
-    -  Red Alert written in C# using SDL and OpenGL.
-  homepage: openra.net
-  repository: github.com/OpenRA/OpenRA
-  license: GPLv3  
 
 - id: OpenRCT2
   title: OpenRCT2
@@ -1373,7 +1353,7 @@
   description: Steam Superheater is an app that can fix and improve games on Steam that are broken or have troubles running on modern systems
   homepage: github.com/fgsfds/Steam-Superheater
   repository: github.com/fgsfds/Steam-Superheater
-  license: GPLv3  
+  license: GPLv3 
 
 - id: stellarium.org
   title: Stellarium
@@ -1632,7 +1612,7 @@
   description: A clean and lightweight tray app that displays the battery level of most bluetooth game controllers
   homepage: github.com/tommaier123/XBatteryStatus
   repository: github.com/tommaier123/XBatteryStatus
-  license: GPLv3  
+  license: GPLv3
 
 - id: X-Minecraft-Launcher
   title: X Minecraft Launcher
