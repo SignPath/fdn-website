@@ -880,10 +880,10 @@
   repository: github.com/ok-oldking/ok-wuthering-waves
   license: AGPL3
 
-- id: OpenHV.net
-  title: OpenHV.net
+- id: OpenHV
+  title: OpenHV
   category: gaming
-  tagline: OpenHV – Sci-Fi RTS game
+  tagline: OpenHV - Sci-Fi RTS game
   description: A Pixelart Science-Fiction Real-Time Strategy game with Multiplayer (LAN and internet) support, competent skirmish AI as well as an integrated map editor.
   homepage: openhv.net
   repository: github.com/OpenHV/OpenHV
@@ -893,7 +893,9 @@
   title: OpenRA
   category: gaming
   tagline: OpenRA – RTS game engine
-  description: Real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL.
+  description: |
+    Real-time strategy game engine for early Westwood games such as Command & Conquer: 
+    -  Red Alert written in C# using SDL and OpenGL.
   homepage: openra.net
   repository: github.com/OpenRA/OpenRA
   license: GPLv3  
