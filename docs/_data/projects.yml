@@ -1403,6 +1403,24 @@
   repository: github.com/TLCFEM/suanPan
   license: GPLv3
 
+- id: SunshineFoundation
+  title: SunshineFoundation
+  category: gaming
+  tagline: Sunshine, a self-hosted game-stream host for Moonlight, now features an HDR-friendly fork that integrates virtual displays and control panels.
+  description: |
+    Self-hosted game streaming host for Moonlight with HDR support, virtual display management, and optimized low-latency encoding. Key Features:
+    - HDR-friendly support with optimized HDR processing pipeline
+    - Integrated virtual display driver management (no additional software required)
+    - Remote microphone support with high-quality audio passthrough
+    - Advanced web-based control panel with real-time monitoring
+    - Hardware-accelerated encoding (NVIDIA NVENC, AMD VCE, Intel QuickSync)
+    - Low-latency streaming optimized for modern hardware
+    - Cross-platform client support (Windows, macOS, Linux, Android, iOS)
+    This project is based on LizardByte/Sunshine and focuses on improving the game streaming experience between various streaming devices and Windows hosts, with particular emphasis on HDR gaming and virtual display integration for Windows 10 22H2 and newer systems. The project is actively maintained with regular updates, comprehensive documentation, and a growing user community.
+  homepage: docs.qq.com/aio/DSGdQc3htbFJjSFdO
+  repository: github.com/qiin2333/Sunshine-Foundation
+  license: GPLv3  
+
 - id: mapeditor.org
   title: Tiled
   category: gaming
