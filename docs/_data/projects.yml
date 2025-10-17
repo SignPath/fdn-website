@@ -399,15 +399,6 @@
   homepage: download.fo/
   repository: github.com/Fabulously-Optimized/fabulously-optimized
   license: BSD-3-clause
-
-- id: fastfetch
-  title: fastfetch
-  category: developer-tools
-  tagline: A maintained, feature-rich and performance oriented, neofetch like system information tool.
-  description: A neofetch-like tool for fetching system information and displaying it in a visually appealing way. It is written mainly in C, with a focus on performance and customizability.
-  homepage: github.com/fastfetch-cli/fastfetch
-  repository: github.com/fastfetch-cli/fastfetch
-  license: MIT
   
 - id: Feather-Wallet
   title: Feather Wallet
