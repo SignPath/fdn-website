@@ -1575,15 +1575,6 @@
   repository: github.com/IgorMundstein/WinMemoryCleaner
   license: GPLv3
 
-- id: WLJSNotebook
-  title: WLJS Notebook
-  category: science
-  tagline: Next-Gen Digital Notebook for Physics, Math, and Data Science
-  description: WLJS Notebook is an interactive computing platform, web-based environment for running Wolfram Language (WL) scripts, Javascript. A lightweight, cross-platform alternative to Mathematica, built using open-source tools and the free Wolfram Engine.
-  homepage: wljs.io
-  repository: github.com/WLJSTeam/wolfram-js-frontend
-  license: GPLv3
-
 - id: WSLUSBGUI
   title: WSL USB GUI
   category: developer-tools
