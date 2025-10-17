@@ -1363,7 +1363,7 @@
   description: 🧮 suanPan is a finite element method (FEM) simulation platform for applications in fields such as solid mechanics and civil/structural/seismic engineering. suanPan is written in modern high-quality C++ code and is targeted to provide an efficient, concise, flexible and reliable FEM simulation platform.
   homepage: github.com/TLCFEM/suanPan
   repository: github.com/TLCFEM/suanPan
-  license: GPLv3
+  license: GPLv3  
 
 - id: mapeditor.org
   title: Tiled
