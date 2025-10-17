@@ -1346,15 +1346,6 @@
   repository: github.com/starship/starship
   license: ISC
 
-- id: Steam-Superheater
-  title: Steam Superheater
-  category: gaming
-  tagline: Steam Superheater - Fix Steam games with a single click
-  description: Steam Superheater is an app that can fix and improve games on Steam that are broken or have troubles running on modern systems
-  homepage: github.com/fgsfds/Steam-Superheater
-  repository: github.com/fgsfds/Steam-Superheater
-  license: GPLv3 
-
 - id: stellarium.org
   title: Stellarium
   category: science
