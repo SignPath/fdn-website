@@ -1587,15 +1587,6 @@
   repository: gitlab.com/alelec/wsl-usb-gui
   license: GPLv2
 
-- id: XBatteryStatus
-  title: XBatteryStatus
-  category: gaming
-  tagline: A clean and lightweight tray app that displays the battery level of most bluetooth game controllers
-  description: A clean and lightweight tray app that displays the battery level of most bluetooth game controllers
-  homepage: github.com/tommaier123/XBatteryStatus
-  repository: github.com/tommaier123/XBatteryStatus
-  license: GPLv3
-
 - id: X-Minecraft-Launcher
   title: X Minecraft Launcher
   category: gaming
