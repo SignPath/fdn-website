@@ -1454,7 +1454,7 @@
   category: gaming
   tagline: Cross-platform 2D and 3D game engine with modular architecture 
   description: Thunder Engine is free for all purposes an open-source multi-functional lightweight game engine for creating 2D and 3D games. It provides a basic framework and extensible tools. So developers can focus on the creation, and the Thunder Engine will do the routine.
-  homepage: http://thunderengine.org/
+  homepage: thunderengine.org
   repository: github.com/thunder-engine/thunder
   license: Apache-v2_0
 
