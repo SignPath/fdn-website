@@ -423,7 +423,7 @@
   category: developer-tools
   tagline: Adversary tradecraft detection, protection, and hunting
   description: Fibratus detects, protects, and eradicates advanced adversary tradecraft by scrutinizing and asserting a wide spectrum of system events against a behavior-driven rule engine and YARA memory scanner. Events can also be shipped to a wide array of output sinks or dumped to capture files for local inspection and forensics analysis. You can use filaments to extend Fibratus with your own arsenal of tools and so leverage the power of the Python ecosystem. In a nutshell, the Fibratus mantra is defined by the pillars of realtime behavior detection, memory scanning, and forensics capabilities.
-  homepage: fibratus.io
+  homepage: www.fibratus.io
   repository: github.com/rabbitstack/fibratus
   license: Apache-v2_0
   
