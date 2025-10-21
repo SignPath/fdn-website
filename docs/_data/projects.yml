@@ -853,7 +853,7 @@
   repository: github.com/moh-hassan/odata2poco
   license: MIT
 
-- id: OpenBRF Redux
+- id: OpenBRFRedux
   title: OpenBRF Redux
   category: gaming
   tagline: A modding tool for editing Mount&Blade 1.011 and Warband binary resource (BRF) files.
