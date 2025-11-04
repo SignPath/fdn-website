@@ -473,6 +473,15 @@
   repository: github.com/koho/frpmgr
   license: Apache-v2_0
 
+- id: Gaphor
+  title: Gaphor
+  category: graphics
+  tagline: Simple UML and SysML modeling tool
+  description: Gaphor is a UML, SysML, RAAML, and C4 modeling application. It is designed to be easy to use, while still being powerful. Gaphor implements a fully-compliant UML 2 data model, so it is much more than a picture drawing tool. You can use Gaphor to quickly visualize different aspects of a system as well as create complete, highly complex models.
+  homepage: gaphor.org/
+  repository: github.com/gaphor/gaphor
+  license: Apache-v2_0
+
 - id: geany
   title: geany
   category: developer-tools
@@ -1248,6 +1257,15 @@
   homepage: skyclient.co
   repository: github.com/SkyblockClient/SkyClient-Windows
   license: MIT
+
+- id: SkyInstaller
+  title: SkyInstaller
+  category: gaming
+  tagline: One-click installer for Japanese voice acting with the Evolution voice mod for the Trails in the Sky series.
+  descrition: One-click installer for Japanese voice acting with the Evolution voice mod for the Trails in the Sky series.  SkyInstaller automatically downloads and installs the SoraVoice Lite mod and the necessary voice data for Japanese voice acting for first three games in the Trails In the Sky trilogy.
+  homepage: github.com/chyyran/skyinstaller
+  repository: github.com/chyyran/skyinstaller
+  license: MPL-2.0
 
 - id: SkyRoof
   title: SkyRoof
