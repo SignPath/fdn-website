@@ -7,6 +7,15 @@
   repository: github.com/0install/0install-win
   license: LGPLv3
 
+- id: AMIGOpy
+  title: AMIGOpy
+  category: science
+  tagline: AMIGOpy
+  description: AMIGOpy (A Medical Image-based Graphical platfOrm – Python) is an educational platform designed to support both teaching and research in radiotherapy. Leveraging VTK for high-quality 3D image rendering, AMIGOpy enables users to visualize treatment plans, perform dosimetric analysis and calculations, and interactively work with a wide range of medical images, including DICOM, Nifti, and TIFF formats. The platform offers modules for image contouring, segmentation, and registration, as well as tools for radiochromic film dosimetry and dual-energy CT analysis. What sets AMIGOpy apart is its user-friendly interface and the accessibility of advanced radiotherapy features that are typically restricted to specialized software found only in clinical or advanced research settings, making these capabilities more widely available for educational and research purposes.
+  homepage: www.amigo-medphys.com/
+  repository: github.com/PhysicsResearch/AMIGOpy
+  license: GPLv3
+
 - id: AnyPackage
   title: AnyPackage
   category: developer-tools
@@ -169,6 +178,15 @@
   homepage: chewing.im
   repository: github.com/chewing/windows-chewing-tsf
   license: LGPLv2_1
+
+- id: clarinet
+  title: clarinet
+  category: developer-tools
+  tagline: Command-line tool and run>me for the Clarity smart contract language
+  description: Clarinet is the fastest way to build, test, and deploy smart contracts on the Stacks blockchain. It gives you a toolchain to ship high-quality Clarity code with confidence.
+  homepage: stackslabs.com/clarinet
+  repository: github.com/stx-labs/clarinet
+  license: GPLv3
 
 - id: ClassicUO
   title: ClassicUO
@@ -358,6 +376,15 @@
   homepage: earquiz.org/EQ_Frequencies
   repository: github.com/Gdalik/EarQuiz_Frequencies
   license: GPLv3
+  
+- id: Enu-3D
+  title: Enu 3D
+  category: developer-tools
+  tagline: Build 3D worlds in Nim.
+  description: Enu is for learning to code and making games. It combines programmable robots, a Minecraft style voxel world, and a Logo-inspired dialect of the Nim language. Code 3D worlds. Make games. Learn with friends.
+  homepage: getenu.com/
+  repository: github.com/getenu/enu
+  license: MIT
 
 - id: Espanso
   title: Espanso
@@ -646,6 +673,15 @@
   repository: github.com/inkstitch/inkstitch
   license: GPLv3
 
+- id: Kando
+  title: Kando
+  category: productivity
+  tagline: Do things with utmost efficiency
+  description: Kando is a cross-platform pie menu for your desktop. It offers an unconventional, fast, highly efficient, and fun way of interacting with your computer! You can use Kando to launch applications, simulate keyboard shortcuts, open files, and much more.
+  homepage: kando.menu/
+  repository: github.com/kando-menu/kando
+  license: MIT
+
 - id: Kazumi
   title: Kazumi
   category: productivity
@@ -770,7 +806,16 @@
   description: A log file viewer for that terminal that can merge, tail, search, filter, and query log files with ease.  Just point lnav at a directory and it will take care of the rest. File formats are automatically detected and compressed files are unpacked on the fly. Online help and previews for operations make it simpler to level up your experience.
   homepage: lnav.org/
   repository: github.com/tstack/lnav
-  license: BSD-2-clause  
+  license: BSD-2-clause
+
+- id: LunaTranslator
+  title: LunaTranslator
+  category: gaming
+  tagline: Visual Novel Translator
+  description: LunaTranslator is a tool primarily designed for real-time translation of visual novel games. It can read in-game text in real-time through various methods and translate it using multiple translation engines, allowing players to understand games that have not been localized. Many language learners also use it solely to extract game text and combine it with dictionary tools as a language learning tool.
+  homepage: lunatranslator.org/
+  repository: github.com/HIllya51/LunaTranslator
+  license: GPLv3
 
 - id: Millennium
   title: Millennium
