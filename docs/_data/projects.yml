@@ -853,6 +853,15 @@
   wikipedia: en.wikipedia.org/wiki/Mumble_%28software%29
   license: BSD-3-clause
 
+- id: NetSpeedTray
+  title: NetSpeedTray
+  category: productivity
+  tagline: The Windows Taskbar Network Monitor
+  description: A lightweight, open-source network monitor for Windows that displays live upload and download speeds directly on the taskbar. It is designed to be highly efficient and feel like a native part of the Windows UI.
+  homepage: github.com/erez-c137/NetSpeedTray
+  repository: github.com/erez-c137/NetSpeedTray
+  license: GPLv3
+
 - id: NETworkManager
   title: NETworkManager
   category: developer-tools
@@ -896,6 +905,15 @@
   description: NVDA (NonVisual Desktop Access) is a free, open source screen reader for Microsoft Windows.
   homepage: nvaccess.org
   repository: github.com/nvaccess/nvda
+  license: GPLv2
+
+- id: NZBGet
+  title: NZBGet
+  category: productivity
+  tagline: NZBGet - Efficient Usenet downloader
+  description: NZBGet is a binary downloader, which downloads files from Usenet based-on information given in nzb files.
+  homepage: nzbget.com
+  repository: github.com/nzbgetcom/nzbget
   license: GPLv2
 
 - id: odata2poco
@@ -1171,7 +1189,7 @@
   homepage: scenedetect.com
   repository: github.com/Breakthrough/PySceneDetect
   license: BSD-3-clause
-
+  
 - id: Qt-Bitcoin-Trader
   title: Qt Bitcoin Trader
   category: other
@@ -1180,6 +1198,15 @@
   homepage: qtbitcointrader.com
   repository: github.com/JulyIghor/QtBitcoinTrader
   license: GPLv3
+
+- id: Quelea
+  title: Quelea
+  category: other
+  tagline: Open source projection software for churches
+  description: Open source projection software for churches. Quelea allows anyone to project hymn / song lyrics and a variety of other media as part of a church service.
+  homepage: quelea.org
+  repository: github.com/quelea-projection/Quelea
+  license: GPLv3  
 
 - id: Race-Element
   title: Race Element
@@ -1294,6 +1321,15 @@
   repository: github.com/simple-acme/simple-acme/
   license: Apache-v2_0
 
+- id: SkyCal
+  title: SkyCal
+  category: science
+  tagline: SkyCal Focus and Collimation Tool
+  description: SkyCal is a specialized software tool designed to assist astronomers in achieving precise focus and collimation. Accurate focus and collimation are essential for astrophotography. Even small misalignments in a telescope’s optics can lead to blurred or distorted star images, reduced contrast, and loss of detail in deep-sky objects. SkyCal provides visual overlays, error measurements, and optional voice feedback to guide adjustments, making the process easier, repeatable, and more reliable.
+  homepage: github.com/insertnamehere1/Bahtinov-Collimator
+  repository: github.com/insertnamehere1/Bahtinov-Collimator
+  license: GPLv3  
+
 - id: SkyClient
   title: SkyClient
   category: gaming
@@ -1310,7 +1346,7 @@
   descrition: One-click installer for Japanese voice acting with the Evolution voice mod for the Trails in the Sky series.  SkyInstaller automatically downloads and installs the SoraVoice Lite mod and the necessary voice data for Japanese voice acting for first three games in the Trails In the Sky trilogy.
   homepage: github.com/chyyran/skyinstaller
   repository: github.com/chyyran/skyinstaller
-  license: MPL-2.0
+  license: MPL-2.0  
 
 - id: SkyRoof
   title: SkyRoof
@@ -1482,7 +1518,16 @@
     This project is based on LizardByte/Sunshine and focuses on improving the game streaming experience between various streaming devices and Windows hosts, with particular emphasis on HDR gaming and virtual display integration for Windows 10 22H2 and newer systems. The project is actively maintained with regular updates, comprehensive documentation, and a growing user community.
   homepage: docs.qq.com/aio/DSGdQc3htbFJjSFdO
   repository: github.com/qiin2333/Sunshine-Foundation
-  license: GPLv3  
+  license: GPLv3
+
+- id: Symlinker
+  title: Symlinker
+  category: productivity
+  tagline: Symlinker - GUI for creating symbolic links on Windows
+  description: Symlinker is a Windows Forms application that provides an easy-to-use graphical interface for creating symbolic links, hard links, and directory junctions on Windows. It wraps the Windows mklink command, making it accessible to users without requiring command-line knowledge. The application supports both file and folder symlinks and automatically requests administrator privileges when needed.
+  homepage: github.com/amd989/Symlinker
+  repository: github.com/amd989/Symlinker
+  license: MIT  
 
 - id: mapeditor.org
   title: Tiled
@@ -1758,4 +1803,13 @@
   description: Zenless Zone Zero - One Dragon is a research project focused on automating operations on the Windows system. It primarily utilizes methods such as system screenshots, OCR recognition, YOLO detection, and keyboard/mouse control to automatically complete daily tasks in the game Zenless Zone Zero, thereby reducing repetitive gameplay for players.
   homepage: one-dragon.com/zzz/zh/home.html
   repository: github.com/OneDragon-Anything/ZenlessZoneZero-OneDragon
+  license: GPLv3
+
+- id: ZeroLaunch-rs
+  title: ZeroLaunch-rs
+  category: productivity
+  tagline: ZeroLaunch-rs - A lightning‑fast, privacy‑first Windows smart application launcher.
+  description: A lightning‑fast, privacy‑first Windows smart launcher that excels at Pinyin and fuzzy matching. Optionally add on‑device AI semantic search for typo‑ and intent‑proof instant results. Built with Rust + Tauri + Vue!
+  homepage: zerolaunch.ghost-him.com
+  repository: github.com/ghost-him/ZeroLaunch-rs
   license: GPLv3
