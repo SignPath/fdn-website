@@ -748,9 +748,9 @@
 - id: Lamina-lang
   title: Lamina-lang
   category: science
-  tagline: Lamina – A concise and modular scripting language for mathematics and scientific computing
+  tagline: A concise and modular scripting language for mathematics and scientific computing
   description: Lamina is a scripting language for mathematics and scientific computing, designed to provide users with a concise, efficient, and modular programming environment that supports vectors, matrices, recursion, and other mathematical expressions, facilitating experiments, calculations, and algorithm implementation.
-  homepage: www.lm-lang.org/
+  homepage: lm-lang.org/
   repository: github.com/Lamina-dev/Lamina
   license: LGPLv2_1
 
@@ -1333,7 +1333,7 @@
 - id: Servy
   title: Servy
   category: productivity
-  tagline: Turn Any App into a Native Windows Service 
+  tagline: Turn Any App into a Native Windows Service
   description: Servy is a Windows tool that lets you run any application as a native Windows service, with full control over its configuration, startup behavior, logging, health checks, and recovery options. It includes a desktop app, a CLI, a PowerShell module, and a Manager app letting you manage services manually or automate everything in scripts and CI/CD pipelines. 
   homepage: servy-win.github.io/
   repository: github.com/aelassas/servy
