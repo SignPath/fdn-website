@@ -745,6 +745,15 @@
   repository: github.com/kubetail-org/kubetail
   license: Apache-v2_0
 
+- id: Lamina-lang
+  title: Lamina-lang
+  category: science
+  tagline: Lamina – A concise and modular scripting language for mathematics and scientific computing
+  description: Lamina is a scripting language for mathematics and scientific computing, designed to provide users with a concise, efficient, and modular programming environment that supports vectors, matrices, recursion, and other mathematical expressions, facilitating experiments, calculations, and algorithm implementation.
+  homepage: www.lm-lang.org/
+  repository: github.com/Lamina-dev/Lamina
+  license: LGPLv2_1
+
 - id: LGTVCompanion
   title: LGTVCompanion
   category: productivity
@@ -1294,6 +1303,15 @@
   repository: github.com/satisfactorymodding/SatisfactoryModManager
   license: GPLv3
 
+- id: SaveState
+  title: SaveState
+  category: gaming
+  tagline: Open-source, cross-platform game save manager with cloud sync.
+  description: SaveState is a cross-platform, open-source tool designed to automate the backup, restoration, and management of video game save files. It supports standard PC games and various emulators, offering features like local backup organization and cloud synchronization via Google Drive to ensure users never lose their progress across devices.
+  homepage: github.com/Matteo842/SaveState
+  repository: github.com/Matteo842/SaveState
+  license: GPLv3
+
 - id: SDRangel
   title: SDRangel
   category: audio
@@ -1311,6 +1329,15 @@
   homepage: seelen.io/
   repository: github.com/eythaann/seelen-ui
   license: AGPL3
+
+- id: Servy
+  title: Servy
+  category: productivity
+  tagline: Turn Any App into a Native Windows Service 
+  description: Servy is a Windows tool that lets you run any application as a native Windows service, with full control over its configuration, startup behavior, logging, health checks, and recovery options. It includes a desktop app, a CLI, a PowerShell module, and a Manager app letting you manage services manually or automate everything in scripts and CI/CD pipelines. 
+  homepage: servy-win.github.io/
+  repository: github.com/aelassas/servy
+  license: MIT
 
 - id: simple-acme
   title: simple-acme
@@ -1786,6 +1813,15 @@
   homepage: github.com/amnweb/yasb
   repository: github.com/amnweb/yasb
   license: MIT
+
+- id: Zaparoo
+  title: Zaparoo
+  category: gaming
+  tagline: Universal Loading System
+  description: Zaparoo is the open source universal loading system that lets you launch games and media instantly using physical objects. Tap a card, scan a code, or use any compatible reader: your content launches immediately. No menus, no searching, just play!
+  homepage: zaparoo.org/
+  repository: github.com/ZaparooProject/zaparoo-core
+  license: GPLv3 
   
 - id: Zen
   title: Zen
