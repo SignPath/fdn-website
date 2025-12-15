@@ -745,15 +745,6 @@
   repository: github.com/kubetail-org/kubetail
   license: Apache-v2_0
 
-- id: Lamina-lang
-  title: Lamina-lang
-  category: science
-  tagline: A concise and modular scripting language for mathematics and scientific computing
-  description: Lamina is a scripting language for mathematics and scientific computing, designed to provide users with a concise, efficient, and modular programming environment that supports vectors, matrices, recursion, and other mathematical expressions, facilitating experiments, calculations, and algorithm implementation.
-  homepage: lm-lang.org/
-  repository: github.com/Lamina-dev/Lamina
-  license: LGPLv2_1
-
 - id: LGTVCompanion
   title: LGTVCompanion
   category: productivity
@@ -1821,7 +1812,7 @@
   description: Zaparoo is the open source universal loading system that lets you launch games and media instantly using physical objects. Tap a card, scan a code, or use any compatible reader: your content launches immediately. No menus, no searching, just play!
   homepage: zaparoo.org/
   repository: github.com/ZaparooProject/zaparoo-core
-  license: GPLv3 
+  license: GPLv3
   
 - id: Zen
   title: Zen
