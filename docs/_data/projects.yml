@@ -589,6 +589,15 @@
   homepage: helium.computer/
   repository: /imputnet/helium-windows
   license: AGPL3
+
+- id: HellbombScript
+  title: HellbombScript
+  category: gaming
+  tagline: Troubleshoots HD2 issues
+  description: This program scans, identifies, troubleshoots and fixes issues that can prevent Arrowhead Games Helldivers 2 from running properly.
+  homepage: github.com/helldivers2fixes/HellbombScript
+  repository: github.com/helldivers2fixes/HellbombScript
+  license: MIT
   
 - id: heob
   title: heob
