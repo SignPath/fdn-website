@@ -43,6 +43,15 @@
   repository: github.com/archimatetool/archi
   license: MIT
 
+- id: Armbian-imager
+  title: Armbian imager
+  category: developer-tools
+  tagline: A cross-platform Linux OS flashing tool for ARM devices
+  description: Armbian’s cross-platform utility for flashing OS images to storage media. This tool simplifies the process of writing Armbian OS files to SD cards, USB drives, or eMMC modules, featuring a user-friendly interface tailored for Armbian users.
+  homepage: armbian.com/
+  repository: github.com/armbian/imager
+  license: GPLv2
+
 - id: asdf-overlay
   title: asdf-overlay
   category: gaming
@@ -141,6 +150,15 @@
   homepage: brewtarget.beer/
   repository: github.com/Brewtarget/brewtarget/
   license: GPLv3
+
+- id: cap
+  title: cap
+  category: productivity
+  tagline: The open source screen recording and sharing app for macOS and Windows.
+  description: The open source screen recording and sharing app for macOS and Windows.
+  homepage: cap/
+  repository: github.com/capsoftware/cap
+  license: Affero-GPL
 
 - id: cargo-nextest
   title: cargo-nextest
@@ -817,6 +835,15 @@
   repository: github.com/mbdavid/LiteDB
   license: MIT
 
+- id: LMS-Community
+  title: LMS-Community
+  category: audio
+  tagline: Stream your music collection to Squeezebox compatible devices
+  description: Lyrion Music Server is open-source server software which controls a wide range of Squeezebox audio players. Lyrion can stream your local music collection, internet radio stations, and content from many streaming services (with and without subscriptions).
+  homepage: lyrion.org/
+  repository: github.com/LMS-Community/slimserver/
+  license: GPLv2
+
 - id: The-Logfile-Navigator
   title: lnav
   category: developer-tools
@@ -888,6 +915,15 @@
   homepage: borntoberoot.net/NETworkManager
   repository: github.com/BornToBeRoot/NETworkManager
   license: GPLv3
+
+- id: next-ai-draw-io
+  title: next-ai-draw-io
+  category: graphics
+  tagline: AI-powered diagram generation with draw.io
+  description: A web and desktop application that integrates AI capabilities with draw.io diagrams. This app allows users to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+  homepage: next-ai-drawio.jiang.jp/
+  repository: github.com/DayuanJiang/next-ai-draw-io
+  license: Apache-v2_0
 
 - id: Nortantis
   title: Nortantis
