@@ -52,3 +52,7 @@ BSL-1.0:
 Unlicense:
   name: The Unlicense
   link: https://opensource.org/license/unlicense
+Affero-GPL:
+  name: GNU Affero General Public License
+  link: https://www.gnu.org/licenses/agpl-3.0.en.html
+  
