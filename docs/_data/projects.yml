@@ -142,6 +142,15 @@
   repository: github.com/bloxstraplabs/bloxstrap
   license: MIT
 
+- id: bottom
+  title: bottom
+  category: developer-tools
+  tagline: bottom – yet another cross-platform graphical process/system monitor.
+  description: A customizable cross-platform graphical process/system monitor for the terminal. Supports Linux, macOS, and Windows. Inspired by gtop, gotop, and htop.
+  homepage: github.com/ClementTsang/bottom
+  repository: github.com/ClementTsang/bottom
+  license: MIT
+
 - id: Brewtarget
   title: Brewtarget
   category: productivity
@@ -177,6 +186,15 @@
   homepage: catime.vladelaina.com/
   repository: github.com/vladelaina/Catime
   license: Apache-v2_0
+
+- id: catlock
+  title: catlock
+  category: productivity
+  tagline: A simple utility designed to prevent accidental keyboard input
+  description: CatLock is a simple utility designed to prevent accidental keyboard input, particularly when your feline friend decides to grace your workspace.
+  homepage: catlock.app/
+  repository: github.com/richiehowelll/cat-lock
+  license: GPLv3
 
 - id: cherrytree
   title: cherrytree
@@ -635,6 +653,15 @@
   repository: github.com/Heroic-Games-Launcher/HeroicGamesLauncher
   license: GPLv3
 
+- id: hfs
+  title: hfs
+  category: developer-tools
+  tagline: HTTP File Server
+  description: A web file server with virtual file system
+  homepage: rejetto.com/hfs/
+  repository: github.com/rejetto/hfs
+  license: GPLv3
+
 - id: hh-lol-prophet
   title: chinese-lol对局先知   english-lol game prophet
   category: gaming
@@ -888,6 +915,15 @@
   repository: github.com/KirillOsenkov/MSBuildStructuredLog
   license: MIT
 
+- id: Mudlet
+  title: Mudlet
+  category: gaming
+  tagline: Mudlet – MUD Client
+  description: Mudlet is a quality MUD client, designed to take mudding to a new level. It’s a modern breed of a client on the gaming scene – with an intuitive user interface, a specially designed scripting framework, and a very fast text display. That, along with cross-platform capability and an open-source development model result in a very likable game client."
+  homepage: mudlet.org/
+  repository: github.com/Mudlet/Mudlet/
+  license: GPLv2
+
 - id: Mumble
   title: Mumble
   category: audio
@@ -897,6 +933,18 @@
   repository: github.com/mumble-voip/mumble
   wikipedia: en.wikipedia.org/wiki/Mumble_%28software%29
   license: BSD-3-clause
+
+- id: MPC-Autofill
+  title: MPC Autofill
+  category: gaming
+  tagline: Image aggregation & print automation software for your tabletop gaming community.
+  description: |
+    MPC Autofill is a set of software tools which streamline the process of searching for and printing high-quality playtest trading cards for casual play. It is split into two high-level components which work in tandem:
+    -  The website allows gaming communities to index their print-ready card images, which can then be searched across by users to curate the collection of cards for printing - utilising our fully-featured project editor.
+    -  The desktop tool automates the process of turning a user's project into an order with a third-party printing company (MakePlayingCards). This is a CLI program which interacts with the user's file system (to download full-resolution images) and achieves its automation by controlling a test browser instance on the user's behalf (as MakePlayingCards does not have a public API).
+  homepage: github.com/chilli-axe/mpc-autofill
+  repository: github.com/chilli-axe/mpc-autofill
+  license: GPLv3
 
 - id: NetSpeedTray
   title: NetSpeedTray
@@ -1089,6 +1137,16 @@
   homepage: pactus.org/
   repository: github.com/pactus-project/pactus
   license: MIT
+
+- id: pandoc
+  title: pandoc
+  category: accessibility
+  tagline: Pandoc - A universal document format converter
+  description: Pandoc converts documents from one format to another. It aims to preserve structure and content and to produce output that is idiomatic for the target format.
+  homepage: pandoc.org
+  repository: github.com/jgm/pandoc
+  wikipedia: en.wikipedia.org/wiki/Pandoc
+  license: GPLv2
 
 - id: ParquetViewer
   title: ParquetViewer
@@ -1329,6 +1387,15 @@
   homepage: rsna.github.io/anonymizer/
   repository: github.com/RSNA/anonymizer
   license: RSNA-MIRC
+
+- id: RSTGameTranslation
+  title: RSTGameTranslation
+  category: gaming
+  tagline: AI-powered real-time game translator using OCR technology
+  description: RSTGameTranslation is an open-source Windows application designed to provide real-time translation for video games by leveraging Optical Character Recognition (OCR) and advanced AI translation services. The tool captures text directly from the game screen and processes it through powerful AI models, such as GPT and Gemini, to deliver high-quality translations instantly. It aims to break language barriers for gamers by offering a flexible and non-intrusive translation overlay that works across various game engines and genres without requiring internal file modification.
+  homepage: thanhkeke97.github.io/RSTGameTranslation/index.html
+  repository: github.com/thanhkeke97/RSTGameTranslation
+  license: MIT
 
 - id: sabnzbd
   title: sabnzbd
