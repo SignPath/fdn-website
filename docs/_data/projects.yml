@@ -359,6 +359,15 @@
   repository: github.com/dnGrep/dnGrep
   license: GPLv3
 
+- id: dnsmonster
+  title: dnsmonster
+  category: developer-tools
+  tagline: Passive DNS Capture and Monitoring Toolkit 
+  description: dnsmonster implements a packet sniffer for DNS traffic. It can accept traffic from a pcap file, a live interface or a dnstap socket, and can be used to index and store hundreds of thousands of DNS queries per second as it has shown to be capable of indexing 200k+ DNS queries per second on a commodity computer. It aims to be scalable, simple, and easy to use, and help security teams to understand the details about an enterprises DNS traffic.
+  homepage: dnsmonster.dev/
+  repository: github.com/mosajjal/dnsmonster
+  license: GPLv3
+
 - id: draftforge
   title: IETF Draftforge
   category: developer-tools
@@ -844,6 +853,15 @@
   repository: github.com/lichess-org/fishnet
   license: GPLv3
 
+- id: Lightwave-Explorer
+  title: Lightwave Explorer
+  category: science
+  tagline: nonlinear optics simulation
+  description: Lightwave Explorer is a powerful and easy-to-use simulator for nonlinear light-matter interaction. It has a graphical user interface with numerous visualizations to help gain insight into optical processes.
+  homepage: github.com/NickKarpowicz/LightwaveExplorer
+  repository: github.com/NickKarpowicz/LightwaveExplorer
+  license: GPLv3
+
 - id: Linuxfabrik-Monitoring-Plugins
   title: Linuxfabrik Monitoring Plugins
   category: developer-tools
@@ -1251,6 +1269,15 @@
   homepage: github.com/PoE-Overlay-Community/PoE-Overlay-Community-Fork#poe-overlay-community-fork
   repository: github.com/PoE-Overlay-Community/PoE-Overlay-Community-Fork
   license: MIT
+
+- id: Polyphone 
+  title: Polyphone 
+  category: audio
+  tagline: Soundfont editor
+  description: Polyphone is a multiplatform and open-source soundfont editor for creating musical instruments based on audio samples.
+  homepage: polyphone.io/
+  repository: github.com/davy7125/polyphone
+  license: GPLv3
 
 - id: PotatoVN
   title: PotatoVN
