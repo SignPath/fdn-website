@@ -1890,6 +1890,15 @@
   repository: gitlab.com/alelec/wsl-usb-gui
   license: GPLv2
 
+- id: Wunjo
+  title: Wunjo
+  category: productivity
+  tagline: face-swap, photo-editing, video-editing, lip-sync, public-api, remover, restyle, video-generation, deepfake, face-animation, diffusion-models, remove-background, voice-clone, controlnet, segment-anything, txt2video, wunjo, img2video, higlights, auto-edit-ai
+  description: For designers, content creators, photographers, editors, and anyone who works with video, photo, and audio. An app for simplifying and automating video, photo, and audio editing—locally, without limits, and with minimal skills required. Your data stays private. Video & Photo Generation, Restyling, Face Manipulation, Lip Sync, Voice Clone, Background Removal, more.
+  homepage: wunjo.online/
+  repository: github.com/wladradchenko/wunjo.wladradchenko.ru
+  license: MIT
+
 - id: XBatteryStatus
   title: XBatteryStatus
   category: gaming
