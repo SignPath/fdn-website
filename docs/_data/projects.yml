@@ -160,6 +160,15 @@
   repository: github.com/Brewtarget/brewtarget/
   license: GPLv3
 
+- id: BuildLauncher
+  title: BuildLauncher
+  category: gaming
+  tagline: BuildLauncher - The frontend for Build Engine games
+  description: BuildLauncher is an app that can download user-made campaigns, maps, and mods for Build Engine games and launch them with every modern source port.
+  homepage: github.com/fgsfds/BuildLauncher
+  repository: github.com/fgsfds/BuildLauncher
+  license: GPLv3  
+
 - id: cap
   title: cap
   category: productivity
@@ -321,6 +330,15 @@
   description: The toolset comprises of command-line utilities that are used for automating data analysis in deformability cytometry. The tools can be used for tasks such as dataset compression, dataset verification, data postprocessing, and data upload to a Deformability Cytometry Open Repository (DCOR) instance.
   homepage: github.com/DC-analysis/DC-tools-for-Windows/
   repository: github.com/DC-analysis/DC-tools-for-Windows/
+  license: GPLv3
+
+- id: Deadlock-Mod-Manager
+  title: Deadlock Mod Manager
+  category: gaming
+  tagline: Mods for Deadlock, minus the hassle.
+  description: Deadlock Mod Manager is a comprehensive, user-friendly application that simplifies the process of discovering, installing, and managing mods for Valves Deadlock game. Built with modern web technologies and featuring a sleek desktop interface, it provides a seamless experience for both casual users and modding enthusiasts.
+  homepage: deadlockmods.app/
+  repository: github.com/deadlock-mod-manager/deadlock-mod-manager
   license: GPLv3
 
 - id: Ditto
@@ -489,7 +507,16 @@
   homepage: featherwallet.org/
   repository: github.com/feather-wallet/feather
   license: BSD-3-clause
-
+  
+- id: Ferrite
+  title: Ferrite
+  category: productivity
+  tagline: A fast, lightweight Markdown editor built with Rust
+  description: Ferrite is an open-source desktop text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and the egui GUI framework, it provides a native, responsive editing experience with features like live preview, split view, MermaidJS diagram rendering, Git integration, and syntax highlighting. The project is MIT licensed and actively maintained on GitHub.
+  homepage: github.com/OlaProeis/Ferrite
+  repository: github.com/OlaProeis/Ferrite
+  license: MIT
+  
 - id: Fibratus
   title: Fibratus
   category: developer-tools
@@ -516,6 +543,15 @@
   homepage: flameshot.org
   repository: github.com/flameshot-org/flameshot
   license: GPLv3
+
+- id: FlatLaf
+  title: FlatLaf
+  category: developer-tools
+  tagline: Java Swing Look and Feel
+  description: FlatLaf is a modern open-source cross-platform Look and Feel for Java Swing desktop applications.
+  homepage: formdev.com/flatlaf/
+  repository: github.com/JFormDesigner/FlatLaf
+  license: Apache-v2_0
 
 - id: Floorp-Browser  
   title: Floorp Browser
@@ -545,6 +581,15 @@
   repository: github.com/koho/frpmgr
   license: Apache-v2_0
 
+- id: GameSentenceMiner
+  title: GameSentenceMiner
+  category: gaming
+  tagline: Game your way to language fluency
+  description: An All-in-One immersion toolkit for learning Languages through games and other visual media.
+  homepage: docs.gamesentenceminer.com/
+  repository: github.com/bpwhelan/GameSentenceMiner
+  license: GPLv3
+  
 - id: Gaphor
   title: Gaphor
   category: graphics
@@ -817,6 +862,15 @@
   repository: github.com/Lamina-dev/Lamina
   license: LGPLv2_1  
 
+- id: Lemonade-SDK
+  title: Lemonade SDK
+  category: developer-tools
+  tagline: Run local AI apps in minutes.
+  description: Lemonade helps users discover and run local AI apps by serving optimized models, such as LLMs, right from their own GPUs and NPUs. It detects your PCs hardware, sets up inference engines, and makes them available over standard HTTP APIs so that apps can connect to them.
+  homepage: lemonade-server.ai/
+  repository: github.com/lemonade-sdk/lemonade
+  license: Apache-v2_0
+
 - id: LGTVCompanion
   title: LGTVCompanion
   category: productivity
@@ -907,6 +961,15 @@
   repository: github.com/HIllya51/LunaTranslator
   license: GPLv3
 
+- id: MCPProxy
+  title: MCPProxy
+  category: productivity
+  tagline: Smart Proxy for AI Agents
+  description: MCPProxy is an open-source desktop application that super-charges AI agents with intelligent tool discovery, massive token savings, and built-in security quarantine against malicious MCP servers. It works offline and runs natively on macOS, Windows, and Linux.
+  homepage: mcpproxy.app
+  repository: github.com/smart-mcp-proxy/mcpproxy-go
+  license: MIT  
+
 - id: Millennium
   title: Millennium
   category: gaming
@@ -932,7 +995,19 @@
   homepage: msbuildlog.com
   repository: github.com/KirillOsenkov/MSBuildStructuredLog
   license: MIT
-
+  
+- id: MPC-Autofill
+  title: MPC Autofill
+  category: gaming
+  tagline: Image aggregation & print automation software for your tabletop gaming community.
+  description: |
+    MPC Autofill is a set of software tools which streamline the process of searching for and printing high-quality playtest trading cards for casual play. It is split into two high-level components which work in tandem:
+    -  The website allows gaming communities to index their print-ready card images, which can then be searched across by users to curate the collection of cards for printing - utilising our fully-featured project editor.
+    -  The desktop tool automates the process of turning a user's project into an order with a third-party printing company (MakePlayingCards). This is a CLI program which interacts with the user's file system (to download full-resolution images) and achieves its automation by controlling a test browser instance on the user's behalf (as MakePlayingCards does not have a public API).
+  homepage: github.com/chilli-axe/mpc-autofill
+  repository: github.com/chilli-axe/mpc-autofill
+  license: GPLv3
+  
 - id: Mudlet
   title: Mudlet
   category: gaming
@@ -952,17 +1027,14 @@
   wikipedia: en.wikipedia.org/wiki/Mumble_%28software%29
   license: BSD-3-clause
 
-- id: MPC-Autofill
-  title: MPC Autofill
-  category: gaming
-  tagline: Image aggregation & print automation software for your tabletop gaming community.
-  description: |
-    MPC Autofill is a set of software tools which streamline the process of searching for and printing high-quality playtest trading cards for casual play. It is split into two high-level components which work in tandem:
-    -  The website allows gaming communities to index their print-ready card images, which can then be searched across by users to curate the collection of cards for printing - utilising our fully-featured project editor.
-    -  The desktop tool automates the process of turning a user's project into an order with a third-party printing company (MakePlayingCards). This is a CLI program which interacts with the user's file system (to download full-resolution images) and achieves its automation by controlling a test browser instance on the user's behalf (as MakePlayingCards does not have a public API).
-  homepage: github.com/chilli-axe/mpc-autofill
-  repository: github.com/chilli-axe/mpc-autofill
-  license: GPLv3
+- id: Murmure
+  title: Murmure
+  category: productivity
+  tagline: Privacy-first, open-source local speech-to-text application.
+  description: Murmure is a privacy-first, open-source speech-to-text application that runs entirely on your machine. Murmure turns your voice into text with no internet connection and zero data collection.
+  homepage: murmure.al1x-ai.com/
+  repository: github.com/Kieirra/murmure
+  license: GPLv3  
 
 - id: NetSpeedTray
   title: NetSpeedTray
@@ -1215,6 +1287,15 @@
   repository: github.com/PenguLoader/PenguLoader
   license: MIT
 
+- id: PicGo
+  title: PicGo
+  category: graphics
+  tagline: The Ultimate Image Uploader for Efficient Creators
+  description: PicGo is a productivity tool dedicated to simplifying the process of uploading images and other assets to the cloud. It integrates with a wide variety of image hosting providers to automatically upload files and copy the corresponding URL in formats like Markdown to the clipboard. Designed for efficiency, PicGo helps users focus on content creation by handling the underlying complexities of file transfer and link generation across different platforms.
+  homepage: picgo.app/
+  repository: github.com/Molunerfinn/PicGo/releases
+  license: MIT
+  
 - id: PicView
   title: PicView
   category: graphics
@@ -1904,6 +1985,15 @@
   homepage: wljs.io
   repository: github.com/WLJSTeam/wolfram-js-frontend
   license: GPLv3
+
+- id: Wox
+  title: Wox
+  category: productivity
+  tagline: Wox - A cross-platform launcher that simply works
+  description: Wox is a cross-platform launcher that simply works. It is an open-source alternative to Alfred and Raycast
+  homepage: github.com/Wox-launcher/Wox
+  repository: github.com/Wox-launcher/Wox
+  license: GPLv3  
 
 - id: WSLUSBGUI
   title: WSL USB GUI
