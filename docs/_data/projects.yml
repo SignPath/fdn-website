@@ -670,6 +670,15 @@
   homepage: graphia.app/
   repository: github.com/graphia-app/graphia
   license: GPLv3
+
+- id: gruepr
+  title: gruepr
+  category: educational
+  tagline: Sort your students into the most optimal groups
+  description: Gruepr is a program for educators, helping them to split a section of 4-1000 students into optimized teams. It was inspired by CATME team forming routine. Data about the students are collected and the students are split into teams of any desired size(s). A good distribution of students into teams is determined by a highly flexible set of parameters that the instructor desires to use. For example: 1) preventing teams from having an isolated member of a gender or racial minority group; 2) achieving within each team either homogeneity or heterogeneity of up to 15 "attributes", which could be skills assessments, work preferences, attitudes, major, topic preference(s), or any other question that is answered by selecting one or more values from a limited set of possibilities; and 3) achieving a high degree of overlap in the students' weekly schedules so that they can meet outside of class.
+  homepage: gruepr.com
+  repository: github.com/gruepr/gruepr
+  license: GPLv3
   
 - id: Helium
   title: helium
@@ -1209,6 +1218,15 @@
   homepage: github.com/BuzzteeBear/OpenXR-MotionCompensation
   repository: github.com/BuzzteeBear/OpenXR-MotionCompensation
   license: LGPLv2_1
+
+- id: OptiKey
+  title: OptiKey
+  category: accessibility
+  tagline: Free, reliable, and easy to use
+  description: Optikey is an on-screen keyboard which you control with your eyes to provide an alternative to a physical mouse and keyboard.
+  homepage: optikey.org/
+  repository: github.com/OptiKey/OptiKey
+  license: GPLv3
 
 - id: OptiScaler
   title: OptiScaler
@@ -1766,6 +1784,15 @@
   homepage: docs.qq.com/aio/DSGdQc3htbFJjSFdO
   repository: github.com/qiin2333/Sunshine-Foundation
   license: GPLv3
+
+- id: Super-Productivity
+  title: Super Productivity
+  category: productivity
+  tagline: Advanced todo list with time tracking and integrations
+  description: Super Productivity is a free and open-source productivity application that combines task management, time tracking, and project organization in a single desktop and web application. It provides seamless integration with issue trackers including Jira, GitHub, and GitLab, allowing developers and teams to manage their work directly from the app. All data is stored locally by default, with optional synchronization via Dropbox, WebDAV, or the Super Productivity Sync service. The application is available for Windows, macOS, Linux, Android, and as a progressive web app.
+  homepage: super-productivity.com
+  repository: github.com/super-productivity/super-productivity
+  license: MIT
 
 - id: Symlinker
   title: Symlinker
