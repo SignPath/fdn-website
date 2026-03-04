@@ -1479,6 +1479,15 @@
   repository: github.com/plabayo/rama/
   license: MIT
 
+- id: Raven-Checkers
+  title: Raven Checkers
+  category: gaming
+  tagline: American checkers/English draughts game
+  description: A checkers game program, for 0, 1 or 2 players, designed primarily for learning checkers, basic AI algorithms, and application design in Python.
+  homepage: github.com/bcorfman/raven-checkers
+  repository: github.com/bcorfman/raven-checkers
+  license: MIT
+
 - id: REasy-Editor
   title: reasy-editor
   category: gaming
