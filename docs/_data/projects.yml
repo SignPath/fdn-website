@@ -1355,7 +1355,8 @@
   title: PerformanceMonitor
   category: developer-tools
   tagline: Free, open-source SQL Server performance monitoring and diagnostics
-  description: Performance Monitor for SQL Server is a WPF desktop application that collects and visualizes SQL Server performance data including wait stats, query plans, deadlocks, blocking, index usage, and more. It comes in two editions: a Full Edition with server-side collection into a central database, and a standalone Lite Edition using embedded DuckDB. Both include a built-in MCP server for AI-assisted diagnostics.
+  description: |
+    Performance Monitor for SQL Server is a WPF desktop application that collects and visualizes SQL Server performance data including wait stats, query plans, deadlocks, blocking, index usage, and more. It comes in two editions: a Full Edition with server-side collection into a central database, and a standalone Lite Edition using embedded DuckDB. Both include a built-in MCP server for AI-assisted diagnostics.
   homepage: github.com/erikdarlingdata/PerformanceMonitor
   repository: github.com/erikdarlingdata/PerformanceMonitor
   license: MIT
