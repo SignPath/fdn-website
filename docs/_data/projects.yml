@@ -7,6 +7,15 @@
   repository: github.com/0install/0install-win
   license: LGPLv3
 
+- id: Aily-Blockly
+  title: Aily Blockly
+  category: developer-tools
+  tagline: Redefining How Hardware Is Built.
+  description: Aily Project is a hardware development integrated environment that plans to integrate numerous AI capabilities to help hardware developers develop more smoothly. Aily Blockly is a blockly IDE under the aily Project. In the early stage, it provides AI-assisted programming capabilities for non-professional users. The long-term goal is to break the boundary between professional development and non-professional development, and ultimately achieve natural language programming.
+  homepage: aily.pro/
+  repository: github.com/ailyProject/aily-blockly
+  license: GPLv3
+
 - id: AMIGOpy
   title: AMIGOpy
   category: science
@@ -158,6 +167,15 @@
   description: Brewtarget is a cross-platform desktop beer recipe creation tool for Linux, Mac, and Windows.  It automatically calculates color, bitterness, and other key parameters for you while you drag and drop ingredients into the recipe. Brewtarget also has many other tools such as priming sugar calculators, OG correction help, and a unique mash designing tool. It also can export and import recipes in BeerJSON and BeerXML, allowing you to easily share recipes with friends who use other programs.
   homepage: brewtarget.beer/
   repository: github.com/Brewtarget/brewtarget/
+  license: GPLv3
+
+- id: briefing-room-for-dcs
+  title: briefing-room-for-dcs
+  category: gaming
+  tagline: About An advanced mission generator for Eagle Dynamic DCS World.
+  description: BriefingRoom for DCS World is a massively improved version of DCS World own fast mission generator. BriefingRoom allows you to create complete scenarios in just a few clicks. Missions generated with BriefingRoom tend to be rather player-centric. Their purpose is not to simulate a real war theater, like Falcon 4 dynamic campaign, but to provide the player(s) with interesting objectives and challenges. This approach is a perfect fit for DCS World limited number of units and very capable scripting engine. While BriefingRoom is designed to be easy to use and to allow the creation of missions in mere seconds, it is also heavily moddable and will give many options to power users ready to tackle with its most advanced features.
+  homepage: dcs-briefingroom.azurewebsites.net/
+  repository: github.com/DCS-BR-Tools/briefing-room-for-dcs
   license: GPLv3
 
 - id: BuildLauncher
@@ -662,6 +680,15 @@
   repository: github.com/gopher64/gopher64
   license: GPLv3
 
+- id: GPShell
+  title: GPShell
+  category: developer-tools
+  tagline: C library + command-line for Open- / GlobalPlatform smart cards
+  description: GPShell is the command line utility for managing GlobalPlatform compliant smart cards.
+  homepage: kaoh.github.io/globalplatform/
+  repository: github.com/kaoh/globalplatform
+  license: GPLv3
+
 - id: Graphia
   title: Graphia
   category: developer-tools
@@ -872,6 +899,15 @@
   repository: github.com/lemonade-sdk/lemonade
   license: Apache-v2_0
 
+- id: lgou2w-hoyo-gacha
+  title: lgou2w-hoyo-gacha
+  category: gaming
+  tagline: An unofficial tool for managing and analyzing your miHoYo gacha records
+  description: HoYo.Gacha is an unofficial desktop application that helps players of miHoYo games manage and analyze their gacha history. It provides clear statistics and insights into your pulls across different banners.
+  homepage: hoyo-gacha-v1.lgou2w.com/
+  repository: github.com/lgou2w/HoYo.Gacha
+  license: MIT
+
 - id: LGTVCompanion
   title: LGTVCompanion
   category: productivity
@@ -1035,8 +1071,17 @@
   description: Murmure is a privacy-first, open-source speech-to-text application that runs entirely on your machine. Murmure turns your voice into text with no internet connection and zero data collection.
   homepage: murmure.al1x-ai.com/
   repository: github.com/Kieirra/murmure
-  license: GPLv3  
+  license: GPLv3
 
+- id: Nagi
+  title: Nagi
+  category: audio
+  tagline: Music Player
+  description: Rediscover your local music collection with Nagi, a music player focused on speed, simplicity, and privacy. Nagi is built with C# and WinUI 3 to offer a clean, native Fluent experience. It is beautiful, efficient, and respects your privacy. 
+  homepage: github.com/Anthonyy232/Nagi
+  repository: github.com/Anthonyy232/Nagi
+  license: GPLv3
+  
 - id: NetSpeedTray
   title: NetSpeedTray
   category: productivity
@@ -1295,6 +1340,24 @@
   description: Pengu Loader is a powerful plugin loader tailored for the League of Legends Client, enabling limitless customization and personalization. With Pengu Loader, you can seamlessly load JavaScript plugins directly into the Client, allowing you to transform its appearance, add unique features, and integrate custom content to enhance your overall experience.
   homepage: pengu.lol/
   repository: github.com/PenguLoader/PenguLoader
+  license: MIT
+
+- id: PerformanceStudio
+  title: PerformanceStudio
+  category: developer-tools
+  tagline: SQL Server execution plan analyzer with cross-platform GUI, CLI, and built-in MCP server
+  description: SQL Performance Studio is a free, open-source SQL Server execution plan analyzer built with Avalonia for cross-platform support (Windows, macOS, Linux). It provides a visual plan viewer with 30 analysis rules that identify performance issues such as implicit conversions, missing indexes, parameter sniffing, excessive memory grants, and ineffective parallelism. Includes a CLI for headless analysis and a built-in MCP server for AI-powered plan review integration.
+  homepage: github.com/erikdarlingdata/PerformanceStudio
+  repository: github.com/erikdarlingdata/PerformanceStudio
+  license: MIT  
+
+- id: PerformanceMonitor
+  title: PerformanceMonitor
+  category: developer-tools
+  tagline: Free, open-source SQL Server performance monitoring and diagnostics
+  description: Performance Monitor for SQL Server is a WPF desktop application that collects and visualizes SQL Server performance data including wait stats, query plans, deadlocks, blocking, index usage, and more. It comes in two editions: a Full Edition with server-side collection into a central database, and a standalone Lite Edition using embedded DuckDB. Both include a built-in MCP server for AI-assisted diagnostics.
+  homepage: github.com/erikdarlingdata/PerformanceMonitor
+  repository: github.com/erikdarlingdata/PerformanceMonitor
   license: MIT
 
 - id: PicGo
