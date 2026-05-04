@@ -1011,6 +1011,7 @@
   title: Millennium
   category: gaming
   tagline: Millennium - A better Steam client experience
+  description: An open-source low-code modding framework to create, manage and use themes/plugins for the desktop Steam Client without any low-level internal interaction or overhead.
   homepage: steambrew.app/
   repository: github.com/SteamClientHomebrew/Millennium
   license: MIT
@@ -1673,7 +1674,7 @@
   title: SkyInstaller
   category: gaming
   tagline: One-click installer for Japanese voice acting with the Evolution voice mod for the Trails in the Sky series.
-  descrition: One-click installer for Japanese voice acting with the Evolution voice mod for the Trails in the Sky series.  SkyInstaller automatically downloads and installs the SoraVoice Lite mod and the necessary voice data for Japanese voice acting for first three games in the Trails In the Sky trilogy.
+  description: One-click installer for Japanese voice acting with the Evolution voice mod for the Trails in the Sky series.  SkyInstaller automatically downloads and installs the SoraVoice Lite mod and the necessary voice data for Japanese voice acting for first three games in the Trails In the Sky trilogy.
   homepage: github.com/chyyran/skyinstaller
   repository: github.com/chyyran/skyinstaller
   license: MPL-2.0  
@@ -1790,7 +1791,7 @@
   title: Starship Prompt
   category: developer-tools
   tagline: Starship - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-  desription: The minimal, blazing-fast, and infinitely customizable prompt for any shell! Works on the most common shells on the most common operating systems. Use it everywhere! Brings the best-in-class speed and safety of Rust, to make your prompt as quick and reliable as possible. Every little detail is customizable to your liking, to make this prompt as minimal or feature-rich as you would like it to be.
+  description: The minimal, blazing-fast, and infinitely customizable prompt for any shell! Works on the most common shells on the most common operating systems. Use it everywhere! Brings the best-in-class speed and safety of Rust, to make your prompt as quick and reliable as possible. Every little detail is customizable to your liking, to make this prompt as minimal or feature-rich as you would like it to be.
   homepage: starship.rs
   repository: github.com/starship/starship
   license: ISC
