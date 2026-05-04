@@ -632,7 +632,7 @@
   tagline: Plugins for Geany - The Flyweight IDE
   description: Geany has a plugin system which allows to get more features into Geany and developers can easily add new features and/or improve existing ones. The Geany-Plugins project is a combined release for each matching Geany release. It includes a huge number of plugins for different purposes. Please have a look at https://plugins.geany.org/ for more information.
   homepage: www.geany.org/
-  repsoitory: github.com/geany/geany-plugins
+  repository: github.com/geany/geany-plugins
   license: GPLv3
 
 - id: GHelper
