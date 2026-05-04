@@ -192,7 +192,7 @@
   category: productivity
   tagline: The open source screen recording and sharing app for macOS and Windows.
   description: The open source screen recording and sharing app for macOS and Windows.
-  homepage: cap/
+  homepage: cap.so
   repository: github.com/capsoftware/cap
   license: Affero-GPL
 
