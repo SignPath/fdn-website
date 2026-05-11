@@ -771,6 +771,15 @@
   repository: github.com/hyphanet/sign-windows-installer
   license: GPLv2
 
+- id: JD-GUI-DUO
+  title: JD-GUI-DUO
+  category: developer-tools
+  tagline:  JAVA decompiler GUI
+  description: A 2-in-1 JAVA decompiler based on JD-CORE v0 and v1 supporting 3rd party decompilers CFR, Procyon, Fernflower, Vineflower & Jadx.
+  homepage: javadecompiler.org
+  repository: github.com/nbauma109/jd-gui-duo
+  license: GPLv3
+
 - id: Jubler
   title: Jubler
   category: graphics
@@ -854,6 +863,15 @@
   repository: github.com/thantthet/keymagic-3
   license: GPLv2
 
+- id: KeyStore-Explorer
+  title: KeyStore Explorer
+  category: developer-tools
+  tagline: A FOSS GUI replacement for the Java command-line utilities keytool and jarsigner
+  description: KeyStore Explorer is a cross-platform GUI tool for managing keystores, keys and certificates. It allows importing and exporting keys and certificates in a wide range of formats. KSE provides basic CA features like creating certificates and CRLs.
+  homepage: keystore-explorer.org/
+  repository: github.com/kaikramer/keystore-explorer
+  license: GPLv3
+ 
 - id: Kindle-Comic-Converter
   title: Kindle Comic Converter
   category: graphics
@@ -879,6 +897,15 @@
   description: The CKAN is a metadata respository and associated tools to allow you to find, install, and manage mods for Kerbal Space Program. It provides strong assurances that mods are installed in the way prescribed by their metadata files, for the correct version of Kerbal Space Program, alongside their dependencies, and without any conflicting mods. The CKAN has been inspired by the solid and proven metadata formats from both the Debian project and the CPAN, each of which manages tens of thousands of packages. If you have ever used a package manager to install software on linux, you can think of this as the equivalent for KSP mods."
   homepage: github.com/KSP-CKAN/CKAN/wiki
   repository: github.com/KSP-CKAN/CKAN
+  license: MIT
+
+- id: Kubeli
+  title: Kubeli
+  category: developer-tools
+  tagline: Modern Kubernetes management desktop app
+  description: Kubeli is a native desktop application for managing Kubernetes clusters across macOS, Windows, and Linux. It provides multi-cluster support, real-time resource monitoring, an AI-powered assistant for troubleshooting, integrated terminal access, and a visual resource diagram. Built with Tauri and React, it connects directly to kubeconfig-configured clusters without requiring additional server-side components.
+  homepage: kubeli.dev
+  repository: github.com/atilladeniz/Kubeli
   license: MIT
 
 - id: kubetail
@@ -1172,6 +1199,15 @@
   homepage: github.com/moh-hassan/odata2poco
   repository: github.com/moh-hassan/odata2poco
   license: MIT
+
+- id: Open-Drone-Log
+  title: Open Drone Log
+  category: other
+  tagline: Free drone flight log analyzer
+  description: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React.
+  homepage: opendronelog.com/
+  repository: github.com/arpanghosh8453/open-dronelog
+  license: AGPL3
 
 - id: OpenBRFRedux
   title: OpenBRF Redux
@@ -1949,6 +1985,15 @@
   description: Tonbrett is an Open Source Discord soundboard made due to Discord providing very strict limits in the free version (Only 5 sounds.à 5 seconds), tonbrett further features being an external application and therefore also works an on separate device or separate monitor 
   homepage: github.com/DRSchlaubi/tonbrett
   repository: github.com/DRSchlaubi/tonbrett
+  license: MIT
+
+- id: Toolscreen
+  title: Toolscreen
+  category: gaming
+  tagline: A program for overlays, instant resizing, and more, for fullscreen Minecraft
+  description: Toolscreen is a DLL that is injected into an instance of Minecraft to add overlay & I/O tools to the game. Toolscreen does not provide any unfair advantages, it is designed to be allowed in speedrunning. The project is developed in C++, and uses MinHook-Detours to hook into Windows and OpenGL functions that the game calls. Toolscreen is primarily distributed as a .jar (or optional .exe), which is just an injector packaging for the .dll file that is injected into the game.
+  homepage: github.com/jojoe77777/Toolscreen
+  repository: github.com/jojoe77777/Toolscreen
   license: MIT
 
 - id: tosu
