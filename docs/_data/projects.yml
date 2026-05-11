@@ -1329,6 +1329,15 @@
   repository: github.com/optiscaler/OptiScaler
   license: GPLv3
 
+- id: Orca-agent-ide
+  title:  Orca agent ide
+  category: developer-tools
+  tagline: Your control center for parallel AI agents
+  description: Run Claude Code, Codex, etc. in parallel across isolated worktrees. Orca combines Ghostty-style terminals, git worktrees, rich markdown editor, and fast agent output review into a single desktop app built for parallel development. Bring your own agents, plug into your workflow, and ship 10x, or even 100x faster. Free. Open source. Works on MacOS, Windows and Linux
+  homepage: onorca.dev
+  repository: github.com/stablyai/orca
+  license: MIT
+
 - id: Pactus
   title: Pactus
   category: developer-tools
@@ -1669,6 +1678,15 @@
   homepage: github.com/Matteo842/SaveState
   repository: github.com/Matteo842/SaveState
   license: GPLv3
+
+- id: ScientoPy
+  title: ScientoPy
+  category: science
+  tagline: Open-source scientometric tool for topics trend analysis in scientific publications
+  description: ScientoPy is an open-source Python-based scientometric analysis tool that enables researchers to import datasets from Clarivate Web of Science (WoS) and Scopus, preprocess and deduplicate records, and analyze research trends across multiple criteria including author keywords, institutions, countries, and document types. It provides five visualization types (bar charts, bar trends, timelines, evolution graphs, and word clouds), calculates h-index, Average Growth Rate (AGR), and Average Documents per Year (ADY) indicators, and supports both a graphical (PySide6/Qt) and command-line interface on Windows, Linux, and macOS.
+  homepage: github.com/jpruiz84/ScientoPy
+  tagline: github.com/jpruiz84/ScientoPy
+  license: MIT
 
 - id: SDRangel
   title: SDRangel
