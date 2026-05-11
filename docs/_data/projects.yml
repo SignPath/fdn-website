@@ -753,6 +753,15 @@
   repository: github.com/real-web-world/hh-lol-prophet
   license: MIT
 
+- id: HyperHDR
+  title: HyperHDR
+  category: gaming
+  tagline: Modern high-performance ambient lighting system for USB grabbers and software video sources.
+  description: HyperHDR is a high-performance, open-source ambient lighting system that synchronizes colored lights with on-screen content in real time. Built from the ground up with modern C++ for superior performance, efficiency and long-term maintainability, it employs an advanced floating-point color processing pipeline (Infinite Color Engine) that delivers significantly higher color accuracy, smoother gradients and the elimination of banding artifacts common in legacy 24-bit processing approaches. The project provides low-latency video capture from both hardware devices and contemporary software interfaces available on current operating systems, enabling precise reproduction of SDR and HDR material and creating an immersive experience for home cinema, gaming and media center setups.
+  homepage: hyperhdr.eu/
+  repository: github.com/awawa-dev/HyperHDR
+  license: MIT
+
 - id: hyphanet
   title: hyphanet
   category: developer-tools
@@ -1199,6 +1208,15 @@
   homepage: www.openhv.net
   repository: github.com/OpenHV/OpenHV
   license: GPLv3
+
+- id: OpenModsim
+  title: OpenModsim
+  category: developer-tools
+  tagline: A free Modbus slave (server) simulation utility.
+  description: Open ModSim is an open‑source Modbus slave/server simulation utility supporting Modbus‑TCP and Modbus‑RTU protocols. It provides a flexible environment for testing and simulating Modbus devices, offering a range of coil, register, and data simulation features without tying the description to specific versions or platforms.
+  homepage: github.com/sanny32/OpenModSim
+  repository: github.com/sanny32/OpenModSim
+  license: MIT
 
 - id: OpenRA.net
   title: OpenRA.net
@@ -1723,6 +1741,15 @@
   homepage: github.com/snoopwpf/snoopwpf
   repository: github.com/snoopwpf/snoopwpf
   license: MS-PL
+
+- id: Sokuji
+  title: Sokuji
+  category: productivity
+  tagline: Real-time AI-powered speech translation
+  description: Sokuji is a real-time AI-powered translation application available as both an Electron desktop app and a browser extension. It captures speech input, transcribes and translates it using AI services, and outputs translated audio, enabling seamless cross-language communication in real time.
+  homepage: sokuji.kizuna.ai/
+  repository: github.com/kizuna-ai-lab/sokuji
+  license: AGPL3
 
 - id: SoulFire
   title: SoulFire
