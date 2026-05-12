@@ -16,6 +16,15 @@
   repository: github.com/ailyProject/aily-blockly
   license: GPLv3
 
+- id: Amiberry
+  title: Amiberry
+  category: gaming
+  tagline: Optimized Amiga emulator
+  description: Optimized Amiga Emulator for Linux, macOS, Windows, Android, FreeBSD and Haiku
+  homepage: amiberry.com
+  repository: https://github.com/BlitterStudio/amiberry
+  license: GPLv3
+  
 - id: AMIGOpy
   title: AMIGOpy
   category: science
@@ -1007,6 +1016,17 @@
   repository: github.com/mbdavid/LiteDB
   license: MIT
 
+- id: llmfit
+  title: llmfit  
+  category: developer-tools
+  tagline: Hundreds of models & providers. One command to find what runs on your hardware.
+  description: |
+    A terminal tool that right-sizes LLM models to your system's RAM, CPU, and GPU. Detects your hardware, scores each model across quality, speed, fit, and context dimensions, and tells you which ones will actually run well on your machine.
+    Ships with an interactive TUI (default) and a classic CLI mode. Supports multi-GPU setups, MoE architectures, dynamic quantization selection, speed estimation, and local runtime providers (Ollama, llama.cpp, MLX, Docker Model Runner, LM Studio).
+  homepage: https://github.com/AlexsJones/llmfit
+  repository: https://github.com/AlexsJones/llmfit
+  license: MIT
+
 - id: LMS-Community
   title: LMS-Community
   category: audio
@@ -1059,7 +1079,25 @@
   description: Windows binaries for GNU iconv and gettext tools
   homepage: mlocati.github.io/articles/gettext-iconv-windows.html
   repository: github.com/mlocati/gettext-iconv-windows/
-  license: MIT  
+  license: MIT
+
+- id: ModernUO
+  title: ModernUO
+  category: gaming
+  tagline: Ultima Online Server Emulator for the modern era!
+  description: ModernUO is an open source platform for building an MMORPG server.
+  homepage: modernuo.com
+  repository: github.com/modernuo/modernuo
+  license: GPLv3
+
+- id: MonkSynth
+  title: MonkSynth
+  category: audio
+  tagline: A monophonic vocal synthesizer that sounds like a monk chanting.
+  description: MonkSynth is a free, open source VST3/AU vocal synthesizer plugin for digital audio workstations. It recreates the sound of a chanting monk using FOF (Formant-Wave-Function) synthesis, allowing musicians to play realistic vocal formants in real time via MIDI or an interactive XY pad. The project is a modern reimplementation inspired by the classic Delay Lama plugin from 2002, built with a portable C DSP engine and cross-platform support for Windows, macOS, and Linux.
+  homepage: github.com/JonET/monksynth
+  repository: github.com/JonET/monksynth
+  license: MIT
 
 - id: msbuildlog.com
   title: MSBuildLog
@@ -2086,6 +2124,15 @@
   description: Based on Microsoft Indirect Display Driver Sample. This creates a virtual display in Windows that acts and functions just like a real one. It is useful for streaming, virtual reality applications, recording, headless servers, etc. The benefit over a physical display is the ability to adjust resolutions and refresh rates beyond the physical displays capabilities. For example, this would enable the ability to stream a game from your home PC using game streaming software at 240hz at 8K while owning a 60hz 1080p monitor (unrealistic, but explains the abilities well). For servers without displays, this enabled remote desktop and screen streaming to other systems as if there were a display installed.
   homepage: vdd.mikethetech.com/
   repository: github.com/VirtualDisplay/Virtual-Display-Driver
+  license: MIT
+
+- id: vrc-get
+  title: vrc-get
+  category: productivity
+  tagline: Fast Open Source command line and graphical client of VRChat Package Manager 
+  description: vrc-get is a fast open-source command-line client of VRChat Package Manager. ALCOM is gui frontend of vrc-get that provides better performance and functionality than official client.
+  homepage: vrc-get.anatawa12.com/
+  repository: github.com/vrc-get/vrc-get
   license: MIT
 
 - id: VSCodium
