@@ -779,6 +779,15 @@
   homepage: www.hyphanet.org
   repository: github.com/hyphanet/sign-windows-installer
   license: GPLv2
+  
+- id: HyPlayer
+  title: HyPlayer
+  category: audio
+  tagline: A Third-Party Client of Netease Cloud Music.
+  description: A Third-Party Client of Netease Cloud Music. Providing Light-Weighted and Customizable Experiences.
+  homepage: hyplayer.kengwang.com.cn/#/index
+  repository: github.com/HyPlayer/HyPlayer
+  license: GPv3
 
 - id: JD-GUI-DUO
   title: JD-GUI-DUO
@@ -1072,6 +1081,15 @@
   repository: github.com/SteamClientHomebrew/Millennium
   license: MIT
 
+- id: MineBackup
+  title: MineBackup
+  category: gaming
+  tagline: A cross-platform desktop app for safe backup and restore of Minecraft worlds and other folders.
+  description: MineBackup is an open-source desktop backup and restore application focused on data safety, reliable recovery, and practical usability for Minecraft worlds and general folders, with local-first operation and cross-platform support.
+  homepage: github.com/Leafuke/MineBackup
+  repository: github.com/Leafuke/MineBackup
+  license: GPLv3
+
 - id: mlocati-gettext-windows
   title: mlocati-gettext-windows
   category: developer-tools
@@ -1236,6 +1254,15 @@
   description: OData2Poco is a code generation tool for generating plain-old CLR objects (POCO/DTO) in c# and typescript from OData feeds. POCO classes can be used in a typed RESTful client OData services. Code generation can be controlled by setting many options.
   homepage: github.com/moh-hassan/odata2poco
   repository: github.com/moh-hassan/odata2poco
+  license: MIT
+
+- id: Omnisearch
+  title: Omnisearch
+  category: productivity
+  tagline: High-performance Windows file search powered by NTFS indexing
+  description: OmniSearch is a Windows desktop search application that delivers fast and reliable file discovery by utilizing low-level NTFS metadata and a native indexing engine. It is designed for performance, responsiveness, and keyboard-driven workflows, and includes integrated capabilities for identifying duplicate files, providing a modern and extensible approach to file search beyond traditional tools.
+  homepage: eyuel.com.et/omni-search
+  repository: github.com/Eul45/omni-search
   license: MIT
 
 - id: Open-Drone-Log
@@ -1753,6 +1780,15 @@
   repository: github.com/aelassas/servy
   license: MIT
 
+- id: Simbrain
+  title: Simbrain
+  category: science
+  tagline: Tool for building, running, and analyzing neural networks (computer simulations of brain circuitry).
+  description: An open source neural network simulation framework that emphasizes visualization and ease of use.
+  homepage: simbrain.net
+  repository: github.com/simbrain/simbrain
+  license: GPLv2
+
 - id: simple-acme
   title: simple-acme
   category: developer-tools
@@ -2128,7 +2164,7 @@
 
 - id: vrc-get
   title: vrc-get
-  category: productivity
+  category: gaming
   tagline: Fast Open Source command line and graphical client of VRChat Package Manager 
   description: vrc-get is a fast open-source command-line client of VRChat Package Manager. ALCOM is gui frontend of vrc-get that provides better performance and functionality than official client.
   homepage: vrc-get.anatawa12.com/
