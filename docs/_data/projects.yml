@@ -28,7 +28,7 @@
 - id: AMIGOpy
   title: AMIGOpy
   category: science
-  tagline: AMIGOpy
+  tagline: Software for research and education in medical physics
   description: AMIGOpy (A Medical Image-based Graphical platfOrm – Python) is an educational platform designed to support both teaching and research in radiotherapy. Leveraging VTK for high-quality 3D image rendering, AMIGOpy enables users to visualize treatment plans, perform dosimetric analysis and calculations, and interactively work with a wide range of medical images, including DICOM, Nifti, and TIFF formats. The platform offers modules for image contouring, segmentation, and registration, as well as tools for radiochromic film dosimetry and dual-energy CT analysis. What sets AMIGOpy apart is its user-friendly interface and the accessibility of advanced radiotherapy features that are typically restricted to specialized software found only in clinical or advanced research settings, making these capabilities more widely available for educational and research purposes.
   homepage: www.amigo-medphys.com/
   repository: github.com/PhysicsResearch/AMIGOpy
@@ -114,6 +114,16 @@
   homepage: github.com/Numerlor/Auto_Neutron
   repository: github.com/Numerlor/Auto_Neutron
   license: GPLv3
+
+- id: Avogadro-Project
+  title: Avogadro Project
+  category: science
+  tagline: Molecular Editor and Visualization Tool
+  description: Avogadro is an advanced molecule editor and visualizer designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas. It offers flexible high quality rendering and a powerful plugin architecture.
+  homepage: avogadro.cc
+  repository: github.com/OpenChemistry/avogadrolibs
+  wikipedia: en.wikipedia.org/wiki/Avogadro_(software)
+  license: BSD-3-clause
 
 - id: Balatro-Mod-Manager
   title: Balatro Mod Manager
@@ -330,7 +340,16 @@
   homepage: www.coolprop.org
   repository: github.com/coolprop/coolprop
   license: MIT
-  
+
+- id: Cryengine-Converter
+  title: Cryengine Converter
+  category: developer-tools
+  tagline: A command-line tool that converts CryEngine game assets into portable 3D formats.
+  description: Cryengine Converter is an open-source command-line tool for converting proprietary CryEngine game assets into portable 3D formats. It supports the full range of CryEngine file types — geometry, skeletal meshes, and animations - across multiple CryEngine-based games, and outputs industry-standard formats suitable for use in 3D editors, game engines, and visualization pipelines.
+  homepage: github.com/markemp/Cryengine-Converter
+  repository: github.com/markemp/Cryengine-Converter
+  license: GPLv2
+
 - id: daggy
   title: daggy
   category: developer-tools
@@ -652,7 +671,16 @@
   homepage: www.geany.org/
   repository: github.com/geany/geany-plugins
   license: GPLv3
-
+  
+- id: Genshin-FPS-Unlocker
+  title: Genshin FPS Unlocker
+  category: gaming
+  tagline: FPS Unlocker for Genshin Impact
+  description: An open-source tool that lets you set a custom frame rate (FPS) limit in the game Genshin Impact, compatible with all versions of the game except closed beta clients.
+  homepage: github.com/34736384/genshin-fps-unlock
+  repository: github.com/34736384/genshin-fps-unlock
+  license: MIT
+  
 - id: GHelper
   title: GHelper
   category: accessibility
@@ -689,6 +717,15 @@
   repository: github.com/gitextensions/gitextensions
   license: GPLv3
 
+- id: GitHub-Store  
+  title: GitHub Store
+  category: producivity
+  tagline: A free, open-source app store for GitHub releases — browse, discover and install apps with one click
+  description: GitHub Store is an open-source client that presents GitHub Releases as a unified, searchable app catalog across Windows, macOS, Linux and Android. It helps end users discover and install software hosted on GitHub through a familiar store-style interface, and helps developers reach users without standing up their own distribution infrastructure.
+  homepage: github-store.org
+  repository: github.com/OpenHub-Store/GitHub-Store
+  license: Apache-v2_0
+  
 - id: Gopher64
   title: Gopher64
   category: gaming
@@ -796,7 +833,7 @@
   description: A Third-Party Client of Netease Cloud Music. Providing Light-Weighted and Customizable Experiences.
   homepage: hyplayer.kengwang.com.cn/#/index
   repository: github.com/HyPlayer/HyPlayer
-  license: GPv3
+  license: GPLv3
 
 - id: JD-GUI-DUO
   title: JD-GUI-DUO
@@ -806,6 +843,15 @@
   homepage: javadecompiler.org
   repository: github.com/nbauma109/jd-gui-duo
   license: GPLv3
+
+- id: JSignPdf
+  title: JSignPdf
+  category: productivity
+  tagline: The open-source way to add digital signatures to your PDFs.
+  description: JSignPdf is an open-source application that adds digital signatures to PDF documents, helping individuals and organizations ensure the authenticity, integrity, and non-repudiation of their files. It supports signing with certificates from various keystores, visible and invisible signatures, and timestamping. Usable as both a desktop GUI tool and through its command-line interface. JSignPdf aims to make trusted PDF signing accessible to everyone, regardless of budget or platform.
+  homepage: intoolswetrust.github.io/jsignpdf
+  repository: github.com/intoolswetrust/jsignpdf
+  license: MPL-2.0
 
 - id: Jubler
   title: Jubler
@@ -944,6 +990,15 @@
   repository: github.com/kubetail-org/kubetail
   license: Apache-v2_0
 
+- id: Kyber
+  title: Kyber
+  category: gaming
+  tagline: Play the next era of STAR WARS™ Battlefront™ II on PC
+  description: KYBER is a unified game launcher for STAR WARS Battlefront II that adds community-hosted multiplayer with full mod support, a server browser, and moderation tools. Built from the ground up with the user experience at the forefront of its design, experiencing Battlefront the way you want to play is now easier than ever with KYBER.
+  homepage: kyber.gg
+  repository: github.com/ArmchairDevelopers/Kyber
+  license: GPLv3
+  
 - id: Lamina-lang
   title: Lamina-lang
   category: science
@@ -961,6 +1016,15 @@
   homepage: lemonade-server.ai/
   repository: github.com/lemonade-sdk/lemonade
   license: Apache-v2_0
+
+- id: Letos
+  title: Letos
+  category: developer-tools
+  tagline: SQLite database editor
+  description: SQLiteStudio is a graphical tool designed to interact with SQLite databases, allowing users to inspect and modify database structures and data through a visual interface. It serves as a general-purpose application for working with SQLite-based data stores.
+  homepage: letos.org
+  repository: github.com/pawelsalawa/letos
+  license: GPLv3
 
 - id: lgou2w-hoyo-gacha
   title: lgou2w-hoyo-gacha
@@ -1126,6 +1190,15 @@
   repository: github.com/JonET/monksynth
   license: MIT
 
+- id: Motrix-Next
+  title: Motrix Next
+  category: productivity
+  tagline: A full-featured download manager rebuilt with Tauri 2 and Rust. HTTP, FTP, BitTorrent, Magnet.
+  description: Motrix Next is a ground-up rewrite of the popular Motrix download manager, replacing Electron with Tauri 2 (Rust backend) and Vue 2 with Vue 3 + TypeScript. It provides multi-protocol download support (HTTP, FTP, BitTorrent, Magnet), concurrent task management, speed scheduling, and a native system tray experience across macOS, Windows, and Linux. The project ships ~20 MB bundles for 6 platform targets (macOS aarch64/x64, Windows x64/ARM64, Linux x64/ARM64), all built via GitHub Actions CI.
+  homepage: motrix-next.pages.dev
+  repository: github.com/AnInsomniacy/motrix-next
+  license: MIT
+
 - id: msbuildlog.com
   title: MSBuildLog
   category: developer-tools
@@ -1274,6 +1347,15 @@
   repository: github.com/Eul45/omni-search
   license: MIT
 
+- id: OpenCode
+  title: OpenCode
+  category: developer-tools
+  tagline: The open source AI coding agent
+  description: An open source coding agent with support for all AI models and providers.
+  homepage: opencode.ai
+  repository: github.com/anomalyco/opencode
+  license: MIT
+  
 - id: Open-Drone-Log
   title: Open Drone Log
   category: other
@@ -1304,7 +1386,7 @@
 - id: okww
   title: okww
   category: gaming
-  tagline: okww - Automation for Wuthering Waves
+  tagline: Automation for Wuthering Waves
   description: This tool automates gameplay in Wuthering Waves using computer vision and win32api, enabling background operation for efficient resource farming and task completion. It streamlines daily activities by offering one-press clearing for daily tasks and Tacet Fields, and automates combat in various game modes, including Abyss, the open world, and Tacet Fields. Additionally, it enhances user experience by automatically skipping dialogs during quests and picking up in-game items like Echos, flowers, and chests. With support for all game languages for most features, it provides a versatile automation solution.
   homepage: github.com/ok-oldking/ok-wuthering-waves
   repository: github.com/ok-oldking/ok-wuthering-waves
@@ -1319,6 +1401,15 @@
   repository: github.com/OpenHV/OpenHV
   license: GPLv3
 
+- id: OpenModScan
+  title: OpenModScan
+  category: developer-tools
+  tagline: Free Modbus Master (Client) Utility
+  description: OpenModScan is a free and open-source Modbus Master (Client) utility supporting Modbus‑TCP and Modbus‑RTU protocols. The program allows scanning and interacting with Modbus devices such as sensors, meters, and other industrial equipment, providing a convenient interface for monitoring and diagnostics.
+  homepage: github.com/sanny32/OpenModScan
+  repository: github.com/sanny32/OpenModScan
+  license: MIT
+  
 - id: OpenModsim
   title: OpenModsim
   category: developer-tools
@@ -1774,7 +1865,7 @@
   tagline: Open-source scientometric tool for topics trend analysis in scientific publications
   description: ScientoPy is an open-source Python-based scientometric analysis tool that enables researchers to import datasets from Clarivate Web of Science (WoS) and Scopus, preprocess and deduplicate records, and analyze research trends across multiple criteria including author keywords, institutions, countries, and document types. It provides five visualization types (bar charts, bar trends, timelines, evolution graphs, and word clouds), calculates h-index, Average Growth Rate (AGR), and Average Documents per Year (ADY) indicators, and supports both a graphical (PySide6/Qt) and command-line interface on Windows, Linux, and macOS.
   homepage: github.com/jpruiz84/ScientoPy
-  tagline: github.com/jpruiz84/ScientoPy
+  repository: github.com/jpruiz84/ScientoPy
   license: MIT
 
 - id: SDRangel
@@ -1794,6 +1885,15 @@
   homepage: seelen.io/
   repository: github.com/eythaann/seelen-ui
   license: AGPL3
+
+- id: segra.tv
+  title: segra.tv
+  category: productivity
+  tagline: AI‑powered game recording & highlight clipping.
+  description: Segra.tv is an open‑source desktop application that records gameplay and enables the creation and sharing of clips, providing gamers and content creators with an efficient end‑to‑end workflow from capture to publication.
+  homepage: segra.tv/
+  repository: github.com/Segergren/Segra
+  license: GPLv2
 
 - id: Servy
   title: Servy
