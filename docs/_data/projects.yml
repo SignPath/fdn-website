@@ -322,6 +322,15 @@
   repository: github.com/Faster3ck/Converseen
   license: GPLv3
 
+- id: CoolProp
+  title: CoolProp
+  category: science
+  tagline: Thermophysical properties for the masses
+  Description: CoolProp is a thermophysical property database and wrappers for a selection of programming environments. It offers similar functionality to REFPROP, but CoolProp is open-source and free. It was originally developed by Ian Bell, at the time a post-doc at the University of Liege, in Liege, Belgium.
+  homepage: www.coolprop.org
+  repository: github.com/coolprop/coolprop
+  license: MIT
+  
 - id: daggy
   title: daggy
   category: developer-tools
@@ -1349,6 +1358,21 @@
   repository: github.com/OpenSC/OpenSC
   license: LGPLv2_1
 
+- id: Open-Shell
+  title: Open-Shell
+  category: productivity
+  tagline: Open-Shell is a fork of Classic Shell, originally created by Ivo Beltchev.
+  description: |
+    Successor of Classic Shell. Main features are:
+    - Highly customizable start menu with multiple styles and skins
+    - Quick access to recent, frequently-used, or pinned programs
+    - Find programs, settings, files and documents
+    - Start button for Windows 7, Windows 8, Windows 8.1 and Windows 10/11
+    - Toolbar and status bar for Windows Explorer
+  homepage: open-shell.github.io/Open-Shell-Menu
+  repository: github.com/Open-Shell/Open-Shell-Menu
+  license: MIT
+
 - id: OpenSpeedy
   title: OpenSpeedy
   category: gaming
@@ -2022,17 +2046,26 @@
   description: Symlinker is a Windows Forms application that provides an easy-to-use graphical interface for creating symbolic links, hard links, and directory junctions on Windows. It wraps the Windows mklink command, making it accessible to users without requiring command-line knowledge. The application supports both file and folder symlinks and automatically requests administrator privileges when needed.
   homepage: github.com/amd989/Symlinker
   repository: github.com/amd989/Symlinker
-  license: MIT  
+  license: MIT
 
-- id: mapeditor.org
-  title: Tiled
-  category: gaming
-  tagline: A flexible map editor
-  description: Tiled is a general purpose tile map editor for all tile-based games, such as RPGs, platformers or Breakout clones.
-  homepage: www.mapeditor.org
-  repository: github.com/mapeditor/tiled
-  license: GPLv2
-
+- id: Sync-in
+  title: Sync-in
+  category: productivity
+  tagline: Full-featured open-source desktop client for file synchronization and secure access to self-hosted Sync-in servers.
+  description: Sync-in Desktop is an open-source cross-platform application that lets users synchronize files and securely access resources hosted on self-managed Sync-in servers. It is designed for individuals, teams, and organizations that need control over their data, with desktop integration for file transfer, synchronization, and server connectivity.
+  homepage: sync-in.com
+  repository: github.com/Sync-in
+  license: Affero-GPL
+  
+- id: TcNo-Account-Switcher
+  title: TcNo Account Switcher
+  category: productivity
+  tagline: The Account Switcher for Anything
+  description: A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
+  homepage: github.com/TCNOco/TcNo-Acc-Switcher
+  repository: github.com/TCNOco/TcNo-Acc-Switcher
+  license: GPLv3
+  
 - id: Tera-Term
   title: Tera Term
   category: developer-tools
@@ -2069,6 +2102,25 @@
   homepage: tik-manager.com/
   repository: github.com/masqu3rad3/tik_manager4
   license: GPLv3
+
+- id: mapeditor.org
+  title: Tiled
+  category: gaming
+  tagline: A flexible map editor
+  description: Tiled is a general purpose tile map editor for all tile-based games, such as RPGs, platformers or Breakout clones.
+  homepage: www.mapeditor.org
+  repository: github.com/mapeditor/tiled
+  license: GPLv2
+
+- id: Tokensave
+  title: Tokensave
+  category: developer-tools
+  tagline: Semantic code graphs that cut AI coding-assistant token usage by 60–90%.
+  description: |
+    TokenSave is an open-source code intelligence tool written in Rust. It parses a repository into a persistent semantic knowledge graph capturing symbols, call relationships, type hierarchies, file structure, and change history. The graph is exposed through a Model Context Protocol (MCP) server, letting AI coding assistants (Claude Code, Codex, Gemini CLI, Cursor) answer questions like "who calls this function?" or "what's affected by this change?" by querying the graph — instead of repeatedly reading source files into their context window. Real-world usage shows 60–90% reductions in token consumption on common development tasks. TokenSave is MIT-licensed and distributed via crates.io, Homebrew, and Scoop.
+  homepage: tokensave.dev
+  repository: github.com/aovestdipaperino/tokensave
+  license: MIT
   
 - id: Tonbrett
   title: Tonbrett
@@ -2161,6 +2213,15 @@
   homepage: vdd.mikethetech.com/
   repository: github.com/VirtualDisplay/Virtual-Display-Driver
   license: MIT
+
+- id: VKey
+  title: VKey
+  category: productivity
+  tagline: A lightweight, high-performance Vietnamese Input Method Editor (IME) for Windows.
+  description: VKey is an open-source Vietnamese keyboard and Input Method Editor built for the Windows ecosystem. It leverages modern architecture, specifically the Windows Text Services Framework (TSF) combined with system hooks, to provide users with a fast, accurate, and deeply integrated native typing experience without the lag or compatibility issues found in legacy input methods.
+  homepage: github.com/phatMT97/VKey
+  repository: github.com/phatMT97/VKey
+  license: AGPL3
 
 - id: vrc-get
   title: vrc-get
@@ -2282,6 +2343,15 @@
   repository: github.com/wladradchenko/wunjo.wladradchenko.ru
   license: MIT
 
+- id: Wuwa_Mod_Fixer
+  title: Wuwa_Mod_Fixer
+  category: gaming
+  tagline: Wuwa_Mod_Fixer is an open-source tool written in Rust designed to fix and manage mod compatibility issues for the game Wuthering Waves.
+  description: Wuwa_Mod_Fixer is dedicated to providing the Wuthering Waves player community with a reliable solution for mod repair and management. By automatically detecting and fixing common compatibility problems, it helps players enjoy customized content with ease and supports community growth. Its open-source nature and high-performance implementation allow users to freely extend and contribute, ensuring it continually meets new community needs.
+  homepage: github.com/Moonholder/Wuwa_Mod_Fixer
+  repository: github.com/Moonholder/Wuwa_Mod_Fixer
+  license: GPLv3
+  
 - id: XBatteryStatus
   title: XBatteryStatus
   category: gaming
