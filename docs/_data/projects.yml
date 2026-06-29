@@ -1603,7 +1603,8 @@
   title: PadForge
   category: gaming
   tagline: Make any input look like any controller.
-  description: The ULTIMATE Windows controller remapper. Any input device in, any virtual controller out: Xbox, PlayStation, flight sticks, wheels, third-party gamepads, MIDI, or keyboard+mouse. Built on SDL3, HIDMaestro, HidHide, and .NET 10.
+  description: |
+    The ULTIMATE Windows controller remapper. Any input device in, any virtual controller out: Xbox, PlayStation, flight sticks, wheels, third-party gamepads, MIDI, or keyboard+mouse. Built on SDL3, HIDMaestro, HidHide, and .NET 10.
   homepage: padforge.org
   repository: github.com/hifihedgehog/PadForge
   license: CC-BY-NC-SA-4.0
