@@ -396,6 +396,15 @@
   repository: github.com/deadlock-mod-manager/deadlock-mod-manager
   license: GPLv3
 
+- id: DeepSeek-Reasonix
+  title: DeepSeek-Reasonix
+  category: developer-tools
+  tagline: DeepSeek-native AI coding agent for your terminal, engineered around prefix-cache stability.
+  description: Reasonix (DeepSeek-Reasonix) is an open-source, DeepSeek-native AI coding agent for the terminal and desktop. It drives coding tasks to completion through an agentic tool-use loop and is architected around prefix-cache stability, so long-running sessions stay cheap and responsive. It ships as a CLI and a cross-platform Wails desktop application.
+  homepage: esengine.github.io/DeepSeek-Reasonix
+  repository: github.com/esengine/DeepSeek-Reasonix
+  license: MIT
+
 - id: Ditto
   title: Ditto
   category: productivity
@@ -636,6 +645,15 @@
   repository: github.com/koho/frpmgr
   license: Apache-v2_0
 
+- id: fufulauncher
+  title: fufulauncher
+  category: gaming
+  tagline: An open-source game launcher and toolkit for Genshin Impact
+  description: FufuLauncher is a community-driven open-source launcher that provides game management utilities, redemption code tools, and wiki features for Genshin Impact players. It is built with WinUI 3 and .NET, designed for Windows users.
+  homepage: philia093.xyz
+  repository: github.com/FufuLauncher/FufuLauncher
+  license: MIT
+  
 - id: GameSentenceMiner
   title: GameSentenceMiner
   category: gaming
@@ -725,6 +743,15 @@
   homepage: github-store.org
   repository: github.com/OpenHub-Store/GitHub-Store
   license: Apache-v2_0
+
+- id: Godot-Launcher
+  title: Godot Launcher
+  category: developer-tools
+  tagline: A Companion App for Godot Engine.
+  description: A standalone app to streamline Godot downloads, manage multiple Godot versions, and automate new project setups
+  homepage: godotlauncher.org
+  repository: github.com/godotlauncher/launcher
+  license: MIT
   
 - id: Gopher64
   title: Gopher64
@@ -763,6 +790,15 @@
   repository: github.com/gruepr/gruepr
   license: GPLv3
 
+- id: Halloy
+  title: Halloy
+  category: productivity
+  tagline: Halloy is an open-source IRC client for Mac, Windows, and Linux, focused on being simple and fast.
+  description: Halloy is an open-source IRC client focused on providing a modern, reliable, and user-friendly desktop experience for Internet Relay Chat. The project aims to make IRC more accessible while preserving the simplicity, openness, and interoperability that make the protocol valuable for communities, developers, and long-running online networks.
+  homepage: halloy.chat
+  repository: github.com/squidowl/halloy
+  license: GPLv3
+  
 - id: HellbombScript
   title: HellbombScript
   category: gaming
@@ -1347,6 +1383,24 @@
   repository: github.com/Eul45/omni-search
   license: MIT
 
+- id: OpenAgents-Launcher
+  title: OpenAgents Launcher
+  category: productivity
+  tagline: One app to manage all your AI agents.
+  description: A one-stop manager for configuring and connecting your local agents. Claude Code, Codex, Aider, Goose, Gemini CLI — pick an agent, set your API key, and start coding. Open source.
+  homepage: openagents.org/launcher
+  repository: github.com/openagents-org/openagents
+  license: Apache-v2_0
+
+- id: OpenAkita
+  title: OpenAkita
+  category: productivity
+  tagline: Open-Source Multi-Agent AI Assistant — Not Just Chat, an AI Team That Gets Things Done
+  description: OpenAkita is an open-source, all-in-one AI assistant — multiple AI Agents work together, build an AI company that runs autonomously, search the web, operate your computer, manage files, run scheduled tasks, and respond instantly across Telegram / Feishu / WeCom / DingTalk / QQ. Scan a QR code to bind your chat app in 30 seconds. It remembers your preferences, teaches itself new skills, and never gives up on a task. Extend anything through the plugin system, protected by 6-layer sandbox security.
+  homepage: openakita.ai
+  repository: github.com/openakita/openakita
+  license: AGPL3
+  
 - id: OpenCode
   title: OpenCode
   category: developer-tools
@@ -1365,7 +1419,7 @@
   repository: github.com/arpanghosh8453/open-dronelog
   license: AGPL3
 
-- id: OpenBRFRedux
+- id: OpenBRF-Redux
   title: OpenBRF Redux
   category: gaming
   tagline: A modding tool for editing Mount&Blade 1.011 and Warband binary resource (BRF) files.
@@ -1383,6 +1437,24 @@
   repository: github.com/OpenNumismat/open-numismat
   license: GPLv3
 
+- id: OpenPets
+  title: OpenPets
+  category: other
+  tagline: A tiny desktop companion that keeps you company.
+  description: OpenPets is a tray-first desktop companion app. A small pet lives on your desktop, idles and reacts to keep you company, and can use bundled abilities for ambient check-ins, breaks, focus sessions, and playful actions. Optional integrations let MCP-capable coding agents send short, safe reactions and speech to the pet.
+  homepage: github.com/alvinunreal/openpets
+  repository: github.com/alvinunreal/openpets
+  license: MIT
+
+- id: ok-nte
+  title: ok-nte
+  category: gaming
+  tagline: Automation for Neverness to Everness
+  description: This tool automates gameplay in Neverness to Everness using computer vision, enabling background operation for efficient resource farming and task completion. It streamlines daily activities by offering one-press clearing for daily tasks, custom domain grinding, and specialized minigames like fishing and the drum music game. Powered by advanced computer vision and audio-driven feedback, it automates combat across various modes, featuring optimized character skill rotations and automatic evasion. Additionally, it enhances user experience by automatically skipping dialogs during quests, enabling fast travel, and providing dedicated optimizations for the "Pink Paw Heist" mode. With support for Chinese, English, and multiple other languages, it provides a versatile automation solution.
+  homepage: github.com/BnanZ0/ok-nte
+  repository: github.com/BnanZ0/ok-nte
+  license: GPLv3
+  
 - id: okww
   title: okww
   category: gaming
@@ -1521,16 +1593,25 @@
 - id: Pactus
   title: Pactus
   category: developer-tools
-  tagline: Pactus - Where Community Builds Trustless!
+  tagline: Where Community Builds Trustless!
   description: Pactus is an open source, layer-1 blockchain technology with a revolutionary, secure, Solid State Proof of Stake Consensus. Come join us and build a decentralized future together!
   homepage: pactus.org/
   repository: github.com/pactus-project/pactus
   license: MIT
 
+- id: PadForge
+  title: PadForge
+  category: gaming
+  tagline: Make any input look like any controller.
+  description: The ULTIMATE Windows controller remapper. Any input device in, any virtual controller out: Xbox, PlayStation, flight sticks, wheels, third-party gamepads, MIDI, or keyboard+mouse. Built on SDL3, HIDMaestro, HidHide, and .NET 10.
+  homepage: padforge.org
+  repository: github.com/hifihedgehog/PadForge
+  license: CC-BY-NC-SA-4.0
+
 - id: pandoc
   title: pandoc
   category: accessibility
-  tagline: Pandoc - A universal document format converter
+  tagline: A universal document format converter
   description: Pandoc converts documents from one format to another. It aims to preserve structure and content and to produce output that is idiomatic for the target format.
   homepage: pandoc.org
   repository: github.com/jgm/pandoc
@@ -1805,6 +1886,17 @@
   repository: github.com/seifhassine/Reasy
   license: MIT  
 
+- id: ReciPro
+  title: ReciPro
+  category: science
+  tagline: A free, open-source crystallographic application for Windows for exploring crystal-structure databases, visualizing 3D structures, and simulating and analyzing X-ray, electron, and neutron diffraction and electron-microscope images.
+  description: |
+      ReciPro is a free, open-source desktop application for crystallography, electron diffraction, and transmission electron microscopy simulation. It lets users explore built-in and online crystal-structure databases, visualize crystal structures and goniometer geometry in real-time 3D, plot stereographic projections, and simulate single-crystal, powder, and convergent-beam diffraction patterns for X-ray, electron, and neutron sources using both kinematical and dynamical (Bloch-wave) theory. It also simulates high-resolution TEM and scanning-TEM images and supports semi-automatic indexing of experimental electron-diffraction patterns.
+      All functions are linked through an interactive graphical interface, so results update synchronously in near real time and the relationship between real space and reciprocal space becomes easier to understand and to quantify. ReciPro is aimed at mineralogists, materials scientists, and electron-microscopy researchers, and is designed to be approachable for students and newcomers as well as experienced practitioners. It has been developed continuously since 2002 and is used in research and teaching at universities and companies worldwide.
+  homepage: github.com/seto77/ReciPro
+  repository: github.com/seto77/ReciPro
+  license: MIT
+  
 - id: repentogon.com
   title: REPENTOGON
   category: gaming
@@ -1813,6 +1905,15 @@
   homepage: repentogon.com
   repository: github.com/TeamREPENTOGON/REPENTOGON
   license: GPLv2
+
+- id: RouteConverter
+  title: RouteConverter
+  category: productivity
+  tagline: RouteConverter displays, modifies, enriches and converts GPS data between over 87 formats
+  description: RouteConverter displays, modifies, enriches and converts GPS data between over 87 formats. It works without installation under Linux, Mac OS X and Windows, automatically detects the format of a file, supports drag and drop, undo and redo, offers a map view onto the positions of routes, tracks and waypoints, allows to modify positions in the map view, supports multiple routes within Google Earth, GPX and Garmin MapSource files and much more
+  homepage: routeconverter.com
+  repository: github.com/cpesch/RouteConverter
+  license: Apache-v2_0
 
 - id: RSNA-DICOM-Anonymizer
   title: RSNA DICOM Anonymizer
@@ -1921,6 +2022,15 @@
   homepage: simple-acme.com/
   repository: github.com/simple-acme/simple-acme/
   license: Apache-v2_0
+
+- id: Sirkku
+  title: Sirkku
+  category: science
+  tagline: A tool for identifying Finnish birds from audio recordings.
+  description: Sirkku is a tool for identifying Finnish bird species from audio recordings. It runs entirely on your own computer: upload audio files and receive a CSV report of detected species, compatible with the BirdNET Analyzer format.
+  homepage: laji.fi/about/9219
+  repository: github.com/luomus/bird-identification
+  license: MIT
 
 - id: SkyCal
   title: SkyCal
@@ -2176,6 +2286,15 @@
   wikipedia: en.wikipedia.org/wiki/Tera_Term
   license: BSD-3-clause
 
+- id: TerraMap
+  title: TerraMap
+  category: gaming
+  tagline: TerraMap Native is a cross-platform, interactive Terraria world map viewer.
+  description: TerraMap Native is a cross-platform, interactive Terraria world map viewer that loads quickly and lets you pan, zoom, find blocks, ores, items in chests, dungeons, NPCs, etc.
+  homepage: terramap.github.io
+  repository: github.com/TerraMap/terramap.github.io
+  license: MIT
+
 - id: texstudio
   title: texstudio
   category: educational
@@ -2377,6 +2496,15 @@
   repository: github.com/gnh1201/welsonjs
   license: GPLv3
 
+- id: winscript
+  title: winscript
+  category: productivity
+  tagline: WinScript is an open-source tool designed to improve and customize your Windows experience.
+  description: It offers a range of features, including debloating, privacy enhancement, performance optimization, and bulk app installation.
+  homepage: winscript.cc
+  repository: github.com/flick9000/winscript
+  license: GPLv3
+  
 - id: wiilink-patcher-gui
   title: wiilink-patcher-gui
   category: gaming
