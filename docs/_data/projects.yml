@@ -2028,7 +2028,8 @@
   title: Sirkku
   category: science
   tagline: A tool for identifying Finnish birds from audio recordings.
-  description: Sirkku is a tool for identifying Finnish bird species from audio recordings. It runs entirely on your own computer: upload audio files and receive a CSV report of detected species, compatible with the BirdNET Analyzer format.
+  description: |
+    Sirkku is a tool for identifying Finnish bird species from audio recordings. It runs entirely on your own computer: upload audio files and receive a CSV report of detected species, compatible with the BirdNET Analyzer format.
   homepage: laji.fi/about/9219
   repository: github.com/luomus/bird-identification
   license: MIT
