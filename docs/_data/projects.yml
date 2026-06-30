@@ -737,7 +737,7 @@
 
 - id: GitHub-Store  
   title: GitHub Store
-  category: producivity
+  category: productivity
   tagline: A free, open-source app store for GitHub releases — browse, discover and install apps with one click
   description: GitHub Store is an open-source client that presents GitHub Releases as a unified, searchable app catalog across Windows, macOS, Linux and Android. It helps end users discover and install software hosted on GitHub through a familiar store-style interface, and helps developers reach users without standing up their own distribution infrastructure.
   homepage: github-store.org
