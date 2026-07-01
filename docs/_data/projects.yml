@@ -5,7 +5,7 @@
   description: Zero Install is a decentralized cross-platform software installation system available under the LGPL. It allows software developers to publish programs directly from their own web-sites, while supporting features familiar from centralized distribution repositories such as shared libraries, automatic updates and digital signatures.
   homepage: 0install.net
   repository: github.com/0install/0install-win
-  license: LGPLv3
+  license: LGPL-3.0-only
 
 - id: Aily-Blockly
   title: Aily Blockly
@@ -14,7 +14,7 @@
   description: Aily Project is a hardware development integrated environment that plans to integrate numerous AI capabilities to help hardware developers develop more smoothly. Aily Blockly is a blockly IDE under the aily Project. In the early stage, it provides AI-assisted programming capabilities for non-professional users. The long-term goal is to break the boundary between professional development and non-professional development, and ultimately achieve natural language programming.
   homepage: aily.pro/
   repository: github.com/ailyProject/aily-blockly
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Amiberry
   title: Amiberry
@@ -23,7 +23,7 @@
   description: Optimized Amiga Emulator for Linux, macOS, Windows, Android, FreeBSD and Haiku
   homepage: amiberry.com
   repository: https://github.com/BlitterStudio/amiberry
-  license: GPLv3
+  license: GPL-3.0-only
   
 - id: AMIGOpy
   title: AMIGOpy
@@ -32,7 +32,7 @@
   description: AMIGOpy (A Medical Image-based Graphical platfOrm – Python) is an educational platform designed to support both teaching and research in radiotherapy. Leveraging VTK for high-quality 3D image rendering, AMIGOpy enables users to visualize treatment plans, perform dosimetric analysis and calculations, and interactively work with a wide range of medical images, including DICOM, Nifti, and TIFF formats. The platform offers modules for image contouring, segmentation, and registration, as well as tools for radiochromic film dosimetry and dual-energy CT analysis. What sets AMIGOpy apart is its user-friendly interface and the accessibility of advanced radiotherapy features that are typically restricted to specialized software found only in clinical or advanced research settings, making these capabilities more widely available for educational and research purposes.
   homepage: www.amigo-medphys.com/
   repository: github.com/PhysicsResearch/AMIGOpy
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: AnyPackage
   title: AnyPackage
@@ -50,7 +50,7 @@
   description: Anx Reader, a thoughtfully crafted e-book reader designed for book enthusiasts, supports various formats with powerful AI capabilities.
   homepage: github.com/Anxcye/anx-reader
   repository: github.com/Anxcye/anx-reader
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Archi
   title: Archi
@@ -68,7 +68,7 @@
   description: Armbian’s cross-platform utility for flashing OS images to storage media. This tool simplifies the process of writing Armbian OS files to SD cards, USB drives, or eMMC modules, featuring a user-friendly interface tailored for Armbian users.
   homepage: armbian.com/
   repository: github.com/armbian/imager
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: asdf-overlay
   title: asdf-overlay
@@ -77,7 +77,7 @@
   description: Asdf Overlay provides an easy to use interface to draw on top of window framebuffer by hooking rendering backends. GPU shared texture was used to avoid framebuffer copy via CPU. As a result, Asdf Overlay is capable of rendering overlay with any size without performance loss.
   homepage: github.com/storycraft/asdf-overlay
   repository: github.com/storycraft/asdf-overlay
-  license: Apache-v2_0
+  license: Apache-2.0
 
 - id: AstroImageJ
   title: AstroImageJ
@@ -86,7 +86,7 @@
   description: AstroImageJ (AIJ), which provides an astronomy specific image display environment and tools for astronomy specific image calibration and data reduction. Although AIJ maintains the general purpose image processing capabilities of ImageJ, AIJ is streamlined for time-series differential photometry, light curve detrending and fitting, and light curve plotting, especially for applications requiring ultra-precise light curves (e.g., exoplanet transits). AIJ provides research grade image calibration and analysis tools with a GUI driven approach, and easily installed cross-platform compatibility. It enables new users, even at the level of undergraduate student, high school student, or amateur astronomer, to quickly start processing, modeling, and plotting astronomical image data with one tightly integrated software package.
   homepage: astroimagej.com/
   repository: github.com/AstroImageJ/astroimagej
-  license: GPLv3  
+  license: GPL-3.0-only  
 
 - id: auto-mcs
   title: auto-mcs
@@ -95,7 +95,7 @@
   description: This software provides a simple and easy-to-digest experience for those who want to play Minecraft with their friends without the hassle of server installation & maintenance.
   homepage: auto-mcs.com
   repository: github.com/macarooni-man/auto-mcs
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: AUTO_MAA
   title: AUTO_MAA
@@ -104,7 +104,7 @@
   description: A MAA Multi Account Management and Automation Tool
   homepage: doc.automaa.xyz/
   repository: github.com/DLmaster361/AUTO_MAA/
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Auto-Neutron
   title: Auto Neutron
@@ -113,7 +113,7 @@
   description: A route plotter for Elite dangerous that plots routes from Spansh API or CSV files, and then automatically pastes system into clipboard or automatically routes systems with AutoHotkey.
   homepage: github.com/Numerlor/Auto_Neutron
   repository: github.com/Numerlor/Auto_Neutron
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Avogadro-Project
   title: Avogadro Project
@@ -123,7 +123,7 @@
   homepage: avogadro.cc
   repository: github.com/OpenChemistry/avogadrolibs
   wikipedia: en.wikipedia.org/wiki/Avogadro_(software)
-  license: BSD-3-clause
+  license: BSD-3-Clause
 
 - id: Balatro-Mod-Manager
   title: Balatro Mod Manager
@@ -132,7 +132,7 @@
   description: Balatro Mod Manager (BMM) is a standalone application that makes finding, downloading, and installing mods for Balatro simple and convenient. Unlike manual mod installation that requires editing files and troubleshooting errors, BMM automates the entire process and provides a user-friendly interface to manage your mods.
   homepage: balatro-mod-manager.dasguney.com/
   repository: github.com/skyline69/balatro-mod-manager
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: BEAGLE
   title: BEAGLE
@@ -159,7 +159,7 @@
   description: The Bitcoin savings wallet for securing your bitcoin in Single and Multisig. With the focus on long term saving the wallet puts security first. The Bitcoin Safe setup wizard makes Single and Multi-signature wallets easy for non-technical people to setup. Step by step instructions on how to use the hardware wallets and  receive and send tests ensure everything works.
   homepage: bitcoin-safe.org
   repository: github.com/andreasgriffin/bitcoin-safe
-  license: GPLv3
+  license: GPL-3.0-only
   
 - id: Bloxtrap
   title: Bloxstrap
@@ -186,7 +186,7 @@
   description: Brewtarget is a cross-platform desktop beer recipe creation tool for Linux, Mac, and Windows.  It automatically calculates color, bitterness, and other key parameters for you while you drag and drop ingredients into the recipe. Brewtarget also has many other tools such as priming sugar calculators, OG correction help, and a unique mash designing tool. It also can export and import recipes in BeerJSON and BeerXML, allowing you to easily share recipes with friends who use other programs.
   homepage: brewtarget.beer/
   repository: github.com/Brewtarget/brewtarget/
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: briefing-room-for-dcs
   title: briefing-room-for-dcs
@@ -195,7 +195,7 @@
   description: BriefingRoom for DCS World is a massively improved version of DCS World own fast mission generator. BriefingRoom allows you to create complete scenarios in just a few clicks. Missions generated with BriefingRoom tend to be rather player-centric. Their purpose is not to simulate a real war theater, like Falcon 4 dynamic campaign, but to provide the player(s) with interesting objectives and challenges. This approach is a perfect fit for DCS World limited number of units and very capable scripting engine. While BriefingRoom is designed to be easy to use and to allow the creation of missions in mere seconds, it is also heavily moddable and will give many options to power users ready to tackle with its most advanced features.
   homepage: dcs-briefingroom.azurewebsites.net/
   repository: github.com/DCS-BR-Tools/briefing-room-for-dcs
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: BuildLauncher
   title: BuildLauncher
@@ -204,7 +204,7 @@
   description: BuildLauncher is an app that can download user-made campaigns, maps, and mods for Build Engine games and launch them with every modern source port.
   homepage: github.com/fgsfds/BuildLauncher
   repository: github.com/fgsfds/BuildLauncher
-  license: GPLv3  
+  license: GPL-3.0-only  
 
 - id: cap
   title: cap
@@ -222,7 +222,7 @@
   description: cargo-nextest is a new, faster test runner for Rust. Nextest is up to 3x faster than cargo test and supports many features for CI and local developer workflows.
   homepage: github.com/nextest-rs/nextest
   repository: nexte.st
-  license: Apache-v2_0
+  license: Apache-2.0
 
 - id: catime
   title: catime
@@ -231,7 +231,7 @@
   description: An ultra-lightweight countdown tool with Pomodoro functionality, featuring a transparent interface, rich customization, minimal memory and CPU usage, elegantly managing time.
   homepage: catime.vladelaina.com/
   repository: github.com/vladelaina/Catime
-  license: Apache-v2_0
+  license: Apache-2.0
 
 - id: catlock
   title: catlock
@@ -240,7 +240,7 @@
   description: CatLock is a simple utility designed to prevent accidental keyboard input, particularly when your feline friend decides to grace your workspace.
   homepage: catlock.app/
   repository: github.com/richiehowelll/cat-lock
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: cherrytree
   title: cherrytree
@@ -249,7 +249,7 @@
   description: A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in either a single file (xml or sqlite) or multiple files and directories.
   homepage: giuspen.net/cherrytree/
   repository: github.com/giuspen/cherrytree
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Chewing-IM
   title: Chewing IM
@@ -259,7 +259,7 @@
     The Chewing (酷音) is an intelligent phonetic input method (Zhuyin/Bopomofo) and is one of the most popular choices for Traditional Chinese users. Chewing was inspired by other proprietary intelligent Zhuyin input methods on Microsoft Windows, namely Wang-Xin by Eten, Microsoft New Zhuyin, and Nature Zhuyin (aka Going). The Chewing developer maintains the project as a fully open-source effort, positioning it as a leading libre intelligent phonetic solution among major operating environments.
   homepage: chewing.im
   repository: github.com/chewing/windows-chewing-tsf
-  license: LGPLv2_1
+  license: LGPL-2.0-only_1
 
 - id: clarinet
   title: clarinet
@@ -268,7 +268,7 @@
   description: Clarinet is the fastest way to build, test, and deploy smart contracts on the Stacks blockchain. It gives you a toolchain to ship high-quality Clarity code with confidence.
   homepage: stackslabs.com/clarinet
   repository: github.com/stx-labs/clarinet
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: ClassicUO
   title: ClassicUO
@@ -277,7 +277,7 @@
   description: ClassicUO is an open source implementation of the Ultima Online Classic Client. This client is intended to emulate all standard client versions and is primarily tested against Ultima Online free shards.
   homepage: github.com/ClassicUO/ClassicUO
   repository: github.com/ClassicUO/ClassicUO
-  license: BSD-2-clause  
+  license: BSD-2-Clause  
 
 - id: ClassIsland
   title: ClassIsland
@@ -295,7 +295,7 @@
   description: ClassWidgets is a desktop widget application that displays the current course schedule.
   homepage: cw.rinlit.cn/
   repository: github.com/Class-Widgets/Class-Widgets
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: cobolt-platinum-hill
   title: cobolt platinum hill
@@ -311,7 +311,7 @@
     Cobolt is a cross-platform desktop application that enables you to get answers, and perform actions on the data that matters to you. Cobolt only stores data on your device, and uses locally running AI models. Cobolt can also remembers important details about you, and use it to give you personalized responses.And yes! your memories are stored on your device. You can connect to your favourite tools and data sources using the Model Context Protocol (MCP).
   homepage: github.com/platinum-hill/cobolt
   repository: github.com/platinum-hill/cobolt
-  license: Apache-v2_0
+  license: Apache-2.0
   
 - id: CollapseLauncher
   title: Collapse Launcher
@@ -330,7 +330,7 @@
   description: Converseen is a free cross-platform batch image processor. It allows you to convert, resize, rotate, and flip an infinite number of images with a single mouse click. Moreover, Converseen can convert an entire PDF document into a set of images with your preferred characteristics. You can choose from over 100 formats, set the size, resolution, and the filename.
   homepage: converseen.fasterland.net
   repository: github.com/Faster3ck/Converseen
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: CoolProp
   title: CoolProp
@@ -348,7 +348,7 @@
   description: Cryengine Converter is an open-source command-line tool for converting proprietary CryEngine game assets into portable 3D formats. It supports the full range of CryEngine file types — geometry, skeletal meshes, and animations - across multiple CryEngine-based games, and outputs industry-standard formats suitable for use in 3D editors, game engines, and visualization pipelines.
   homepage: github.com/markemp/Cryengine-Converter
   repository: github.com/markemp/Cryengine-Converter
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: daggy
   title: daggy
@@ -366,7 +366,7 @@
   description: DBreeze Database is a professional, open-source, multi-paradigm (embedded Key-Value store, objects, NoSql, text search, multi-parameter search etc.), multi-threaded, transactional and ACID-compliant data management system for .NET 3.5> / Xamarin MONO Android iOS / .NET Core 1.0> / .NET Standard 1.6> / Universal Windows Platform / .NET Portable / .NET5 / CoreRT.
   homepage: github.com/hhblaze/DBreeze
   repository: github.com/hhblaze/DBreeze
-  license: BSD-2-clause
+  license: BSD-2-Clause
 
 - id: DCOR-Aid
   title: DCOR Aid
@@ -376,7 +376,7 @@
   homepage: dcor.mpl.mpg.de
   repository: github.com/DCOR-dev/DCOR-Aid/
   wikipedia: dc.readthedocs.io    
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: DC-tools-for-Windows
   title: DC-tools-for-Windows
@@ -385,7 +385,7 @@
   description: The toolset comprises of command-line utilities that are used for automating data analysis in deformability cytometry. The tools can be used for tasks such as dataset compression, dataset verification, data postprocessing, and data upload to a Deformability Cytometry Open Repository (DCOR) instance.
   homepage: github.com/DC-analysis/DC-tools-for-Windows/
   repository: github.com/DC-analysis/DC-tools-for-Windows/
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Deadlock-Mod-Manager
   title: Deadlock Mod Manager
@@ -394,7 +394,7 @@
   description: Deadlock Mod Manager is a comprehensive, user-friendly application that simplifies the process of discovering, installing, and managing mods for Valves Deadlock game. Built with modern web technologies and featuring a sleek desktop interface, it provides a seamless experience for both casual users and modding enthusiasts.
   homepage: deadlockmods.app/
   repository: github.com/deadlock-mod-manager/deadlock-mod-manager
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: DeepSeek-Reasonix
   title: DeepSeek-Reasonix
@@ -412,7 +412,7 @@
   description: Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
   homepage: ditto-cp.sourceforge.io/
   repository: github.com/sabrogden/Ditto
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: dlss-swapper
   title: dlss-swapper
@@ -421,7 +421,7 @@
   description: DLSS Swapper is a tool that allows you to conveniently download, manage, and swap DLSS, FSR, and XeSS dlls allowing you to upgrade or downgrade DLSS, FSR, and XeSS version in a game without the game needing an update.
   homepage: github.com/beeradmoore/dlss-swapper
   repository: github.com/beeradmoore/dlss-swapper
-  license: GPLv3
+  license: GPL-3.0-only
   
 - id: Dlss-Updater
   title: Dlss Updater
@@ -439,7 +439,7 @@
   description: dnGrep allows you to search across files with easy-to-read results. Search through text files, Word and Excel documents, PDFs, and archives using text, regular expression, XPath, and phonetic queries. dnGrep includes search-and-replace, whole-file preview, right-click search in File Explorer, and much more.
   homepage: dngrep.github.io
   repository: github.com/dnGrep/dnGrep
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: dnsmonster
   title: dnsmonster
@@ -448,7 +448,7 @@
   description: dnsmonster implements a packet sniffer for DNS traffic. It can accept traffic from a pcap file, a live interface or a dnstap socket, and can be used to index and store hundreds of thousands of DNS queries per second as it has shown to be capable of indexing 200k+ DNS queries per second on a commodity computer. It aims to be scalable, simple, and easy to use, and help security teams to understand the details about an enterprises DNS traffic.
   homepage: dnsmonster.dev/
   repository: github.com/mosajjal/dnsmonster
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: draftforge
   title: IETF Draftforge
@@ -457,7 +457,7 @@
   description: An open source fully-featured collaborative editor to write, review, refine and submit Internet-Drafts in XMLRFC, Markdown or plaintext format.
   homepage: draftforge.ietf.org
   repository: github.com/ietf-tools/editor
-  license: BSD-3-clause
+  license: BSD-3-Clause
 
 - id: Drawpile
   title: Drawpile
@@ -466,7 +466,7 @@
   description: Drawpile is a collaborative drawing program that lets multiple people draw, sketch, paint and animate on the same canvas simultaneously. 
   homepage: drawpile.net/
   repository: github.com/drawpile/Drawpile
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Driver-Store-Explorer
   title: Driver Store Explorer
@@ -475,7 +475,7 @@
   description: Driver Store Explorer [RAPR] makes it easier to deal with Windows driver store. Supported operations include list/add/install/delete third-party driver packages.
   homepage: github.com/lostindark/DriverStoreExplorer
   repository: github.com/lostindark/DriverStoreExplorer
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: DSPaul-COMPASS
   title: DSPaul COMPASS
@@ -484,7 +484,7 @@
   description: The Codex Organizer to make Pen-and-paper Adventuring Super Simple or COMPASS for short is a desktop application to organize and manage all your TTRPG rulebooks, maps, character sheets and other resources. 
   homepage: compassapp.info/
   repository: github.com/DSPaul/COMPASS
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: DVR-Scan
   title: DVR Scan
@@ -493,7 +493,7 @@
   description: Tool for extracting scenes with motion from security camera/DVR footage. Written in Python, depends on OpenCV.
   homepage: dvr-scan.readthedocs.io
   repository: github.com/Breakthrough/DVR-Scan
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: earquiz.org
   title: EarQuiz Frequencies
@@ -502,7 +502,7 @@
   description: EarQuiz Frequencies is a software for ear training on equalization. Its goal is to help musicians and other audio professionals or students learn how to hear frequency bands, and to adjust an EQ consciously. Available for Windows and macOS.
   homepage: earquiz.org/EQ_Frequencies
   repository: github.com/Gdalik/EarQuiz_Frequencies
-  license: GPLv3
+  license: GPL-3.0-only
   
 - id: Enu-3D
   title: Enu 3D
@@ -525,16 +525,16 @@
     -  Use emojis like a pro.
   homepage: espanso.org/
   repository: github.com/espanso/espanso
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: etlegacy
   title: ET Legacy
   category: gaming
   tagline: Game, FPS, Multiplayer
-  description: ET:Legacy is an open source project based on the code of Wolfenstein:Enemy Territory which was released in 2010 under the terms of the GPLv3 license. 
+  description: ET:Legacy is an open source project based on the code of Wolfenstein:Enemy Territory which was released in 2010 under the terms of the GPL-3.0-only license. 
   homepage: etlegacy.com/
   repository: github.com/etlegacy/etlegacy/
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: ExplorerTabUtility
   title: ExplorerTabUtility
@@ -552,7 +552,7 @@
   description: Installer for a simple Minecraft modpack that focuses on performance and graphics enhancements. 
   homepage: download.fo/
   repository: github.com/Fabulously-Optimized/fabulously-optimized
-  license: BSD-3-clause
+  license: BSD-3-Clause
 
 - id: fastfetch
   title: fastfetch
@@ -570,7 +570,7 @@
   description: Feather is an easy-to-use, small, and fast graphical wallet for the Monero cryptocurrency. It is beginner-friendly, but also provides an extensive set of optional advanced features. It ships with sane defaults that suit most users, but can be configured for uncommon or high threat models. It serves as a testing grounds for experimental features that may later be adopted in reference wallets.
   homepage: featherwallet.org/
   repository: github.com/feather-wallet/feather
-  license: BSD-3-clause
+  license: BSD-3-Clause
   
 - id: Ferrite
   title: Ferrite
@@ -588,7 +588,7 @@
   description: Fibratus detects, protects, and eradicates advanced adversary tradecraft by scrutinizing and asserting a wide spectrum of system events against a behavior-driven rule engine and YARA memory scanner. Events can also be shipped to a wide array of output sinks or dumped to capture files for local inspection and forensics analysis. You can use filaments to extend Fibratus with your own arsenal of tools and so leverage the power of the Python ecosystem. In a nutshell, the Fibratus mantra is defined by the pillars of realtime behavior detection, memory scanning, and forensics capabilities.
   homepage: www.fibratus.io
   repository: github.com/rabbitstack/fibratus
-  license: Apache-v2_0
+  license: Apache-2.0
   
 - id: Filius
   title: Filius
@@ -597,7 +597,7 @@
   description: ''
   homepage: www.lernsoftware-filius.de
   repository: gitlab.com/filius1/filius
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: flameshot
   title: flameshot
@@ -606,7 +606,7 @@
   description: ''
   homepage: flameshot.org
   repository: github.com/flameshot-org/flameshot
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: FlatLaf
   title: FlatLaf
@@ -615,7 +615,7 @@
   description: FlatLaf is a modern open-source cross-platform Look and Feel for Java Swing desktop applications.
   homepage: formdev.com/flatlaf/
   repository: github.com/JFormDesigner/FlatLaf
-  license: Apache-v2_0
+  license: Apache-2.0
 
 - id: Floorp-Browser  
   title: Floorp Browser
@@ -634,7 +634,7 @@
   description: As they say, your thoughts are what you read—and we’ve been consuming noisy feeds for too long! Folo organizes content into one timeline, keeping you updated on what matters, noise-free. Share lists, explore collections, and enjoy distraction-free browsing.
   homepage: follow.is/
   repository: github.com/RSSNext/Folo
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: frpmgr
   title: frpmgr
@@ -643,7 +643,7 @@
   description: FRP Manager is a multi-node, graphical reverse proxy tool designed for FRP on Windows. It allows users to setup reverse proxy easily without writing the configuration file. FRP Manager provides a complete solution to help you avoid many tedious operations when deploying a reverse proxy.
   homepage: github.com/koho/frpmgr
   repository: github.com/koho/frpmgr
-  license: Apache-v2_0
+  license: Apache-2.0
 
 - id: fufulauncher
   title: fufulauncher
@@ -661,7 +661,7 @@
   description: An All-in-One immersion toolkit for learning Languages through games and other visual media.
   homepage: docs.gamesentenceminer.com/
   repository: github.com/bpwhelan/GameSentenceMiner
-  license: GPLv3
+  license: GPL-3.0-only
   
 - id: Gaphor
   title: Gaphor
@@ -670,7 +670,7 @@
   description: Gaphor is a UML, SysML, RAAML, and C4 modeling application. It is designed to be easy to use, while still being powerful. Gaphor implements a fully-compliant UML 2 data model, so it is much more than a picture drawing tool. You can use Gaphor to quickly visualize different aspects of a system as well as create complete, highly complex models.
   homepage: gaphor.org/
   repository: github.com/gaphor/gaphor
-  license: Apache-v2_0
+  license: Apache-2.0
 
 - id: geany
   title: geany
@@ -679,7 +679,7 @@
   description: Geany is a powerful, stable and lightweight programmers text editor that provides tons of useful features without bogging down your workflow. It runs on Linux, Windows and macOS, is translated into over 40 languages, and has built-in support for more than 50 programming languages. 
   homepage: geany.org/
   repository: github.com/geany/geany
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: geany-plugins
   title: geany-plugins
@@ -688,7 +688,7 @@
   description: Geany has a plugin system which allows to get more features into Geany and developers can easily add new features and/or improve existing ones. The Geany-Plugins project is a combined release for each matching Geany release. It includes a huge number of plugins for different purposes. Please have a look at https://plugins.geany.org/ for more information.
   homepage: www.geany.org/
   repository: github.com/geany/geany-plugins
-  license: GPLv3
+  license: GPL-3.0-only
   
 - id: Genshin-FPS-Unlocker
   title: Genshin FPS Unlocker
@@ -706,7 +706,7 @@
   description: Small and lightweight Armoury Crate alternative for Asus laptops offering almost same functionality with much smaller footprint. Works with all popular models, such as ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, Flow Z13, DUO, TUF Series, Strix or Scar Series, ProArt, Vivobook, Zenbook, ROG Ally or Ally X and many more!
   homepage: g-helper.com/
   repository: github.com/seerge/g-helper
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Ghost-Downloader-3
   title: Ghost-Downloader-3
@@ -715,7 +715,7 @@
   description: Ghost-Downloader-3 is a cross-platform fluent-design AI-boost multi-threaded downloader built with Python.
   homepage: gd3.top/
   repository: github.com/XiaoYouChR/Ghost-Downloader-3
-  license: GPLv3
+  license: GPL-3.0-only
   
 - id: Giant-Log-Viewer
   title: Giant Log Viewer
@@ -724,7 +724,7 @@
   description: A cross-platform desktop portable application that allows viewing text files of any size when `less` is not available.
   homepage: github.com/sunny-chung/giant-log-viewer
   repository: github.com/sunny-chung/giant-log-viewer
-  license: Apache-v2_0
+  license: Apache-2.0
 
 - id: GitExtensions
   title: Git Extensions
@@ -733,7 +733,7 @@
   description: Git Extensions is a graphical user interface for Git that allows you to control Git without using the commandline
   homepage: gitextensions.github.io
   repository: github.com/gitextensions/gitextensions
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: GitHub-Store  
   title: GitHub Store
@@ -742,7 +742,7 @@
   description: GitHub Store is an open-source client that presents GitHub Releases as a unified, searchable app catalog across Windows, macOS, Linux and Android. It helps end users discover and install software hosted on GitHub through a familiar store-style interface, and helps developers reach users without standing up their own distribution infrastructure.
   homepage: github-store.org
   repository: github.com/OpenHub-Store/GitHub-Store
-  license: Apache-v2_0
+  license: Apache-2.0
 
 - id: Godot-Launcher
   title: Godot Launcher
@@ -760,7 +760,7 @@
   description: Gopher64 is an open-source Nintendo 64 emulator written in Rust. Although it is the successor to Simple64, Gopher64 was written from scratch. Where it made sense, portions of the code were adapted or inspired by existing elements in Simple64/Mupen64Plus and ares. Gopher64 does not use any per-game hacks or settings, and it does not use plugins. 
   homepage: github.com/gopher64/gopher64
   repository: github.com/gopher64/gopher64
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: GPShell
   title: GPShell
@@ -769,7 +769,7 @@
   description: GPShell is the command line utility for managing GlobalPlatform compliant smart cards.
   homepage: kaoh.github.io/globalplatform/
   repository: github.com/kaoh/globalplatform
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Graphia
   title: Graphia
@@ -778,7 +778,7 @@
   description: Graphia is a powerful open source visual analytics application developed to aid the interpretation of large and complex datasets. Graphia can create and visualise graphs from tables of numeric data and display the structures that result. It can also be used to visualise and analyse any data that is already in the form of a graph.
   homepage: graphia.app/
   repository: github.com/graphia-app/graphia
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: gruepr
   title: gruepr
@@ -788,7 +788,7 @@
     Gruepr is a program for educators, helping them to split a section of 4-1000 students into optimized teams. It was inspired by CATME team forming routine. Data about the students are collected and the students are split into teams of any desired size(s). A good distribution of students into teams is determined by a highly flexible set of parameters that the instructor desires to use. For example: 1) preventing teams from having an isolated member of a gender or racial minority group; 2) achieving within each team either homogeneity or heterogeneity of up to 15 attributes, which could be skills assessments, work preferences, attitudes, major, topic preference(s), or any other question that is answered by selecting one or more values from a limited set of possibilities; and 3) achieving a high degree of overlap in the students weekly schedules so that they can meet outside of class.
   homepage: gruepr.com
   repository: github.com/gruepr/gruepr
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Halloy
   title: Halloy
@@ -797,7 +797,7 @@
   description: Halloy is an open-source IRC client focused on providing a modern, reliable, and user-friendly desktop experience for Internet Relay Chat. The project aims to make IRC more accessible while preserving the simplicity, openness, and interoperability that make the protocol valuable for communities, developers, and long-running online networks.
   homepage: halloy.chat
   repository: github.com/squidowl/halloy
-  license: GPLv3
+  license: GPL-3.0-only
   
 - id: HellbombScript
   title: HellbombScript
@@ -824,7 +824,7 @@
   description: An OpenSource GOG and Epic Games launcher for Linux, Windows and macOS.
   homepage: heroicgameslauncher.com
   repository: github.com/Heroic-Games-Launcher/HeroicGamesLauncher
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: hfs
   title: hfs
@@ -833,7 +833,7 @@
   description: A web file server with virtual file system
   homepage: rejetto.com/hfs/
   repository: github.com/rejetto/hfs
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: hh-lol-prophet
   title: chinese-lol对局先知   english-lol game prophet
@@ -860,7 +860,7 @@
   description: Hyphanet provides a peer-to-peer network which makes it easy to read and publish with strong privacy protections. Plugins built on its decentralized data store let you do things like host your own website, use microblogging and forums, share or stream video, and more, without central authority.
   homepage: www.hyphanet.org
   repository: github.com/hyphanet/sign-windows-installer
-  license: GPLv2
+  license: GPL-2.0-only
   
 - id: HyPlayer
   title: HyPlayer
@@ -869,7 +869,7 @@
   description: A Third-Party Client of Netease Cloud Music. Providing Light-Weighted and Customizable Experiences.
   homepage: hyplayer.kengwang.com.cn/#/index
   repository: github.com/HyPlayer/HyPlayer
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: JD-GUI-DUO
   title: JD-GUI-DUO
@@ -878,7 +878,7 @@
   description: A 2-in-1 JAVA decompiler based on JD-CORE v0 and v1 supporting 3rd party decompilers CFR, Procyon, Fernflower, Vineflower & Jadx.
   homepage: javadecompiler.org
   repository: github.com/nbauma109/jd-gui-duo
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: JSignPdf
   title: JSignPdf
@@ -896,7 +896,7 @@
   description: Jubler is an open-source tool to edit text-based subtitles. It can be used as an authoring software for new subtitles or as a tool to convert, transform, correct and refine existing subtitles. The most popular subtitle formats can be used. Preview of the subtitles in realtime or in design time, spell checking, translation mode and styles editing are some of the main features.
   homepage: jubler.org/
   repository: github.com/teras/Jubler
-  license: GPLv2 
+  license: GPL-2.0-only 
 
 - id: ImHex
   title: ImHex
@@ -906,7 +906,7 @@
   homepage: imhex.werwolv.net
   repository: github.com/WerWolv/ImHex
   wikipedia: en.wikipedia.org/wiki/ImHex
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: InChI
   title: InChI
@@ -925,7 +925,7 @@
   description: Windows screen annotation tool with efficient annotation and rich features, Make screen demonstrations simpler, teaching more efficient, suitable for touch devices and computers.
   homepage: github.com/Alan-CRL/Inkeys
   repository: github.com/Alan-CRL/Inkeys
-  license: GPLv3
+  license: GPL-3.0-only
   
 - id: inkstitch
   title: inkstitch
@@ -934,7 +934,7 @@
   description: Ink/Stitch aims to be a full-fledged, cross-platform embroidery digitizing platform based entirely on free, open-source software. Our goal is to be approachable for hobbyists while also providing the power needed by professional digitizers. 
   homepage: inkstitch.org/
   repository: github.com/inkstitch/inkstitch
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Kando
   title: Kando
@@ -952,7 +952,7 @@
   description: A cross-platform anime tracking and watching application developed with Flutter, allowing users to edit their own rules to define video sources.
   homepage: github.com/Predidit/Kazumi
   repository: github.com/Predidit/Kazumi  
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: KeeperFX
   title: KeeperFX
@@ -961,7 +961,7 @@
   description: KeeperFX is an open-source remake and fan expansion of Dungeon Keeper. The main goal of KeeperFX is to preserve and expand upon the original Dungeon Keeper experience, offering many new features, improvements, and much more while staying true to the original feeling of the game. 
   homepage: keeperfx.net
   repository: github.com/dkfans/keeperfx
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: keymagic
   title: keymagic
@@ -970,7 +970,7 @@
   description: KeyMagic is a Unicode keyboard input customizer designed for complex script languages. It works system-wide across all applications and allows users to add, edit, and switch between multiple keyboard layouts.
   homepage: keymagic.net/
   repository: github.com/thantthet/keymagic-3
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: KeyStore-Explorer
   title: KeyStore Explorer
@@ -979,7 +979,7 @@
   description: KeyStore Explorer is a cross-platform GUI tool for managing keystores, keys and certificates. It allows importing and exporting keys and certificates in a wide range of formats. KSE provides basic CA features like creating certificates and CRLs.
   homepage: keystore-explorer.org/
   repository: github.com/kaikramer/keystore-explorer
-  license: GPLv3
+  license: GPL-3.0-only
  
 - id: Kindle-Comic-Converter
   title: Kindle Comic Converter
@@ -1024,7 +1024,7 @@
   description: Kubetail is a general-purpose logging dashboard for Kubernetes, optimized for tailing logs across multi-container workloads in real-time. With Kubetail, you can view logs from all the containers in a workload (e.g. Deployment or DaemonSet) merged into a single, chronological timeline, delivered to your browser or terminal. 
   homepage: kubetail.com
   repository: github.com/kubetail-org/kubetail
-  license: Apache-v2_0
+  license: Apache-2.0
 
 - id: Kyber
   title: Kyber
@@ -1033,7 +1033,7 @@
   description: KYBER is a unified game launcher for STAR WARS Battlefront II that adds community-hosted multiplayer with full mod support, a server browser, and moderation tools. Built from the ground up with the user experience at the forefront of its design, experiencing Battlefront the way you want to play is now easier than ever with KYBER.
   homepage: kyber.gg
   repository: github.com/ArmchairDevelopers/Kyber
-  license: GPLv3
+  license: GPL-3.0-only
   
 - id: Lamina-lang
   title: Lamina-lang
@@ -1042,7 +1042,7 @@
   description: Lamina is a scripting language for mathematics and scientific computing, designed to provide users with a concise, efficient, and modular programming environment that supports vectors, matrices, recursion, and other mathematical expressions, facilitating experiments, calculations, and algorithm implementation.
   homepage: lm-lang.org/
   repository: github.com/Lamina-dev/Lamina
-  license: LGPLv2_1  
+  license: LGPL-2.0-only_1  
 
 - id: Lemonade-SDK
   title: Lemonade SDK
@@ -1051,7 +1051,7 @@
   description: Lemonade helps users discover and run local AI apps by serving optimized models, such as LLMs, right from their own GPUs and NPUs. It detects your PCs hardware, sets up inference engines, and makes them available over standard HTTP APIs so that apps can connect to them.
   homepage: lemonade-server.ai/
   repository: github.com/lemonade-sdk/lemonade
-  license: Apache-v2_0
+  license: Apache-2.0
 
 - id: Letos
   title: Letos
@@ -1060,7 +1060,7 @@
   description: SQLiteStudio is a graphical tool designed to interact with SQLite databases, allowing users to inspect and modify database structures and data through a visual interface. It serves as a general-purpose application for working with SQLite-based data stores.
   homepage: letos.org
   repository: github.com/pawelsalawa/letos
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: lgou2w-hoyo-gacha
   title: lgou2w-hoyo-gacha
@@ -1087,7 +1087,7 @@
   description: A JPEG image codec that uses SIMD instructions to accelerate JPEG compression and decompression on systems with popular CPU architectures, such as x86-64, Arm, and PowerPC. On such systems, libjpeg-turbo is generally 2-6x as fast as libjpeg, all else being equal. In many cases, the performance of libjpeg-turbo rivals that of proprietary high-speed JPEG codecs. libjpeg-turbo is an ISO/ITU-T reference implementation for the JPEG image format.
   homepage: libjpeg-turbo.org
   repository: github.com/libjpeg-turbo/libjpeg-turbo
-  license: BSD-3-clause
+  license: BSD-3-Clause
 
 - id: LichessBroadcaster
   title: Lichess Broadcaster
@@ -1096,7 +1096,7 @@
   description: This is a cross-platform desktop application for automatically uploading PGN files (chess game notation) from your local computer to a live Lichess Broadcast.
   homepage: github.com/lichess-org/broadcaster
   repository: github.com/lichess-org/broadcaster
-  license: AGPL3
+  license: AGPL-3.0-only
 
 - id: LichessFishnet
   title: Lichess Fishnet
@@ -1105,7 +1105,7 @@
   description: Allows users to donate CPU time for chess engine analysis on lichess.org.
   homepage: github.com/lichess-org/fishnet
   repository: github.com/lichess-org/fishnet
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Lightwave-Explorer
   title: Lightwave Explorer
@@ -1114,7 +1114,7 @@
   description: Lightwave Explorer is a powerful and easy-to-use simulator for nonlinear light-matter interaction. It has a graphical user interface with numerous visualizations to help gain insight into optical processes.
   homepage: github.com/NickKarpowicz/LightwaveExplorer
   repository: github.com/NickKarpowicz/LightwaveExplorer
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Linuxfabrik-Monitoring-Plugins
   title: Linuxfabrik Monitoring Plugins
@@ -1152,7 +1152,7 @@
   description: Lyrion Music Server is open-source server software which controls a wide range of Squeezebox audio players. Lyrion can stream your local music collection, internet radio stations, and content from many streaming services (with and without subscriptions).
   homepage: lyrion.org/
   repository: github.com/LMS-Community/slimserver/
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: The-Logfile-Navigator
   title: lnav
@@ -1161,7 +1161,7 @@
   description: A log file viewer for that terminal that can merge, tail, search, filter, and query log files with ease.  Just point lnav at a directory and it will take care of the rest. File formats are automatically detected and compressed files are unpacked on the fly. Online help and previews for operations make it simpler to level up your experience.
   homepage: lnav.org/
   repository: github.com/tstack/lnav
-  license: BSD-2-clause
+  license: BSD-2-Clause
 
 - id: LunaTranslator
   title: LunaTranslator
@@ -1170,7 +1170,7 @@
   description: LunaTranslator is a tool primarily designed for real-time translation of visual novel games. It can read in-game text in real-time through various methods and translate it using multiple translation engines, allowing players to understand games that have not been localized. Many language learners also use it solely to extract game text and combine it with dictionary tools as a language learning tool.
   homepage: lunatranslator.org/
   repository: github.com/HIllya51/LunaTranslator
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: MCPProxy
   title: MCPProxy
@@ -1197,7 +1197,7 @@
   description: MineBackup is an open-source desktop backup and restore application focused on data safety, reliable recovery, and practical usability for Minecraft worlds and general folders, with local-first operation and cross-platform support.
   homepage: github.com/Leafuke/MineBackup
   repository: github.com/Leafuke/MineBackup
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: mlocati-gettext-windows
   title: mlocati-gettext-windows
@@ -1215,7 +1215,7 @@
   description: ModernUO is an open source platform for building an MMORPG server.
   homepage: modernuo.com
   repository: github.com/modernuo/modernuo
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: MonkSynth
   title: MonkSynth
@@ -1254,7 +1254,7 @@
     -  The desktop tool automates the process of turning a user's project into an order with a third-party printing company (MakePlayingCards). This is a CLI program which interacts with the user's file system (to download full-resolution images) and achieves its automation by controlling a test browser instance on the user's behalf (as MakePlayingCards does not have a public API).
   homepage: github.com/chilli-axe/mpc-autofill
   repository: github.com/chilli-axe/mpc-autofill
-  license: GPLv3
+  license: GPL-3.0-only
   
 - id: Mudlet
   title: Mudlet
@@ -1263,7 +1263,7 @@
   description: Mudlet is a quality MUD client, designed to take mudding to a new level. It’s a modern breed of a client on the gaming scene – with an intuitive user interface, a specially designed scripting framework, and a very fast text display. That, along with cross-platform capability and an open-source development model result in a very likable game client."
   homepage: mudlet.org/
   repository: github.com/Mudlet/Mudlet/
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: Mumble
   title: Mumble
@@ -1273,7 +1273,7 @@
   homepage: www.mumble.info
   repository: github.com/mumble-voip/mumble
   wikipedia: en.wikipedia.org/wiki/Mumble_%28software%29
-  license: BSD-3-clause
+  license: BSD-3-Clause
 
 - id: Murmure
   title: Murmure
@@ -1282,7 +1282,7 @@
   description: Murmure is a privacy-first, open-source speech-to-text application that runs entirely on your machine. Murmure turns your voice into text with no internet connection and zero data collection.
   homepage: murmure.al1x-ai.com/
   repository: github.com/Kieirra/murmure
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Nagi
   title: Nagi
@@ -1291,7 +1291,7 @@
   description: Rediscover your local music collection with Nagi, a music player focused on speed, simplicity, and privacy. Nagi is built with C# and WinUI 3 to offer a clean, native Fluent experience. It is beautiful, efficient, and respects your privacy. 
   homepage: github.com/Anthonyy232/Nagi
   repository: github.com/Anthonyy232/Nagi
-  license: GPLv3
+  license: GPL-3.0-only
   
 - id: NetSpeedTray
   title: NetSpeedTray
@@ -1300,7 +1300,7 @@
   description: A lightweight, open-source network monitor for Windows that displays live upload and download speeds directly on the taskbar. It is designed to be highly efficient and feel like a native part of the Windows UI.
   homepage: github.com/erez-c137/NetSpeedTray
   repository: github.com/erez-c137/NetSpeedTray
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: NETworkManager
   title: NETworkManager
@@ -1309,7 +1309,7 @@
   description: Connect and manage remote systems with Remote Desktop, PowerShell, PuTTY, TigerVNC or AWS (Systems Manager) Session Manager. Analyze and troubleshoot your network and systems with features such as the WiFi Analyzer, IP Scanner, Port Scanner, Ping Monitor, Traceroute, DNS lookup or LLDP/CDP capture (and many more) in a unfied interface. Hosts (or networks) can be saved in (encrypted) profiles and used across all features. 
   homepage: borntoberoot.net/NETworkManager
   repository: github.com/BornToBeRoot/NETworkManager
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: next-ai-draw-io
   title: next-ai-draw-io
@@ -1318,7 +1318,7 @@
   description: A web and desktop application that integrates AI capabilities with draw.io diagrams. This app allows users to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
   homepage: next-ai-drawio.jiang.jp/
   repository: github.com/DayuanJiang/next-ai-draw-io
-  license: Apache-v2_0
+  license: Apache-2.0
 
 - id: Nortantis
   title: Nortantis
@@ -1327,7 +1327,7 @@
   description: Nortantis is a free, open source fantasy map generator and editor, created by an author for authors. With it, you can quickly generate a random world, then fine tune it to match your story’s world. 
   homepage: jandjheydorn.com/nortantis
   repository: github.com/jeheydorn/nortantis
-  license: AGPL3
+  license: AGPL-3.0-only
 
 - id: novelWriter
   title: novelWriter
@@ -1336,7 +1336,7 @@
   description: A markdown-like text editor designed for writing novels and larger projects of many smaller plain text documents.
   homepage: novelwriter.io
   repository: github.com/vkbo/novelWriter
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: nuke.build
   title: NUKE
@@ -1354,7 +1354,7 @@
   description: NVDA (NonVisual Desktop Access) is a free, open source screen reader for Microsoft Windows.
   homepage: nvaccess.org
   repository: github.com/nvaccess/nvda
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: NZBGet
   title: NZBGet
@@ -1363,7 +1363,7 @@
   description: NZBGet is a binary downloader, which downloads files from Usenet based-on information given in nzb files.
   homepage: nzbget.com
   repository: github.com/nzbgetcom/nzbget
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: odata2poco
   title: odata2poco
@@ -1390,7 +1390,7 @@
   description: A one-stop manager for configuring and connecting your local agents. Claude Code, Codex, Aider, Goose, Gemini CLI — pick an agent, set your API key, and start coding. Open source.
   homepage: openagents.org/launcher
   repository: github.com/openagents-org/openagents
-  license: Apache-v2_0
+  license: Apache-2.0
 
 - id: OpenAkita
   title: OpenAkita
@@ -1399,7 +1399,7 @@
   description: OpenAkita is an open-source, all-in-one AI assistant — multiple AI Agents work together, build an AI company that runs autonomously, search the web, operate your computer, manage files, run scheduled tasks, and respond instantly across Telegram / Feishu / WeCom / DingTalk / QQ. Scan a QR code to bind your chat app in 30 seconds. It remembers your preferences, teaches itself new skills, and never gives up on a task. Extend anything through the plugin system, protected by 6-layer sandbox security.
   homepage: openakita.ai
   repository: github.com/openakita/openakita
-  license: AGPL3
+  license: AGPL-3.0-only
   
 - id: OpenCode
   title: OpenCode
@@ -1417,7 +1417,7 @@
   description: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React.
   homepage: opendronelog.com/
   repository: github.com/arpanghosh8453/open-dronelog
-  license: AGPL3
+  license: AGPL-3.0-only
 
 - id: OpenBRF-Redux
   title: OpenBRF Redux
@@ -1426,7 +1426,7 @@
   description: A de-rusted, maintained version of Marco Tarini OpenBRF tool for modding Mount&Blade 1.011 and Warband; it comes with dark-mode, 64-bit and Linux support, and receives bug fixes and enhancements.
   homepage: forum.taleworlds.com/?threads/462517
   repository: github.com/Swyter/openbrf-redux
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: OpenNumismat
   title: OpenNumismat
@@ -1435,7 +1435,7 @@
   description: OpenNumismat is a handy and reliable application aimed at coin collectors, numismatists or amateurs looking to create a numismatics collection.
   homepage: opennumismat.github.io/
   repository: github.com/OpenNumismat/open-numismat
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: OpenPets
   title: OpenPets
@@ -1453,7 +1453,7 @@
   description: This tool automates gameplay in Neverness to Everness using computer vision, enabling background operation for efficient resource farming and task completion. It streamlines daily activities by offering one-press clearing for daily tasks, custom domain grinding, and specialized minigames like fishing and the drum music game. Powered by advanced computer vision and audio-driven feedback, it automates combat across various modes, featuring optimized character skill rotations and automatic evasion. Additionally, it enhances user experience by automatically skipping dialogs during quests, enabling fast travel, and providing dedicated optimizations for the "Pink Paw Heist" mode. With support for Chinese, English, and multiple other languages, it provides a versatile automation solution.
   homepage: github.com/BnanZ0/ok-nte
   repository: github.com/BnanZ0/ok-nte
-  license: GPLv3
+  license: GPL-3.0-only
   
 - id: okww
   title: okww
@@ -1462,7 +1462,7 @@
   description: This tool automates gameplay in Wuthering Waves using computer vision and win32api, enabling background operation for efficient resource farming and task completion. It streamlines daily activities by offering one-press clearing for daily tasks and Tacet Fields, and automates combat in various game modes, including Abyss, the open world, and Tacet Fields. Additionally, it enhances user experience by automatically skipping dialogs during quests and picking up in-game items like Echos, flowers, and chests. With support for all game languages for most features, it provides a versatile automation solution.
   homepage: github.com/ok-oldking/ok-wuthering-waves
   repository: github.com/ok-oldking/ok-wuthering-waves
-  license: AGPL3
+  license: AGPL-3.0-only
 
 - id: OpenHV.net
   title: OpenHV.net
@@ -1471,7 +1471,7 @@
   description: A Pixelart Science-Fiction Real-Time Strategy game with Multiplayer (LAN and internet) support, competent skirmish AI as well as an integrated map editor.
   homepage: www.openhv.net
   repository: github.com/OpenHV/OpenHV
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: OpenModScan
   title: OpenModScan
@@ -1500,7 +1500,7 @@
     -  Red Alert written in C# using SDL and OpenGL.
   homepage: www.openra.net
   repository: github.com/OpenRA/OpenRA
-  license: GPLv3  
+  license: GPL-3.0-only  
 
 - id: OpenRCT2
   title: OpenRCT2
@@ -1510,7 +1510,7 @@
   homepage: openrct2.io/
   repository: github.com/OpenRCT2/OpenRCT2
   wikipedia: en.wikipedia.org/wiki/OpenRCT2
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: OpenSC
   title: OpenSC
@@ -1519,7 +1519,7 @@
   description: OpenSC provides a set of libraries and utilities to work with smart cards. Its main focus is on cards that support cryptographic operations, and facilitate their use in security applications such as authentication, mail encryption and digital signatures.
   homepage: github.com/OpenSC/OpenSC/wiki
   repository: github.com/OpenSC/OpenSC
-  license: LGPLv2_1
+  license: LGPL-2.0-only_1
 
 - id: Open-Shell
   title: Open-Shell
@@ -1543,7 +1543,7 @@
   description: OpenSpeedy is an open-source and free game speed modifier tool that breaks through frame rate limitations and provides a smoother gaming acceleration experience.
   homepage: github.com/game1024/OpenSpeedy
   repository: github.com/game1024/OpenSpeedy
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: openterface-connect
   title: openterface-connect
@@ -1552,7 +1552,7 @@
   description: Openterface MiniKVM software enables seamless management of multiple computers through KVM-over-USB, offering a reliable, multifunctional console solution for IT professionals, developers, and tech enthusiasts working with edge devices, servers, and compact setups.
   homepage: openterface.com
   repository: github.com/TechxArtisanStudio/Openterface_QT
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: OpenXR-MotionCompensation
   title: OpenXR MotionCompensation
@@ -1561,7 +1561,7 @@
   description: When using a motion simulator in combination with a VR headset (hmd) the movement of the simulator causes the in-game camera to change alongside your position in the real world. In flight or racing simulations you are basically feel being pushed around inside the cockpit when the motion rig moves. Motion compensation reduces or ideally removes that effect by locking the in-game world to the pose of the motion rig. This software aims to provide an API layer for motion compensation to be used with applications and hmds supporting the OpenXR standard. 
   homepage: github.com/BuzzteeBear/OpenXR-MotionCompensation
   repository: github.com/BuzzteeBear/OpenXR-MotionCompensation
-  license: LGPLv2_1
+  license: LGPL-2.0-only_1
 
 - id: OptiKey
   title: OptiKey
@@ -1570,7 +1570,7 @@
   description: Optikey is an on-screen keyboard which you control with your eyes to provide an alternative to a physical mouse and keyboard.
   homepage: optikey.org/
   repository: github.com/OptiKey/OptiKey
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: OptiScaler
   title: OptiScaler
@@ -1579,7 +1579,7 @@
   description: OptiScaler is an open-source middleware that allows PC games with native support for DLSS, FSR, or XeSS to be dynamically modified to use alternative upscaling and frame generation technologies. By intercepting and redirecting upscaler API calls, OptiScaler enables users to swap one vendor's upscaler for another—such as running FSR 4 or XeSS in a game that originally supports only DLSS. It also supports experimental frame generation through FSR 3 and modded DLSS-G replacements, even on non-NVIDIA GPUs. Compatible with DirectX 11, 12, and Vulkan titles, OptiScaler provides a flexible platform for enhancing game performance and visual fidelity while remaining GPU-vendor agnostic. It also includes an in-game overlay for live tweaking and performance monitoring.
   homepage: github.com/optiscaler/OptiScaler
   repository: github.com/optiscaler/OptiScaler
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Orca-agent-ide
   title:  Orca agent ide
@@ -1617,7 +1617,7 @@
   homepage: pandoc.org
   repository: github.com/jgm/pandoc
   wikipedia: en.wikipedia.org/wiki/Pandoc
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: ParquetViewer
   title: ParquetViewer
@@ -1630,7 +1630,7 @@
     - Open single or partitioned files
   homepage: github.com/mukunku/ParquetViewer
   repository: github.com/mukunku/ParquetViewer
-  license: GPLv3
+  license: GPL-3.0-only
   
 - id: ParsecVDisplay
   title: ParsecVDisplay
@@ -1703,7 +1703,7 @@
   description: PicView is a high-performance, open-source image viewer designed for simplicity and customizability.Enjoy a clean, free, and fast experience with no bloated UI or annoying pop-ups. Available in portable and installable versions.
   homepage: picview.org/
   repository: github.com/Ruben2776/PicView
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: pinokio
   title: pinokio
@@ -1758,7 +1758,7 @@
   description: Polyphone is a multiplatform and open-source soundfont editor for creating musical instruments based on audio samples.
   homepage: polyphone.io/
   repository: github.com/davy7125/polyphone
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: PotatoVN
   title: PotatoVN
@@ -1767,7 +1767,7 @@
   description: PotatoVN is a VisualNovel management tool, designed to provide a convenient game management platform for galgame fans. It can help you to automatically retrieve games in folders; automatically obtain game information from multiple databases (currently supports bangumi, visual novel database), and synchronize the play status from the account; synchronize game archives with the cloud (this function requires any synchronization software on the computer to synchronize archive folders, such as OneDrive, NextCloud, Nut Cloud, Baidu Cloud Sync Disk, etc.); count game play time; automatically decompress games from compressed packages, and automatically identify and add them to the game library
   homepage: potatovn.net/
   repository: github.com/GoldenPotato137/PotatoVN
-  license: Apache-v2_0
+  license: Apache-2.0
 
 - id: promptx-desktop
   title: promptx-desktop
@@ -1799,7 +1799,7 @@
   description: PyJibe is a user interface for data analysis in atomic force microscopy (AFM) with an emphasis on biological specimens, such as tissue sections or single cells.
   homepage: pyjibe.readthedocs.io/
   repository: github.com/AFM-analysis/PyJibe
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: PySceneDetect
   title: PySceneDetect
@@ -1808,7 +1808,7 @@
   description: PySceneDetect is a command-line application and a Python library for detecting shot changes in videos, and automatically splitting the video into separate clips.
   homepage: scenedetect.com
   repository: github.com/Breakthrough/PySceneDetect
-  license: BSD-3-clause
+  license: BSD-3-Clause
   
 - id: Qt-Bitcoin-Trader
   title: Qt Bitcoin Trader
@@ -1817,7 +1817,7 @@
   description: Qt Bitcoin Trader is an open-source C++/Qt application for managing and automating cryptocurrency trades on multiple exchanges via a graphical interface.
   homepage: qtbitcointrader.com
   repository: github.com/JulyIghor/QtBitcoinTrader
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Quelea
   title: Quelea
@@ -1826,7 +1826,7 @@
   description: Open source projection software for churches. Quelea allows anyone to project hymn / song lyrics and a variety of other media as part of a church service.
   homepage: quelea.org
   repository: github.com/quelea-projection/Quelea
-  license: GPLv3  
+  license: GPL-3.0-only  
 
 - id: Race-Element
   title: Race Element
@@ -1840,7 +1840,7 @@
     - Racing Tools
   homepage: race.elementfuture.com
   repository: github.com/RiddleTime/Race-Element
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: RadToolz
   title: RadToolz
@@ -1858,7 +1858,7 @@
   description: Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. You are only limited by your imagination and creativity. Rainmeter is open source software distributed free of charge under the terms of the GNU GPL v2 license.
   homepage: www.rainmeter.net
   repository: github.com/rainmeter/rainmeter
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: Rama
   title: Rama
@@ -1905,7 +1905,7 @@
   description: 'REPENTOGON is a mod for The Binding of Isaac: Repentance that brings much-needed bug fixes, extra functionality, and performance enhancements to the Lua API.'
   homepage: repentogon.com
   repository: github.com/TeamREPENTOGON/REPENTOGON
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: RouteConverter
   title: RouteConverter
@@ -1914,7 +1914,7 @@
   description: RouteConverter displays, modifies, enriches and converts GPS data between over 87 formats. It works without installation under Linux, Mac OS X and Windows, automatically detects the format of a file, supports drag and drop, undo and redo, offers a map view onto the positions of routes, tracks and waypoints, allows to modify positions in the map view, supports multiple routes within Google Earth, GPX and Garmin MapSource files and much more
   homepage: routeconverter.com
   repository: github.com/cpesch/RouteConverter
-  license: Apache-v2_0
+  license: Apache-2.0
 
 - id: RSNA-DICOM-Anonymizer
   title: RSNA DICOM Anonymizer
@@ -1941,7 +1941,7 @@
   description: SABnzbd is a free, open-source binary newsreader written in Python. It simplifies the process of downloading from Usenet by automating the entire workflow from start to finish. It automatically downloads, verifies, repairs, extracts, and files away content with zero human interaction.
   homepage: sabnzbd.org/
   repository: github.com/sabnzbd/sabnzbd
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: Satisfactory-Modding
   title: Satisfactory Modding
@@ -1950,7 +1950,7 @@
   description: A desktop application mod manager for the game Satisfactory that replaces the need for manual mod downloading. It is available on all major operating systems and works with all game distribution platforms. Within the app you can browse, download and mange mods, as well as share profiles and manage mods on dedicated servers.
   homepage: ficsit.app/
   repository: github.com/satisfactorymodding/SatisfactoryModManager
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: SaveState
   title: SaveState
@@ -1959,7 +1959,7 @@
   description: SaveState is a cross-platform, open-source tool designed to automate the backup, restoration, and management of video game save files. It supports standard PC games and various emulators, offering features like local backup organization and cloud synchronization via Google Drive to ensure users never lose their progress across devices.
   homepage: github.com/Matteo842/SaveState
   repository: github.com/Matteo842/SaveState
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: ScientoPy
   title: ScientoPy
@@ -1977,7 +1977,7 @@
   description: SDRangel is a Software Defined Radio application. It is used with RF hardware to transmit, receive and anlyse radio signals. The signals can be displayed using a 2D or 3D spectrogram and oscilloscope. Modems for a variety of communications protocols allow transmission and decoding of audio, video, text and telemetry.
   homepage: www.sdrangel.org/
   repository: github.com/f4exb/sdrangel
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: seelen
   title: seelen
@@ -1986,7 +1986,7 @@
   description: fully customizable desktop environment.
   homepage: seelen.io/
   repository: github.com/eythaann/seelen-ui
-  license: AGPL3
+  license: AGPL-3.0-only
 
 - id: segra.tv
   title: segra.tv
@@ -1995,7 +1995,7 @@
   description: Segra.tv is an open‑source desktop application that records gameplay and enables the creation and sharing of clips, providing gamers and content creators with an efficient end‑to‑end workflow from capture to publication.
   homepage: segra.tv/
   repository: github.com/Segergren/Segra
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: Servy
   title: Servy
@@ -2013,7 +2013,7 @@
   description: An open source neural network simulation framework that emphasizes visualization and ease of use.
   homepage: simbrain.net
   repository: github.com/simbrain/simbrain
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: simple-acme
   title: simple-acme
@@ -2022,7 +2022,7 @@
   description: A command line interface to automatically create, install and update ACME certificates.
   homepage: simple-acme.com/
   repository: github.com/simple-acme/simple-acme/
-  license: Apache-v2_0
+  license: Apache-2.0
 
 - id: Sirkku
   title: Sirkku
@@ -2041,7 +2041,7 @@
   description: SkyCal is a specialized software tool designed to assist astronomers in achieving precise focus and collimation. Accurate focus and collimation are essential for astrophotography. Even small misalignments in a telescope’s optics can lead to blurred or distorted star images, reduced contrast, and loss of detail in deep-sky objects. SkyCal provides visual overlays, error measurements, and optional voice feedback to guide adjustments, making the process easier, repeatable, and more reliable.
   homepage: github.com/insertnamehere1/Bahtinov-Collimator
   repository: github.com/insertnamehere1/Bahtinov-Collimator
-  license: GPLv3  
+  license: GPL-3.0-only  
 
 - id: SkyClient
   title: SkyClient
@@ -2068,7 +2068,7 @@
   description: SkyRoof combines satellite tracking and SDR functions in one application, which opens some interesting possibilities. For example, all satellite traces on the waterfall are labelled with satellite names, the boundaries of the transponder segments follow the Doppler shift, and all frequency tuning is done visually, with a mouse.
   homepage: ve3nea.github.io/SkyRoof/
   repository: github.com/VE3NEA/SkyRoof
-  license: AGPL3
+  license: AGPL-3.0-only
 
 - id: Smartmontools
   title: Smartmontools
@@ -2077,7 +2077,7 @@
   description: The smartmontools package contains two utility programs (smartctl and smartd) to control and monitor storage systems using the Self-Monitoring, Analysis and Reporting Technology System (S.M.A.R.T.) built into most modern SATA, NVMe and SCSI hard disks. 
   homepage: www.smartmontools.org
   repository: github.com/smartmontools/smartmontools
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: SnapHutao
   title: SnapHutao
@@ -2113,7 +2113,7 @@
   description: Sokuji is a real-time AI-powered translation application available as both an Electron desktop app and a browser extension. It captures speech input, transcribes and translates it using AI services, and outputs translated audio, enabling seamless cross-language communication in real time.
   homepage: sokuji.kizuna.ai/
   repository: github.com/kizuna-ai-lab/sokuji
-  license: AGPL3
+  license: AGPL-3.0-only
 
 - id: SoulFire
   title: SoulFire
@@ -2122,7 +2122,7 @@
   description: Launch bot attacks on your servers to measure performance. 
   homepage: soulfiremc.com/
   repository: github.com/AlexProgrammerDE/SoulFireClient
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: SoulSplitter
   title: SoulSplitter
@@ -2131,7 +2131,7 @@
   description: Official speedrun timer and autosplitter for Dark Souls 1, Dark Souls 3, Sekiro, Elden Ring and Armored Core.
   homepage: github.com/FrankvdStam/SoulSplitter
   repository: github.com/FrankvdStam/SoulSplitter
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Spectral
   title: Spectral
@@ -2149,7 +2149,7 @@
   description: Spencer Macro Utilities is a lightweight input automation tool designed primarily for use in games, enabling short macros, controlled input creation, and process manipulation. Originally built for experimenting with physics-based mechanics, it has grown into a general-purpose tool used by various gaming communities to explore glitch behavior, automate sequences, and test edge-case interactions. The tool is open source, designed to be flexible, and does not rely on memory editing or unauthorized game or process modification.
   homepage: spencermacro.vercel.app/
   repository: github.com/Spencer0187/Roblox-Macro-Utilities
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Spicetify
   title: Spicetify
@@ -2158,7 +2158,7 @@
   description: Spicetify is the ultimate tool for Spotify users who want to customize their desktop client and make their music listening experience more enjoyable. With Spicetify, you can easily change the color scheme, add new functionality, and even create entirely new features. Whether you are a music lover, a tech enthusiast, or just someone who wants to make their Spotify experience more personalized, Spicetify is a great option to consider. Give it a try and see how it can enhance your Spotify experience. Happy listening!
   homepage: spicetify.app/
   repository: github.com/spicetify/cli/releases
-  license: LGPLv2_1
+  license: LGPL-2.0-only_1
 
 - id: SQLiteBrowser
   title: SQLiteBrowser
@@ -2167,7 +2167,7 @@
   description: DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite. DB4S is for users and developers who want to create, search, and edit databases. DB4S uses a familiar spreadsheet-like interface, and complicated SQL commands do not have to be learned.
   homepage: sqlitebrowser.org
   repository: github.com/sqlitebrowser/sqlitebrowser
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: sqlpage
   title: sqlpage
@@ -2194,7 +2194,7 @@
   description: Steam Superheater is an app that can fix and improve games on Steam that are broken or have troubles running on modern systems
   homepage: github.com/fgsfds/Steam-Superheater
   repository: github.com/fgsfds/Steam-Superheater
-  license: GPLv3  
+  license: GPL-3.0-only  
 
 - id: stellarium.org
   title: Stellarium
@@ -2204,7 +2204,7 @@
   homepage: stellarium.org
   repository: github.com/Stellarium/stellarium
   wikipedia: en.wikipedia.org/wiki/Stellarium_(software)
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: sticker-convert
   title: sticker-convert
@@ -2213,7 +2213,7 @@
   description: sticker-convert - Convert (animated) stickers to/from WhatsApp, Telegram, Signal, Line, Kakao, Naver Band, Viber, Discord, iMessage. Written in Python.
   homepage: github.com/laggykiller/sticker-convert
   repository: github.com/laggykiller/sticker-convert
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: suanPan
   title: suanPan
@@ -2222,7 +2222,7 @@
   description: 🧮 suanPan is a finite element method (FEM) simulation platform for applications in fields such as solid mechanics and civil/structural/seismic engineering. suanPan is written in modern high-quality C++ code and is targeted to provide an efficient, concise, flexible and reliable FEM simulation platform.
   homepage: github.com/TLCFEM/suanPan
   repository: github.com/TLCFEM/suanPan
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: SunshineFoundation
   title: SunshineFoundation
@@ -2240,7 +2240,7 @@
     This project is based on LizardByte/Sunshine and focuses on improving the game streaming experience between various streaming devices and Windows hosts, with particular emphasis on HDR gaming and virtual display integration for Windows 10 22H2 and newer systems. The project is actively maintained with regular updates, comprehensive documentation, and a growing user community.
   homepage: docs.qq.com/aio/DSGdQc3htbFJjSFdO
   repository: github.com/qiin2333/Sunshine-Foundation
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Super-Productivity
   title: Super Productivity
@@ -2276,7 +2276,7 @@
   description: A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
   homepage: github.com/TCNOco/TcNo-Acc-Switcher
   repository: github.com/TCNOco/TcNo-Acc-Switcher
-  license: GPLv3
+  license: GPL-3.0-only
   
 - id: Tera-Term
   title: Tera Term
@@ -2286,7 +2286,7 @@
   homepage: teratermproject.github.io/
   repository: github.com/TeraTermProject/teraterm
   wikipedia: en.wikipedia.org/wiki/Tera_Term
-  license: BSD-3-clause
+  license: BSD-3-Clause
 
 - id: TerraMap
   title: TerraMap
@@ -2304,7 +2304,7 @@
   description: TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible. 
   homepage: texstudio.org
   repository: github.com/texstudio-org/texstudio
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Thunder-Engine
   title: Thunder Engine
@@ -2313,7 +2313,7 @@
   description: Thunder Engine is free for all purposes an open-source multi-functional lightweight game engine for creating 2D and 3D games. It provides a basic framework and extensible tools. So developers can focus on the creation, and the Thunder Engine will do the routine.
   homepage: thunderengine.org
   repository: github.com/thunder-engine/thunder
-  license: Apache-v2_0
+  license: Apache-2.0
 
 - id: tik-manager
   title: tik-manager
@@ -2322,7 +2322,7 @@
   description: Tik Manager is a flexible pipeline solution. It is simple for small-scale projects yet robust enough for heavy loads. Additionally, it offers a variety of features that make it suitable for any stage of production.
   homepage: tik-manager.com/
   repository: github.com/masqu3rad3/tik_manager4
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: mapeditor.org
   title: Tiled
@@ -2331,7 +2331,7 @@
   description: Tiled is a general purpose tile map editor for all tile-based games, such as RPGs, platformers or Breakout clones.
   homepage: www.mapeditor.org
   repository: github.com/mapeditor/tiled
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: Tokensave
   title: Tokensave
@@ -2368,7 +2368,7 @@
   description: A program that passively reads osu! memory to provide third parties huge layer of JSON, based on which you can build cool and beautiful interfaces, both through HTML+JS, and with any programming language using websockets
   homepage: tosu.app
   repository: github.com/tosuapp/tosu
-  license: LGPLv3
+  license: LGPL-3.0-only
 
 - id: Transmission
   title: Transmission
@@ -2378,7 +2378,7 @@
   homepage: transmissionbt.com
   repository: github.com/transmission/transmission
   wikipedia: en.wikipedia.org/wiki/Transmission_(BitTorrent_client)
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: TurboVNC
   title: TurboVNC
@@ -2387,7 +2387,7 @@
   description: TurboVNC is a high-speed derivative of TightVNC and TigerVNC that contains some unique features, such as built-in VNC session management, an integrated SSH client, and one-time password support.  TurboVNC uses a variant of Tight encoding that is tuned to maximize performance for image- intensive applications (such as VirtualGL, video applications, and image editors) while still providing excellent performance for other types of application
   homepage: turbovnc.org
   repository: github.com/TurboVNC/turbovnc
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: TurboWarp
   title: TurboWarp
@@ -2396,7 +2396,7 @@
   description: TurboWarp extends the Scratch programming language with improved performance, new extensions, helpful features, and the ability to export projects so they can run anywhere. It can be used to make games, simulations, art, animations, and more. TurboWarp is not affiliated with the Scratch Foundation.
   homepage: desktop.turbowarp.org/
   repository: github.com/TurboWarp/desktop/
-  license: GPLv3
+  license: GPL-3.0-only
   
 - id: TwintailLauncher
   title: TwintailLauncher
@@ -2405,7 +2405,7 @@
   description: Twintaillauncher is a multi-platform launcher that brings mod support, quality-of-life improvements, and advanced features to a variety of anime-styled games. TTL is an all-in-one tool for downloading, managing, and launching your favorite anime games. It’s designed with flexibility, ease of use, and customization in mind.
   homepage: twintaillauncher.app/
   repository: github.com/TwintailTeam/TwintailLauncher
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Source-2-Viewer
   title: ValveResourceFormat  
@@ -2442,7 +2442,7 @@
   description: VKey is an open-source Vietnamese keyboard and Input Method Editor built for the Windows ecosystem. It leverages modern architecture, specifically the Windows Text Services Framework (TSF) combined with system hooks, to provide users with a fast, accurate, and deeply integrated native typing experience without the lag or compatibility issues found in legacy input methods.
   homepage: github.com/phatMT97/VKey
   repository: github.com/phatMT97/VKey
-  license: AGPL3
+  license: AGPL-3.0-only
 
 - id: vrc-get
   title: vrc-get
@@ -2469,7 +2469,7 @@
   description: ASP.NET Core Detection with Responsive View for identifying details about client device, browser, engine, platform, & crawler. Responsive middleware for routing base upon request client device detection to specifi
   homepage: github.com/wangkanai/Detection
   repository: github.com/wangkanai/Detection
-  license: Apache-v2_0
+  license: Apache-2.0
 
 - id: Warzone2100
   title: Warzone2100
@@ -2478,7 +2478,7 @@
   description: Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source 3D real-time strategy game.
   homepage: wz2100.net/
   repository: github.com/Warzone2100/warzone2100
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: welle.io
   title: welle.io
@@ -2487,7 +2487,7 @@
   description: welle.io is an open source software defined radio for receiving and decoding DAB/DAB+ digital radio.
   homepage: welle.io/
   repository: github.com/AlbrechtL/welle.io/
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: WelsonJS
   title: WelsonJS
@@ -2496,7 +2496,7 @@
   description: WelsonJS - Build a Windows app on the Windows built-in JavaScript engine. Now, You can build an Windows desktop app with JavaScript, TypeScript, CoffeeScript, ReScript, and HTML/CSS on Windows built-in ECMAScript engine.
   homepage: catswords.social/@catswords_oss
   repository: github.com/gnh1201/welsonjs
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: winscript
   title: winscript
@@ -2505,7 +2505,7 @@
   description: It offers a range of features, including debloating, privacy enhancement, performance optimization, and bulk app installation.
   homepage: winscript.cc
   repository: github.com/flick9000/winscript
-  license: GPLv3
+  license: GPL-3.0-only
   
 - id: wiilink-patcher-gui
   title: wiilink-patcher-gui
@@ -2523,7 +2523,7 @@
   description: Open-source Windows optimization tool that safely removes junk files and boosts system performance with one click.
   homepage: github.com/darkmatter2048/WindowsCleaner
   repository: github.com/darkmatter2048/WindowsCleaner
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: WinMemoryCleaner
   title: WinMemoryCleaner
@@ -2532,7 +2532,7 @@
   description: This free RAM cleaner uses native Windows features to optimize memory areas. It is a compact, portable, and smart application. 
   homepage: github.com/IgorMundstein/WinMemoryCleaner
   repository: github.com/IgorMundstein/WinMemoryCleaner
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: WLJSNotebook
   title: WLJS Notebook
@@ -2541,7 +2541,7 @@
   description: WLJS Notebook is an interactive computing platform, web-based environment for running Wolfram Language (WL) scripts, Javascript. A lightweight, cross-platform alternative to Mathematica, built using open-source tools and the free Wolfram Engine.
   homepage: wljs.io
   repository: github.com/WLJSTeam/wolfram-js-frontend
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: Wox
   title: Wox
@@ -2550,7 +2550,7 @@
   description: Wox is a cross-platform launcher that simply works. It is an open-source alternative to Alfred and Raycast
   homepage: github.com/Wox-launcher/Wox
   repository: github.com/Wox-launcher/Wox
-  license: GPLv3  
+  license: GPL-3.0-only  
 
 - id: WSLUSBGUI
   title: WSL USB GUI
@@ -2562,7 +2562,7 @@
     Behind the scenes it uses the official command line tools to provide this functionality; usbipd-win. For more information, see: devblogs.microsoft.com/commandline/connecting-usb-devices-to-wsl/
   homepage: gitlab.com/alelec/wsl-usb-gui
   repository: gitlab.com/alelec/wsl-usb-gui
-  license: GPLv2
+  license: GPL-2.0-only
 
 - id: Wunjo
   title: Wunjo
@@ -2580,7 +2580,7 @@
   description: Wuwa_Mod_Fixer is dedicated to providing the Wuthering Waves player community with a reliable solution for mod repair and management. By automatically detecting and fixing common compatibility problems, it helps players enjoy customized content with ease and supports community growth. Its open-source nature and high-performance implementation allow users to freely extend and contribute, ensuring it continually meets new community needs.
   homepage: github.com/Moonholder/Wuwa_Mod_Fixer
   repository: github.com/Moonholder/Wuwa_Mod_Fixer
-  license: GPLv3
+  license: GPL-3.0-only
   
 - id: XBatteryStatus
   title: XBatteryStatus
@@ -2589,7 +2589,7 @@
   description: A clean and lightweight tray app that displays the battery level of most bluetooth game controllers
   homepage: github.com/tommaier123/XBatteryStatus
   repository: github.com/tommaier123/XBatteryStatus
-  license: GPLv3  
+  license: GPL-3.0-only  
 
 - id: X-Minecraft-Launcher
   title: X Minecraft Launcher
@@ -2607,7 +2607,7 @@
   description: YACReader is a comic reader and comic manager with support for cbr cbz zip rar and pdf comic files. It is available for Windows, Linux and macOS. It’s  a open source project that has been developed since 2008. The first version was released in 2009.
   homepage: yacreader.com/
   repository: github.com/YACReader/yacreader
-  license: GPLv3  
+  license: GPL-3.0-only  
 
 - id: yasb
   title: yasb
@@ -2627,7 +2627,7 @@
     - your content launches immediately. No menus, no searching, just play!
   homepage: zaparoo.org/
   repository: github.com/ZaparooProject/zaparoo-core
-  license: GPLv3
+  license: GPL-3.0-only
   
 - id: Zen
   title: Zen
@@ -2645,7 +2645,7 @@
   description: Zenless Zone Zero - One Dragon is a research project focused on automating operations on the Windows system. It primarily utilizes methods such as system screenshots, OCR recognition, YOLO detection, and keyboard/mouse control to automatically complete daily tasks in the game Zenless Zone Zero, thereby reducing repetitive gameplay for players.
   homepage: one-dragon.com/zzz/zh/home.html
   repository: github.com/OneDragon-Anything/ZenlessZoneZero-OneDragon
-  license: GPLv3
+  license: GPL-3.0-only
 
 - id: ZeroLaunch-rs
   title: ZeroLaunch-rs
@@ -2654,4 +2654,4 @@
   description: A lightning‑fast, privacy‑first Windows smart launcher that excels at Pinyin and fuzzy matching. Optionally add on‑device AI semantic search for typo‑ and intent‑proof instant results. Built with Rust + Tauri + Vue!
   homepage: zerolaunch.ghost-him.com
   repository: github.com/ghost-him/ZeroLaunch-rs
-  license: GPLv3
+  license: GPL-3.0-only
