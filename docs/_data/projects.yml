@@ -61,6 +61,15 @@
   repository: github.com/archimatetool/archi
   license: MIT
 
+- id: AresValley-Artemis
+  title: AresValley Artemis
+  category: audio
+  tagline: Artemis is a comprehensive software that simplifies real-time radio frequency (RF) signal identification and storage by leveraging a community-driven database of over 500 recognized signals
+  description: Artemis is a software designed to assist radio frequency (RF) signal identification and storage. It simplifies real-time spectrum analysis by leveraging one of the most extensive, community-driven databases, which contains over 500 recognized signals. This comprehensive software solution allows users to collect RF signals with specific parameters such as frequency, bandwidth, modulation, etc. Users can also store spectrum waterfalls, audio samples, and all types of documents for future reference. Artemis provides a robust platform to manage a wide range of RF data with precision and ease. Artemis also enhances RF propagation analysis with comprehensive space weather tracking. It provides near-real-time (5-minute) data and forecasts to help users anticipate the effects of solar and geomagnetic conditions on RF communications.
+  homepage: aresvalley.com
+  repository: github.com/AresValley/Artemis
+  license: GPL-3.0-only
+  
 - id: Armbian-imager
   title: Armbian imager
   category: developer-tools
@@ -240,6 +249,15 @@
   description: CatLock is a simple utility designed to prevent accidental keyboard input, particularly when your feline friend decides to grace your workspace.
   homepage: catlock.app/
   repository: github.com/richiehowelll/cat-lock
+  license: GPL-3.0-only
+
+- id: CB-Servers-Launcher
+  category: CB Servers Launcher
+  category: gaming
+  tagline: A free, open-source Windows launcher for installing, updating, and playing community-made Call of Duty clients.
+  description: CB Servers Launcher is a free, open-source Windows app for installing, updating, and launching community-made Call of Duty clients. It gives players one unified interface to find supported clients, install needed game files, keep everything up to date, and launch them with the correct configuration. The launcher is maintained by the CB Servers community with the goal of making custom Call of Duty multiplayer simple to set up and play.
+  homepage: docs.cbservers.xyz/launcher
+  repository: github.com/CBServers/cb-launcher
   license: GPL-3.0-only
 
 - id: cherrytree
@@ -625,8 +643,18 @@
   homepage: floorp.app
   repository: github.com/Floorp-Projects/Floorp
   wikipedia: en.wikipedia.org/wiki/Floorp
-  license: MPL-2.0  
+  license: MPL-2.0
 
+- id: FlyEnv
+  title: FlyEnv
+  category: developer-tools
+  tagline: A cross-platform desktop app for managing native local development environments without Docker.
+  description: FlyEnv is a cross-platform desktop application for managing native local development environments. It helps developers install and switch runtime versions, run web servers and databases, configure local domains and HTTPS, manage project services, and use day-to-day development utilities from a single UI. It targets developers who want local services without Docker/container overhead and publishes Windows, macOS, and Linux release packages from an open GitHub repository.
+  homepage: flyenv.com
+  repository: github.com/xpf0000/FlyEnv
+  wikipedia: en.wikipedia.org/wiki/FlyEnv
+  license: BSD-2-Clause
+  
 - id: Folo
   title: Folo
   category: productivity
@@ -1163,6 +1191,15 @@
   repository: github.com/tstack/lnav
   license: BSD-2-Clause
 
+- id: LunaBox
+  title: LunaBox
+  category: gaming
+  tagline: Lightweight, fast, and feature-rich visual novel management and game statistics tool
+  description: LunaBox is an AGPL v3 open-source Windows desktop app for visual novel/game library management. It includes network/download-related features for metadata/assets, backup/sync and imports, and unsigned release binaries have triggered false-positive antivirus detections, especially from Kaspersky. We want SignPath code signing to verify release provenance and integrity, and to reduce false-positive warnings for official clean GitHub releases.
+  homepage: box.lunarain.site
+  repository: github.com/Saramanda9988/LunaBox
+  license: GPL-3.0-only
+
 - id: LunaTranslator
   title: LunaTranslator
   category: gaming
@@ -1181,6 +1218,15 @@
   repository: github.com/smart-mcp-proxy/mcpproxy-go
   license: MIT  
 
+- id: me3
+  title: me3
+  category: gaming
+  tagline: A mod loader for FROMSOFTWARE games
+  description: me3 is a cross-platform tool that extends FROMSOFTWARE games with the ability to load custom assets and code. It supports mod distribution with a simple shareable profile system.
+  homepage: me3.help/
+  repository: github.com/garyttierney/me3
+  license: Apache-2.0
+  
 - id: Millennium
   title: Millennium
   category: gaming
@@ -1382,6 +1428,15 @@
   homepage: eyuel.com.et/omni-search
   repository: github.com/Eul45/omni-search
   license: MIT
+
+- id: OneClient
+  title: OneClient
+  category: gaming
+  tagline: The client for everything Minecraft modding
+  description: OneClient is the easiest way to play anything 1.21, whether on Hypixel SkyBlock, Hoplite, etc. To achieve a mod folder with 14 mods in 1.8 requires nearly 100+ on Fabric; OneClient installs and manages it all for you. Like SkyClient, it allows you to select mods chosen by the Polyfrost team, and it's based off Fabric, giving you full control. The great thing about OneClient, however, is that it has its own launcher, making things even more convenient for you.
+  homepage: polyfrost.org/projects/oneclient
+  repository: github.com/Polyfrost/OneLauncher
+  license: GPL-3.0-only
 
 - id: OpenAgents-Launcher
   title: OpenAgents Launcher
@@ -1783,6 +1838,15 @@
   repository: github.com/Deepractice/PromptX
   license: MIT
 
+- id: PumpkinMC
+  title: PumpkinMC
+  category: gaming
+  tagline: Pumpkin is a Minecraft server built entirely in Rust, offering a fast, efficient, and customizable experience.
+  description: PumpkinMC is a blazingly fast, open-source Minecraft server built entirely in the Rust programming language. Designed to be a high-performance alternative to traditional Java servers, it uses significantly less memory and features native multi-threading to deliver a highly optimized multiplayer experience.Key FeaturesBuilt in Rust: Unlike standard vanilla servers, Pumpkin is written in Rust, which ensures strong memory safety and high processing speeds.Instant Startup: Servers boot up in milliseconds instead of seconds, and the engine requires only about 100MB of RAM.Cross-Play: Native support allows both Java and Bedrock Edition players to play together without needing third-party plugins.Plugin Support: It features a compatibility layer (PatchBukkit) that allows the software to seamlessly run standard Java Bukkit plugins.
+  homepage: pumpkinmc.org
+  repository: github.com/Pumpkin-MC/Pumpkin
+  license: GPL-3.0-only
+  
 - id: PWAsForFirefox
   title: PWAsForFirefox
   category: productivity
@@ -2006,6 +2070,15 @@
   repository: github.com/aelassas/servy
   license: MIT
 
+- id: shob
+  title: shob
+  category: productivity
+  tagline: An AI agent that delivers high-quality coding & automation work
+  description: Shob is an AI agent built for developers and teams who need coding and automation work done right — not just fast. It handles the full task lifecycle, from understanding intent to writing, testing, and delivering production-ready code, so you spend your time on decisions that matter rather than implementation details. Whether you are building new features, automating repetitive workflows, or maintaining complex systems, Shob works like a skilled collaborator that adapts to your codebase and gets things done with precision.
+  homepage: shob.olova.dev
+  repository: github.com/shobcoder/shob
+  license: MIT
+  
 - id: Simbrain
   title: Simbrain
   category: science
@@ -2251,6 +2324,15 @@
   repository: github.com/super-productivity/super-productivity
   license: MIT
 
+- id: supercell-wx
+  title: supercell-wx
+  category: science
+  tagline: Free and open source advanced weather radar
+  category: Supercell Wx is a free, open source application to visualize live and archive NEXRAD Level 2 and Level 3 data, and severe weather alerts. It displays continuously updating weather data on top of a responsive map, providing the capability to monitor weather events using reflectivity, velocity, and other products.
+  homepage: supercellwx.net/
+  repository: github.com/dpaulat/supercell-wx
+  license: MIT
+
 - id: Symlinker
   title: Symlinker
   category: productivity
@@ -2341,6 +2423,15 @@
     TokenSave is an open-source code intelligence tool written in Rust. It parses a repository into a persistent semantic knowledge graph capturing symbols, call relationships, type hierarchies, file structure, and change history. The graph is exposed through a Model Context Protocol (MCP) server, letting AI coding assistants (Claude Code, Codex, Gemini CLI, Cursor) answer questions like "who calls this function?" or "what's affected by this change?" by querying the graph — instead of repeatedly reading source files into their context window. Real-world usage shows 60–90% reductions in token consumption on common development tasks. TokenSave is MIT-licensed and distributed via crates.io, Homebrew, and Scoop.
   homepage: tokensave.dev
   repository: github.com/aovestdipaperino/tokensave
+  license: MIT
+
+- id: Token-Monitor
+  title: Token Monitor
+  category: productivity
+  tagline: Real-time token, cost, and AI-usage-limit widget for Claude Code, Codex, OpenCode, Cursor and other AI coding tools, with optional multi-device sync.
+  description: Token Monitor is a local-first desktop widget that tracks token usage, spending, and provider rate-limit windows across popular AI coding assistants. It surfaces live per-tool and per-model figures on the desktop, and can optionally sync multiple machines through a self-hosted hub so a developer can see combined usage across all their devices in one place. The project is open source under the MIT license.
+  homepage: javis-ai.com/token-monitor
+  repository: github.com/Javis603/token-monitor
   license: MIT
   
 - id: Tonbrett
