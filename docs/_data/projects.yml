@@ -63,7 +63,7 @@
 
 - id: AresValley-Artemis
   title: AresValley Artemis
-  category: audio
+  category: science
   tagline: Artemis is a comprehensive software that simplifies real-time radio frequency (RF) signal identification and storage by leveraging a community-driven database of over 500 recognized signals
   description: Artemis is a software designed to assist radio frequency (RF) signal identification and storage. It simplifies real-time spectrum analysis by leveraging one of the most extensive, community-driven databases, which contains over 500 recognized signals. This comprehensive software solution allows users to collect RF signals with specific parameters such as frequency, bandwidth, modulation, etc. Users can also store spectrum waterfalls, audio samples, and all types of documents for future reference. Artemis provides a robust platform to manage a wide range of RF data with precision and ease. Artemis also enhances RF propagation analysis with comprehensive space weather tracking. It provides near-real-time (5-minute) data and forecasts to help users anticipate the effects of solar and geomagnetic conditions on RF communications.
   homepage: aresvalley.com
@@ -521,7 +521,16 @@
   homepage: earquiz.org/EQ_Frequencies
   repository: github.com/Gdalik/EarQuiz_Frequencies
   license: GPL-3.0-only
-  
+
+- id: Endless-Host-Roles
+  title: Endless Host Roles
+  category: gaming
+  tagline: The most extensive and most popular host-only Among Us mod.
+  description: EHR (Endless Host Roles) is the most extensive mod for Among Us, with 450+ new roles, 15+ unique game modes, and tons of settings to fully customize your games, while only the lobby host needs to install it for the entire lobby to play it, including unmodded players!
+  hompage: ehr.gurge44.eu
+  repository: Gurge44/EndlessHostRoles
+  license: GPL-3.0-only
+
 - id: Enu-3D
   title: Enu 3D
   category: developer-tools
@@ -645,6 +654,15 @@
   wikipedia: en.wikipedia.org/wiki/Floorp
   license: MPL-2.0
 
+- id: Flowsurface
+  title: Flowsurface
+  category: other
+  tagline: A desktop charting application for crypto markets.
+  description: OSS financial charting solution aiming to be a proper alternative to propriety ones.
+  homepage: flowsurface.com
+  repository: github.com/flowsurface-rs/flowsurface
+  license: GPL-3.0-only
+
 - id: FlyEnv
   title: FlyEnv
   category: developer-tools
@@ -762,6 +780,15 @@
   homepage: gitextensions.github.io
   repository: github.com/gitextensions/gitextensions
   license: GPL-3.0-only
+
+- id: Github-CCX-API-Proxy
+  title: Github CCX API Proxy
+  category: developer-tools
+  tagline: Claude / OpenAI Chat / OpenAI Images / Codex Responses / Gemini API Proxy
+  description: CCX is a high-performance AI API proxy and protocol translation gateway for Claude, OpenAI Chat, OpenAI Images, Codex Responses, and Gemini. It provides a unified entrypoint, built-in web administration, channel orchestration, failover, multi-key management, and model routing.
+  homepage: benedictking.github.io/ccx/en
+  repository: github.com/BenedictKing/ccx
+  license: MIT
 
 - id: GitHub-Store  
   title: GitHub Store
@@ -963,6 +990,24 @@
   homepage: inkstitch.org/
   repository: github.com/inkstitch/inkstitch
   license: GPL-3.0-only
+
+- id: jt-doc-tools
+  title: jt-doc-tools
+  category: productivity
+  tagline: A self-hosted PDF and Office document toolbox that runs entirely on your own machine — no cloud.
+  description: |
+    jt-doc-tools (Jason Tools Document Toolbox) is a self-hosted, integrated PDF and
+    Office document-processing platform with a single web interface. It covers everyday
+    document tasks such as form filling and stamping, watermarking, page merge / split /
+    rotate / organize, format conversion, OCR, de-identification and redaction, document
+    comparison, translation, e-invoice processing and a PDF editor. It runs fully
+    on-premises (no cloud) on Linux, macOS and Windows, either as a single-machine
+    application or as an intranet server, with optional enterprise features such as
+    local / LDAP / AD authentication, role-based access control, audit logging, SIEM log
+    forwarding and a REST API.
+  homepage: jasoncheng7115.github.io/jt-doc-tools
+  repository: github.com/jasoncheng7115/jt-doc-tools
+  license: Apache-2.0
 
 - id: Kando
   title: Kando
@@ -1760,6 +1805,20 @@
   repository: github.com/Ruben2776/PicView
   license: GPL-3.0-only
 
+- id: PIME
+  title: PIME
+  category: developer-tools
+  tagline: A framework for implementing Windows input methods using scripting languages, such as Python and Node.js
+  description: |
+    Implement input methods easily for Windows via Text Services Framework:
+    - LibIME contains a library which aims to be a simple wrapper for Windows Text Service Framework (TSF).
+    - PIMETextService contains an backbone implementation of Windows text service for using libIME.
+    - Bundled with many input methods implemented using Python and Node.js.
+    - Can be extended to support more programming languages.
+  homepage: github.com/EasyIME/PIME
+  repository: github.com/EasyIME/PIME
+  license: GPL-2.0-only
+
 - id: pinokio
   title: pinokio
   category: developer-tools
@@ -2073,7 +2132,7 @@
 
 - id: shob
   title: shob
-  category: productivity
+  category: developer-tools
   tagline: An AI agent that delivers high-quality coding & automation work
   description: Shob is an AI agent built for developers and teams who need coding and automation work done right — not just fast. It handles the full task lifecycle, from understanding intent to writing, testing, and delivering production-ready code, so you spend your time on decisions that matter rather than implementation details. Whether you are building new features, automating repetitive workflows, or maintaining complex systems, Shob works like a skilled collaborator that adapts to your codebase and gets things done with precision.
   homepage: shob.olova.dev
@@ -2098,6 +2157,17 @@
   repository: github.com/simple-acme/simple-acme/
   license: Apache-2.0
 
+- id: Sine-Mods
+  title: Sine Mods
+  category: productivity
+  tagline: |
+    Sine is a theme manager for Firefox-based browsers, allowing you to customize your browser's look and functionality.
+  description: |
+    Sine is a theme manager for Firefox-based browsers that lets end users customize their browser's look and functionality directly from the settings page. With Sine, all kinds of themes and functional programs are at your fingertips and can be installed with the click of a button.
+  homepage: github.com/CosmoCreeper/Sine
+  repository: github.com/CosmoCreeper/Sine
+  license: GPL-3.0-only
+  
 - id: Sirkku
   title: Sirkku
   category: science
@@ -2234,6 +2304,15 @@
   repository: github.com/spicetify/cli/releases
   license: LGPL-2.0-only_1
 
+- id: SpinningMomo
+  title: SpinningMomo
+  category: graphics
+  tagline: Infinity Nikki Game Photography and Recording Tool.
+  description: SpinningMomo is an open-source Windows desktop application for Infinity Nikki photography workflows. It helps users adjust game window framing, capture high-resolution screenshots and recordings, and manage local photo and video assets through a built-in gallery. The project is built from source using GitHub Actions and distributed as Windows installer and portable release packages.
+  homepage: spin.infinitymomo.com
+  repository: github.com/ChanIok/SpinningMomo
+  license: GPL-3.0-only
+  
 - id: SQLiteBrowser
   title: SQLiteBrowser
   category: developer-tools
@@ -2242,6 +2321,25 @@
   homepage: sqlitebrowser.org
   repository: github.com/sqlitebrowser/sqlitebrowser
   license: GPL-3.0-only
+
+- id: SQLite3-Multiple-Ciphers
+  title: SQLite3 Multiple Ciphers
+  category: productivity
+  tagline: SQLite3 encryption extension with support for multiple ciphers
+  description: |
+    The project SQLite3 Multiple Ciphers implements an encryption extension for SQLite with support for multiple ciphers. It is based on the public domain version of SQLite. It allows applications to read and write encrypted database files. Currently 6 different encryption cipher schemes are supported:
+    
+    - wxSQLite3: AES 128 Bit CBC - No HMAC
+    - wxSQLite3: AES 256 Bit CBC - No HMAC
+    - sqleet: ChaCha20 - Poly1305 HMAC (Default cipher scheme)
+    - SQLCipher: AES 256 Bit CBC - SHA1/SHA256/SHA512 HMAC
+    - System.Data.SQLite: RC4
+    - Ascon: Ascon-128 v1.2
+    - AEGIS: AEGIS Family of Authenticated Encryption Algorithms
+  homepage: utelle.github.io/SQLite3MultipleCiphers
+  repository: github.com/utelle/SQLite3MultipleCiphers
+  wikipedia: en.wikipedia.org/wiki/WxSQLite3
+  license: MIT
 
 - id: sqlpage
   title: sqlpage
@@ -2255,16 +2353,25 @@
 - id: Starship-Prompt
   title: Starship Prompt
   category: developer-tools
-  tagline: Starship - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+  tagline: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
   description: The minimal, blazing-fast, and infinitely customizable prompt for any shell! Works on the most common shells on the most common operating systems. Use it everywhere! Brings the best-in-class speed and safety of Rust, to make your prompt as quick and reliable as possible. Every little detail is customizable to your liking, to make this prompt as minimal or feature-rich as you would like it to be.
   homepage: starship.rs
   repository: github.com/starship/starship
   license: ISC
 
+- id: Starward
+  title: Starward
+  category: gaming
+  tagline: Game Launcher for miHoYo
+  description: Starward is an open-source third-party launcher developed to address the shortcomings of HoYoPlay (miHoYo Launcher). It supports all PC games on of HoYoverse and aims to completely replace the official launcher.
+  homepage: github.com/Scighost/Starward
+  repository: github.com/Scighost/Starward
+  license: MIT
+
 - id: Steam-Superheater
   title: Steam Superheater
   category: gaming
-  tagline: Steam Superheater - Fix Steam games with a single click
+  tagline: Fix Steam games with a single click
   description: Steam Superheater is an app that can fix and improve games on Steam that are broken or have troubles running on modern systems
   homepage: github.com/fgsfds/Steam-Superheater
   repository: github.com/fgsfds/Steam-Superheater
@@ -2428,7 +2535,7 @@
 
 - id: Token-Monitor
   title: Token Monitor
-  category: productivity
+  category: developer-tools
   tagline: Real-time token, cost, and AI-usage-limit widget for Claude Code, Codex, OpenCode, Cursor and other AI coding tools, with optional multi-device sync.
   description: Token Monitor is a local-first desktop widget that tracks token usage, spending, and provider rate-limit windows across popular AI coding assistants. It surfaces live per-tool and per-model figures on the desktop, and can optionally sync multiple machines through a self-hosted hub so a developer can see combined usage across all their devices in one place. The project is open source under the MIT license.
   homepage: javis-ai.com/token-monitor
@@ -2472,6 +2579,15 @@
   wikipedia: en.wikipedia.org/wiki/Transmission_(BitTorrent_client)
   license: GPL-2.0-only
 
+- id: TrayToolbar
+  title: TrayToolbar
+  category: productivity
+  tagline: Creates a menu with all your favorite shortcuts within easy reach just by putting them in a local folder.
+  description: Replaces the feature removed from Windows 11 for custom toolbars on the taskbar
+  homepage: github.com/brondavies/TrayToolbar
+  repository: github.com/brondavies/TrayToolbar
+  license: MIT
+  
 - id: TurboVNC
   title: TurboVNC
   category: developer-tools
