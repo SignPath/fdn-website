@@ -143,6 +143,15 @@
   repository: github.com/skyline69/balatro-mod-manager
   license: GPL-3.0-only
 
+- id: barcodrod.io
+  title: barcodrod.io
+  category: other
+  tagline: An ad-free, open-source, modern barcode and QR code toolkit for Windows.100% free to use.
+  description: barcodrod.io is a fast, modern Windows app built to both create and read barcodes and QR codes with zero friction. It generates crisp, high‑resolution codes in multiple formats, while also instantly scanning them through Snipping Tool integration, clipboard images, webcam capture, and more; making it just as powerful for decoding as it is for producing.
+  homepage: barcodrod.io
+  repository: github.com/MarkHopper24/barcodrod.io
+  license: Apache-2.0
+
 - id: BEAGLE
   title: BEAGLE
   category: science
@@ -151,6 +160,15 @@
   homepage: beagle-dev.github.io
   repository: github.com/beagle-dev/beagle-lib
   license: MIT
+
+- id: BERA-Tools
+  title: BERA Tools
+  category: science
+  tagline: Forest linear disturbance mapping toolkit
+  description: Series of script tools for facilitating the high-resolution mapping and studying of forest lines via processing canopy height models.
+  homepage: appliedgrg.github.io/beratools/
+  repository: github.com/appliedgrg/beratools
+  license: GPL-3.0-only
 
 - id: BetterHI3Launcher
   title: BetterHI3Launcher
@@ -926,32 +944,16 @@
   repository: github.com/HyPlayer/HyPlayer
   license: GPL-3.0-only
 
-- id: JD-GUI-DUO
-  title: JD-GUI-DUO
-  category: developer-tools
-  tagline:  JAVA decompiler GUI
-  description: A 2-in-1 JAVA decompiler based on JD-CORE v0 and v1 supporting 3rd party decompilers CFR, Procyon, Fernflower, Vineflower & Jadx.
-  homepage: javadecompiler.org
-  repository: github.com/nbauma109/jd-gui-duo
-  license: GPL-3.0-only
-
-- id: JSignPdf
-  title: JSignPdf
+- id: IDEasy
+  title: IDEasy
   category: productivity
-  tagline: The open-source way to add digital signatures to your PDFs.
-  description: JSignPdf is an open-source application that adds digital signatures to PDF documents, helping individuals and organizations ensure the authenticity, integrity, and non-repudiation of their files. It supports signing with certificates from various keystores, visible and invisible signatures, and timestamping. Usable as both a desktop GUI tool and through its command-line interface. JSignPdf aims to make trusted PDF signing accessible to everyone, regardless of budget or platform.
-  homepage: intoolswetrust.github.io/jsignpdf
-  repository: github.com/intoolswetrust/jsignpdf
-  license: MPL-2.0
-
-- id: Jubler
-  title: Jubler
-  category: graphics
-  tagline: Open-source subtitle editing
-  description: Jubler is an open-source tool to edit text-based subtitles. It can be used as an authoring software for new subtitles or as a tool to convert, transform, correct and refine existing subtitles. The most popular subtitle formats can be used. Preview of the subtitles in realtime or in design time, spell checking, translation mode and styles editing are some of the main features.
-  homepage: jubler.org/
-  repository: github.com/teras/Jubler
-  license: GPL-2.0-only 
+  tagline: automated setup and update of your development environment 
+  description: |
+    "With IDEasy you automate the setup and updates of the IDE for your project. Via a small git repo your team can tailor the demands and configuration to the individual needs of your software project. Developers can then setup your project using IDEasy with a single CLI command on Windows, Mac, or Linux. They get all the tools needed for your project automatically in the desired versions and properly configured.No more manual steps to install and configure, no diff-wars, no more dev setup manuals, no more ""its not working on my machine""!"
+  homepage: github.com/devonfw/IDEasy
+  repository: github.com/devonfw/IDEasy
+  wikipedia: en.wikipedia.org/wiki/Draft:IDEasy
+  license: Apache-2.0
 
 - id: ImHex
   title: ImHex
@@ -991,6 +993,24 @@
   repository: github.com/inkstitch/inkstitch
   license: GPL-3.0-only
 
+- id: JD-GUI-DUO
+  title: JD-GUI-DUO
+  category: developer-tools
+  tagline:  JAVA decompiler GUI
+  description: A 2-in-1 JAVA decompiler based on JD-CORE v0 and v1 supporting 3rd party decompilers CFR, Procyon, Fernflower, Vineflower & Jadx.
+  homepage: javadecompiler.org
+  repository: github.com/nbauma109/jd-gui-duo
+  license: GPL-3.0-only
+
+- id: JSignPdf
+  title: JSignPdf
+  category: productivity
+  tagline: The open-source way to add digital signatures to your PDFs.
+  description: JSignPdf is an open-source application that adds digital signatures to PDF documents, helping individuals and organizations ensure the authenticity, integrity, and non-repudiation of their files. It supports signing with certificates from various keystores, visible and invisible signatures, and timestamping. Usable as both a desktop GUI tool and through its command-line interface. JSignPdf aims to make trusted PDF signing accessible to everyone, regardless of budget or platform.
+  homepage: intoolswetrust.github.io/jsignpdf
+  repository: github.com/intoolswetrust/jsignpdf
+  license: MPL-2.0
+
 - id: jt-doc-tools
   title: jt-doc-tools
   category: productivity
@@ -1007,7 +1027,16 @@
     forwarding and a REST API.
   homepage: jasoncheng7115.github.io/jt-doc-tools
   repository: github.com/jasoncheng7115/jt-doc-tools
-  license: Apache-2.0
+  license: Apache-2.0  
+
+- id: Jubler
+  title: Jubler
+  category: graphics
+  tagline: Open-source subtitle editing
+  description: Jubler is an open-source tool to edit text-based subtitles. It can be used as an authoring software for new subtitles or as a tool to convert, transform, correct and refine existing subtitles. The most popular subtitle formats can be used. Preview of the subtitles in realtime or in design time, spell checking, translation mode and styles editing are some of the main features.
+  homepage: jubler.org/
+  repository: github.com/teras/Jubler
+  license: GPL-2.0-only 
 
 - id: Kando
   title: Kando
@@ -1456,6 +1485,15 @@
   repository: github.com/nzbgetcom/nzbget
   license: GPL-2.0-only
 
+- id: Observer AI
+  title: Observer AI
+  category: productivity
+  tagline: Local open-source micro-agents that observe, log and react, so you don't have to.
+  description: Observer is a framework that lets your local LLMs (self-hosted) monitor anything on the screen, camera or microphone. It takes the screen and/or camera content for vision LLMs or transcribes the screen audio and/or microphone so that LLMs can monitor them. It has a memory system or notifications via the browser, discord, telegram, whatsapp, sms, email, voip or pushover.
+  homepage: observer-ai.com
+  repository: github.com/Roy3838/Observer
+  license: MIT
+
 - id: odata2poco
   title: odata2poco
   category: developer-tools
@@ -1500,7 +1538,16 @@
   homepage: openakita.ai
   repository: github.com/openakita/openakita
   license: AGPL-3.0-only
-  
+
+- id: OpenCC
+  title: OpenCC
+  category: educational
+  tagline: Open Chinese Convert (OpenCC) is an open source project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai)
+  description: Open Chinese Convert (OpenCC) is an opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai). It supports character-level and phrase-level conversion, character variant conversion and regional idioms among Mainland China, Taiwan and Hong Kong.
+  homepage: opencc.byvoid.com
+  repository: github.com/BYVoid/OpenCC
+  license: Apache-2.0
+   
 - id: OpenCode
   title: OpenCode
   category: developer-tools
@@ -1676,7 +1723,8 @@
   title: OptiScaler
   category: gaming
   tagline: Unlock cross-platform upscaling and frame generation in supported games
-  description: OptiScaler is an open-source middleware that allows PC games with native support for DLSS, FSR, or XeSS to be dynamically modified to use alternative upscaling and frame generation technologies. By intercepting and redirecting upscaler API calls, OptiScaler enables users to swap one vendor's upscaler for another—such as running FSR 4 or XeSS in a game that originally supports only DLSS. It also supports experimental frame generation through FSR 3 and modded DLSS-G replacements, even on non-NVIDIA GPUs. Compatible with DirectX 11, 12, and Vulkan titles, OptiScaler provides a flexible platform for enhancing game performance and visual fidelity while remaining GPU-vendor agnostic. It also includes an in-game overlay for live tweaking and performance monitoring.
+  description: |
+    OptiScaler is an open-source middleware that allows PC games with native support for DLSS, FSR, or XeSS to be dynamically modified to use alternative upscaling and frame generation technologies. By intercepting and redirecting upscaler API calls, OptiScaler enables users to swap one vendor's upscaler for another—such as running FSR 4 or XeSS in a game that originally supports only DLSS. It also supports experimental frame generation through FSR 3 and modded DLSS-G replacements, even on non-NVIDIA GPUs. Compatible with DirectX 11, 12, and Vulkan titles, OptiScaler provides a flexible platform for enhancing game performance and visual fidelity while remaining GPU-vendor agnostic. It also includes an in-game overlay for live tweaking and performance monitoring.
   homepage: github.com/optiscaler/OptiScaler
   repository: github.com/optiscaler/OptiScaler
   license: GPL-3.0-only
@@ -1688,6 +1736,24 @@
   description: Run Claude Code, Codex, etc. in parallel across isolated worktrees. Orca combines Ghostty-style terminals, git worktrees, rich markdown editor, and fast agent output review into a single desktop app built for parallel development. Bring your own agents, plug into your workflow, and ship 10x, or even 100x faster. Free. Open source. Works on MacOS, Windows and Linux
   homepage: onorca.dev
   repository: github.com/stablyai/orca
+  license: MIT
+
+- id: OrcaSlicer
+  title: OrcaSlicer
+  category: productivity
+  tagline: An open-source next-gen slicing software for precision 3D prints
+  description: OrcaSlicer is an open-source G-code generator and slicer for FFF/FDM 3D printers, supporting a wide range of printer brands including Bambu Lab, Prusa, Creality, Voron, and more. It features advanced calibration tools, intelligent support generation, precise wall and seam control, network printer integration with Klipper, PrusaLink, and OctoPrint, and a user-friendly interface with pre-made profiles for popular printers.
+  homepage: orcaslicer.com/
+  repository: github.com/OrcaSlicer/OrcaSlicer
+  license: GPL-3.0-only
+
+- id: Outlook-on-the-Desktop
+  title: Outlook on the Desktop
+  category: productivity
+  tagline: Place Microsoft Outlook calendars, inboxes, ToDo lists, etc right on your desktop.
+  description: Places a fully functional Microsoft Outlook Calendar, Inbox, ToDo list, etc. directly on your Desktop. You can create items, edit items, remove items, etc. It is a winforms project which takes advantage of the Outlook view control to do it is magic.
+  homepage: outlookonthedesktop.com
+  repository: github.com/mscrivo/OotD
   license: MIT
 
 - id: Pactus
@@ -2011,6 +2077,15 @@
   repository: github.com/seifhassine/Reasy
   license: MIT  
 
+- id: Rebased
+  title: Rebased
+  category: developer-tools
+  tagline: A git client based on the IntelliJ platform
+  description: Rebased is an open-source remake of the short-lived jetbrains git client. It is basically just a JetBrains IDE with all the bundled plugins removed except the git integration, with some additional UI tweaks.
+  homepage: github.com/detachhead/rebased
+  repository: github.com/detachhead/rebased
+  license: Apache-2.0
+
 - id: ReciPro
   title: ReciPro
   category: science
@@ -2030,6 +2105,15 @@
   homepage: repentogon.com
   repository: github.com/TeamREPENTOGON/REPENTOGON
   license: GPL-2.0-only
+
+- id: Rig
+  title: Rig
+  category: productivity
+  tagline: The R Installation Manager
+  description: Rig is an R installation manager that lets you install, configure, and switch between multiple R versions on macOS, Windows, and Linux. It provides quick links for running different R versions simultaneously and handles system requirements, package managers, and development tools automatically. The tool simplifies managing multiple R installations by automatically setting up user package libraries, configuring CRAN mirrors and Posit Package Manager, and installing pak for efficient package management. On macOS it includes a menu bar app for switching versions and launching RStudio, on Windows it manages Rtools installations, and on Linux it supports binary packages across major distributions. It creates version-specific quick links (like R-4.1) that work alongside your default R installation.
+  homepage: github.com/r-lib/rig
+  repository: github.com/r-lib/rig
+  license: MIT
 
 - id: RouteConverter
   title: RouteConverter
@@ -2477,6 +2561,16 @@
   repository: github.com/TeraTermProject/teraterm
   wikipedia: en.wikipedia.org/wiki/Tera_Term
   license: BSD-3-Clause
+
+- id: Terax-AI
+  title: Terax AI
+  category: productivity
+  tagline: Ultra-lightweight (7MB) full AI terminal emulator
+  description: |
+    Terax: an opensource, fast and ultra-lightweight (7MB) AI terminal emulator with code editor, AI agents, file explorer, web preview and much more.
+  homepage: terax.app
+  repository: github.com/crynta/terax-ai
+  license: Apache-2.0
 
 - id: TerraMap
   title: TerraMap
