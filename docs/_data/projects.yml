@@ -34,6 +34,17 @@
   repository: github.com/PhysicsResearch/AMIGOpy
   license: GPL-3.0-only
 
+- id: AnyLink-Secure-Client
+  title: AnyLink Secure Client
+  category: productivity
+  tagline: |
+    An SSL VPN client that supports OpenConnect or Cisco's AnyConnect SSL VPN Protocol
+  description: |
+    AnyLink Secure Client is a free, open-source SSL VPN client that connects to various enterprise VPNs, including AnyLink VPN server, OpenConnect VPN server, Cisco AnyConnect. It acts as a client-to-site VPN to improve upon Cisco's original client, supporting Windows, macOS, and Linux, with both GUI and command-line interfaces.
+  homepage: github.com/tlslink/anylink-client
+  repository: github.com/tlslink/anylink-client
+  license: GPL-3.0-only
+
 - id: AnyPackage
   title: AnyPackage
   category: developer-tools
@@ -145,7 +156,7 @@
 
 - id: barcodrod.io
   title: barcodrod.io
-  category: other
+  category: productivit
   tagline: An ad-free, open-source, modern barcode and QR code toolkit for Windows.100% free to use.
   description: barcodrod.io is a fast, modern Windows app built to both create and read barcodes and QR codes with zero friction. It generates crisp, high‑resolution codes in multiple formats, while also instantly scanning them through Snipping Tool integration, clipboard images, webcam capture, and more; making it just as powerful for decoding as it is for producing.
   homepage: barcodrod.io
@@ -159,6 +170,15 @@
   description: BEAGLE is a high-performance library that can perform the core calculations at the heart of most Bayesian and Maximum Likelihood phylogenetics packages. It can make use of highly-parallel processors such as those in graphics cards (GPUs) found in many PCs. The project involves an open API and fast implementations of a library for evaluating phylogenetic likelihoods (continuous time Markov processes) of biomolecular sequence evolution. The aim is to provide high performance evaluation ‘services’ to a wide range of phylogenetic software, both Bayesian samplers and Maximum Likelihood optimizers. This allows these packages to make use of implementations that make use of optimized hardware such as graphics processing units.
   homepage: beagle-dev.github.io
   repository: github.com/beagle-dev/beagle-lib
+  license: MIT
+
+- id: better-ccflare
+  title: better-ccflare
+  category: developer-tools
+  tagline: The ultimate Claude proxy. Full visibility into every request, response, and rate limit.
+  description: This application allows the user to use Claude code with multiple accounts and providers, including OpenAI-compatible providers as well. Users can track requests, rate limits, API cost.
+  homepage: github.com/tombii/better-ccflare
+  repository: github.com/tombii/better-ccflare
   license: MIT
 
 - id: BERA-Tools
@@ -486,6 +506,15 @@
   repository: github.com/mosajjal/dnsmonster
   license: GPL-3.0-only
 
+- id: Dota2-Minify
+  title: Dota2-Minify
+  category: gaming
+  tagline: Dota2 Mod Patcher & Toolkit
+  description: Dota2 Mod Patcher & Toolkit for everyone to use mods easily
+  homepage: egezenn.github.io/dota2-minify
+  repository: github.com/egezenn/dota2-minify
+  license: GPL-3.0-only
+  
 - id: draftforge
   title: IETF Draftforge
   category: developer-tools
@@ -946,7 +975,7 @@
 
 - id: IDEasy
   title: IDEasy
-  category: productivity
+  category: developer-tools
   tagline: automated setup and update of your development environment 
   description: |
     "With IDEasy you automate the setup and updates of the IDE for your project. Via a small git repo your team can tailor the demands and configuration to the individual needs of your software project. Developers can then setup your project using IDEasy with a single CLI command on Windows, Mac, or Linux. They get all the tools needed for your project automatically in the desired versions and properly configured.No more manual steps to install and configure, no diff-wars, no more dev setup manuals, no more ""its not working on my machine""!"
@@ -1541,7 +1570,7 @@
 
 - id: OpenCC
   title: OpenCC
-  category: educational
+  category: productivity
   tagline: Open Chinese Convert (OpenCC) is an open source project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai)
   description: Open Chinese Convert (OpenCC) is an opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai). It supports character-level and phrase-level conversion, character variant conversion and regional idioms among Mainland China, Taiwan and Hong Kong.
   homepage: opencc.byvoid.com
@@ -2108,7 +2137,7 @@
 
 - id: Rig
   title: Rig
-  category: productivity
+  category: developer-tools
   tagline: The R Installation Manager
   description: Rig is an R installation manager that lets you install, configure, and switch between multiple R versions on macOS, Windows, and Linux. It provides quick links for running different R versions simultaneously and handles system requirements, package managers, and development tools automatically. The tool simplifies managing multiple R installations by automatically setting up user package libraries, configuring CRAN mirrors and Posit Package Manager, and installing pak for efficient package management. On macOS it includes a menu bar app for switching versions and launching RStudio, on Windows it manages Rtools installations, and on Linux it supports binary packages across major distributions. It creates version-specific quick links (like R-4.1) that work alongside your default R installation.
   homepage: github.com/r-lib/rig
@@ -2564,7 +2593,7 @@
 
 - id: Terax-AI
   title: Terax AI
-  category: productivity
+  category: developer-tools
   tagline: Ultra-lightweight (7MB) full AI terminal emulator
   description: |
     Terax: an opensource, fast and ultra-lightweight (7MB) AI terminal emulator with code editor, AI agents, file explorer, web preview and much more.
@@ -2717,7 +2746,16 @@
   homepage: valveresourceformat.github.io/
   repository: github.com/ValveResourceFormat/ValveResourceFormat
   license: MIT
-  
+
+- id: Vibepollo
+  title: Vibepollo
+  category: gaming
+  tagline: Sunshine fork that adds additional features for gamers such as Playnite integration and WebRTC
+  description: Vibeshine is an open-source, self-hosted game streaming host for Moonlight-compatible clients. It builds on Sunshine with Windows display automation, virtual display support, browser-based WebRTC streaming, mobile-friendly management, and Playnite integration.
+  homepage: github.com/Nonary/Vibepollo
+  repository: github.com/Nonary/Vibepollo
+  license: GPL-3.0-only
+
 - id: Vim
   title: Vim
   category: developer-tools
@@ -2934,7 +2972,7 @@
 - id: Zen
   title: Zen
   category: productivity
-  tagline: Zen - a simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
+  tagline: A simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
   description: Zen is a simple and powerful desktop application that helps you browse the internet and use your apps without annoying ads, trackers, or hidden threats. It works quietly in the background, blocking unwanted content across your entire computer — not just in your web browser, but in your other apps too. Zen comes ready to protect you with built-in filters, and you can easily customize it to suit your needs. Whether you're looking for a cleaner, faster, and more private online experience, or just want to stop invasive tracking, Zen has you covered. Available for Windows, macOS, and Linux. Free and open source, forever.
   homepage: zenprivacy.net/
   repository: github.com/ZenPrivacy/zen-desktop
@@ -2949,11 +2987,29 @@
   repository: github.com/OneDragon-Anything/ZenlessZoneZero-OneDragon
   license: GPL-3.0-only
 
+- id: Zephyr
+  title: Zephyr
+  category: productivity
+  tagline: A modern, lightweight, and secure Mihomo GUI client
+  description: Zephyr is a cross-platform desktop GUI client for Mihomo (formerly Clash Meta), built with Tauri and Rust. It provides an intuitive interface for managing proxy configurations, subscriptions, rules, and system proxy settings. The project focuses on performance, security, and user privacy.
+  homepage: github.com/Juwan-Hwang/Zephyr
+  repository: github.com/Juwan-Hwang/Zephyr
+  license: MIT
+
 - id: ZeroLaunch-rs
   title: ZeroLaunch-rs
   category: productivity
-  tagline: ZeroLaunch-rs - A lightning‑fast, privacy‑first Windows smart application launcher.
+  tagline: A lightning‑fast, privacy‑first Windows smart application launcher.
   description: A lightning‑fast, privacy‑first Windows smart launcher that excels at Pinyin and fuzzy matching. Optionally add on‑device AI semantic search for typo‑ and intent‑proof instant results. Built with Rust + Tauri + Vue!
   homepage: zerolaunch.ghost-him.com
   repository: github.com/ghost-him/ZeroLaunch-rs
   license: GPL-3.0-only
+
+- id: ZXLive
+  title: ZXLive
+  category: science
+  tagline: An interactive proof assistant for the ZX-calculus
+  description: ZXLive is a user-friendly, interactive tool for reasoning with the ZX calculus, a graphical language for quantum computing. It offers a simple interface for drawing ZX diagrams, applying rewrite rules, and constructing proofs. The tool supports exporting proofs to TikZ, making it easy to add them to research papers. Along with being useful for ZX practitioners, ZXLive is also a great educational tool for learning and experimenting with the ZX calculus.
+  homepage: github.com/zxcalc/zxlive
+  repository: github.com/zxcalc/zxlive
+  license: Apache-2.0
