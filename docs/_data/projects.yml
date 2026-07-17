@@ -1842,7 +1842,8 @@
   title: PumpkinMC
   category: gaming
   tagline: Pumpkin is a Minecraft server built entirely in Rust, offering a fast, efficient, and customizable experience.
-  description: PumpkinMC is a blazingly fast, open-source Minecraft server built entirely in the Rust programming language. Designed to be a high-performance alternative to traditional Java servers, it uses significantly less memory and features native multi-threading to deliver a highly optimized multiplayer experience.Key FeaturesBuilt in Rust: Unlike standard vanilla servers, Pumpkin is written in Rust, which ensures strong memory safety and high processing speeds.Instant Startup: Servers boot up in milliseconds instead of seconds, and the engine requires only about 100MB of RAM.Cross-Play: Native support allows both Java and Bedrock Edition players to play together without needing third-party plugins.Plugin Support: It features a compatibility layer (PatchBukkit) that allows the software to seamlessly run standard Java Bukkit plugins.
+  description: |
+    PumpkinMC is a blazingly fast, open-source Minecraft server built entirely in the Rust programming language. Designed to be a high-performance alternative to traditional Java servers, it uses significantly less memory and features native multi-threading to deliver a highly optimized multiplayer experience.Key FeaturesBuilt in Rust: Unlike standard vanilla servers, Pumpkin is written in Rust, which ensures strong memory safety and high processing speeds.Instant Startup: Servers boot up in milliseconds instead of seconds, and the engine requires only about 100MB of RAM.Cross-Play: Native support allows both Java and Bedrock Edition players to play together without needing third-party plugins.Plugin Support: It features a compatibility layer (PatchBukkit) that allows the software to seamlessly run standard Java Bukkit plugins.
   homepage: pumpkinmc.org
   repository: github.com/Pumpkin-MC/Pumpkin
   license: GPL-3.0-only
