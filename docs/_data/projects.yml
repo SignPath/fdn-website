@@ -2327,15 +2327,6 @@
   repository: github.com/smartmontools/smartmontools
   license: GPL-2.0-only
 
-- id: SnapHutao
-  title: SnapHutao
-  category: gaming
-  tagline: A Multifunctional Open-source Genshin Toolkit
-  description: Snap Hutao is an open-source Genshin Impact toolkit under MIT license, designed for modern Windows platform to improve the gaming experience for desktop players. By combining existing official resources with new features designed by the development team, it provides a complete and useful set of tools without the need to rely on mobile devices. Snap Hutao does not take any destructive modification to the game client to ensure the security of the toolkit.
-  homepage: hut.ao
-  repository: github.com/DGP-Studio/Snap.Hutao
-  license: MIT
-
 - id: sniffnet
   title: sniffnet
   category: developer-tools
