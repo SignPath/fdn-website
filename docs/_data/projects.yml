@@ -1478,15 +1478,6 @@
   repository: github.com/vkbo/novelWriter
   license: GPL-3.0-only
 
-- id: nuke.build
-  title: NUKE
-  category: developer-tools
-  tagline: The AKEless Build System for C#/.NET
-  description: NUKE is the best open-source build automation system for C#/.NET that runs cross-platform on .NET Core, .NET Framework, and Mono. 
-  homepage: nuke.build
-  repository: github.com/nuke-build/nuke
-  license: MIT
-
 - id: nvda
   title: NVAccess NVDA
   category: accessibility
