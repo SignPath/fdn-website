@@ -514,15 +514,6 @@
   homepage: egezenn.github.io/dota2-minify
   repository: github.com/egezenn/dota2-minify
   license: GPL-3.0-only
-  
-- id: draftforge
-  title: IETF Draftforge
-  category: developer-tools
-  tagline: Write, Review, Refine and Submit Internet-Drafts 
-  description: An open source fully-featured collaborative editor to write, review, refine and submit Internet-Drafts in XMLRFC, Markdown or plaintext format.
-  homepage: draftforge.ietf.org
-  repository: github.com/ietf-tools/editor
-  license: BSD-3-Clause
 
 - id: Drawpile
   title: Drawpile
