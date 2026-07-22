@@ -2261,7 +2261,7 @@
     Sine is a theme manager for Firefox-based browsers that lets end users customize their browser's look and functionality directly from the settings page. With Sine, all kinds of themes and functional programs are at your fingertips and can be installed with the click of a button.
   homepage: github.com/CosmoCreeper/Sine
   repository: github.com/CosmoCreeper/Sine
-  license: GPL-3.0-only
+  license: MPL-2.0
   
 - id: Sirkku
   title: Sirkku
