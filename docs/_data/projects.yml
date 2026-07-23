@@ -704,7 +704,7 @@
 
 - id: Floral-Notepaper
   title: Floral Notepaper
-  category: graphics
+  category: productivity
   tagline: Floral Notepaper is a elegant, modernize cross-platform desktop note software which built on React 19 and Tauri v2, with full GitHub flavored markdown syntax support.
   description: A elegant, modernize cross-platform desktop note software which built on React 19 and Tauri v2, with full GitHub flavored markdown syntax support.
   homepage: github.com/Achilng/floral-notepaper
@@ -1553,7 +1553,7 @@
 
 - id: ODX
   title: ODX
-  category: graphics
+  category: science
   tagline: Free and open source photogrammetry engine for processing aerial and ground imagery, powering WebODM.
   description: |
     ODX turns images into: Classified Point Clouds, 3D Textured Models, Georeferenced Orthophotos and Georeferenced Digital Elevation Models.
