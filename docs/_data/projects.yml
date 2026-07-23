@@ -217,6 +217,16 @@
   repository: github.com/bloxstraplabs/bloxstrap
   license: MIT
 
+- id: BlueBubbles
+  title: BlueBubbles
+  category: productivity
+  tagline: BlueBubbles is an open-source, community-driven ecosystem of apps used to get iMessage on Android, Windows, and Linux.
+  description: |
+    BlueBubbles is an open-source and cross-platform ecosystem of apps aimed to bring iMessage to Android, Windows, and Linux! With BlueBubbles, you'll be able to send messages, media, and much more to your friends and family.
+  homepage: bluebubbles.app
+  repository: github.com/BlueBubblesApp/bluebubbles-app
+  license: Apache-2.0
+
 - id: bottom
   title: bottom
   category: developer-tools
@@ -692,6 +702,15 @@
   wikipedia: en.wikipedia.org/wiki/Floorp
   license: MPL-2.0
 
+- id: Floral-Notepaper
+  title: Floral Notepaper
+  category: graphics
+  tagline: Floral Notepaper is a elegant, modernize cross-platform desktop note software which built on React 19 and Tauri v2, with full GitHub flavored markdown syntax support.
+  description: A elegant, modernize cross-platform desktop note software which built on React 19 and Tauri v2, with full GitHub flavored markdown syntax support.
+  homepage: github.com/Achilng/floral-notepaper
+  repository: github.com/Achilng/floral-notepaper
+  license: MIT
+
 - id: Flowsurface
   title: Flowsurface
   category: other
@@ -1013,6 +1032,15 @@
   repository: github.com/inkstitch/inkstitch
   license: GPL-3.0-only
 
+- id: irDashies
+  title: irDashies
+  category: gaming
+  tagline: Open-source Overlays for iRacing
+  description: An open-source platform for building real-time iRacing overlays and utilities using React and Electron. Designed to be approachable for web developers — no iRacing SDK, C++, or even iRacing installation required to get started.
+  homepage: irdashies.com
+  repository: github.com/tariknz/irdashies
+  license: MIT
+  
 - id: JD-GUI-DUO
   title: JD-GUI-DUO
   category: developer-tools
@@ -1478,6 +1506,15 @@
   repository: github.com/vkbo/novelWriter
   license: GPL-3.0-only
 
+- id: NUSGet
+  title: NUSGet
+  category: productivity
+  tagline: A modern and supercharged NUS downloader built with Python and Qt6, powered by libWiiPy.
+  description: NUSGet allows you to download any content from the Nintendo Update Servers. Free content (content with a Ticket freely available on the servers) can be decrypted or packed directly into an installable archive (WAD/TAD). This allows you to download base content required during the Wii modding process like IOSes, as well as other content like the Wii Menu for installing themes or accessing the menu in Dolphin.
+  homepage: github.com/NinjaCheetah/NUSGet
+  repository: github.com/NinjaCheetah/NUSGet
+  license: MIT
+  
 - id: nvda
   title: NVAccess NVDA
   category: accessibility
@@ -1514,6 +1551,15 @@
   repository: github.com/moh-hassan/odata2poco
   license: MIT
 
+- id: ODX
+  title: ODX
+  category: graphics
+  tagline: Free and open source photogrammetry engine for processing aerial and ground imagery, powering WebODM.
+  description: ODX turns images into: Classified Point Clouds, 3D Textured Models, Georeferenced Orthophotos and Georeferenced Digital Elevation Models.
+  homepage: webodm.org
+  repository: github.com/WebODM/ODX
+  license: GPL-3.0-only
+  
 - id: Omnisearch
   title: Omnisearch
   category: productivity
@@ -1872,6 +1918,15 @@
   homepage: picgo.app/
   repository: github.com/Molunerfinn/PicGo/releases
   license: MIT
+
+- id: Picocrypt-NG
+  title: Picocrypt-NG
+  category: other
+  tagline: A very small, very simple, yet very secure file encryption tool.
+  description: Picocrypt NG is a community-developed continuation of the archived Picocrypt project. It is a small, simple, and secure cross-platform tool for encrypting files and folders, built around the XChaCha20 cipher and the Argon2id key-derivation function. It ships as a portable GUI application and a command-line tool for Windows, macOS, and Linux. All cryptography runs locally and offline; the tool collects and transmits no user data. The focus is security, simplicity, and reliability.
+  homepage: github.com/Picocrypt-NG/Picocrypt-NG
+  repository: github.com/Picocrypt-NG/Picocrypt-NG
+  license: GPL-3.0-only
   
 - id: PicView
   title: PicView
@@ -1899,7 +1954,7 @@
 - id: pinokio
   title: pinokio
   category: developer-tools
-  tagline: Pinokio - install, run, and manage anything with 1 click
+  tagline: Install, run, and manage anything with 1 click
   description: Pinokio is a platform that makes it easy to install, manage, and automate any open source project on your machine.
   homepage: pinokio.co/
   repository: github.com/pinokiocomputer/pinokio
@@ -1908,7 +1963,7 @@
 - id: Pinta
   title: Pinta
   category: graphics
-  tagline: Pinta- Painting Made Simple
+  tagline: Painting Made Simple
   description: Pinta is a free, open source program for drawing and image editing. Its goal is to provide users with a simple yet powerful way to draw and manipulate images on Linux, Mac, Windows, and *BSD
   homepage: github.com/PintaProject/Pinta
   repository: github.com/PintaProject/Pinta
@@ -2233,6 +2288,17 @@
   homepage: shob.olova.dev
   repository: github.com/shobcoder/shob
   license: MIT
+
+- id: Sigma File Manager
+  title: Sigma File Manager
+  category: productivity
+  tagline: |
+    "Sigma File Manager" is a free, open-source, modern file manager app for Windows and Linux
+  description: | 
+    "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux
+  homepage: github.com/aleksey-hoffman/sigma-file-manager
+  repository: github.com/aleksey-hoffman/sigma-file-manager
+  license: GPL-3.0-only
   
 - id: Simbrain
   title: Simbrain
