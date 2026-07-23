@@ -1555,7 +1555,8 @@
   title: ODX
   category: graphics
   tagline: Free and open source photogrammetry engine for processing aerial and ground imagery, powering WebODM.
-  description: ODX turns images into: Classified Point Clouds, 3D Textured Models, Georeferenced Orthophotos and Georeferenced Digital Elevation Models.
+  description: |
+    ODX turns images into: Classified Point Clouds, 3D Textured Models, Georeferenced Orthophotos and Georeferenced Digital Elevation Models.
   homepage: webodm.org
   repository: github.com/WebODM/ODX
   license: GPL-3.0-only
