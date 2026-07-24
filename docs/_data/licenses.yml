@@ -51,3 +51,6 @@ Unlicense:
 Vim:
   name: Vim License
   link: https://vimhelp.org/uganda.txt.html#license
+Zlib:
+  name: The zlib/libpng License
+  link: https://opensource.org/license/zlib
