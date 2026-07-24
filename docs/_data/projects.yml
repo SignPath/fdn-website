@@ -172,6 +172,15 @@
   repository: github.com/beagle-dev/beagle-lib
   license: MIT
 
+- id: Bettbox
+  title: Bettbox
+  category: developer-tools
+  tagline: Another Better Mihomo Client
+  description: Another Better Mihomo Client
+  homepage: github.com/appshubcc/Bettbox
+  repository: github.com/appshubcc/Bettbox
+  license: GPL-3.0-only
+
 - id: better-ccflare
   title: better-ccflare
   category: developer-tools
@@ -327,6 +336,16 @@
   repository: github.com/chewing/windows-chewing-tsf
   license: LGPL-2.0-only_1
 
+- id: Chiri
+  title: Chiri
+  category: productivity
+  tagline: Cross-platform CalDAV-compatible task management app
+  description: |
+    Chiri is a cross-platform CalDAV task management application for desktop. It allows users to connect to their managed (like Fastmail) or self-hosted (like Baikal or Radicale) CalDAV server and view, create, edit, and delete their tasks. The benefit of this is, data in CalDAV servers is portable, so you can view tasks in any desktop / mobile / web app that supports the standard :)
+  homepage: github.com/chiriapp/chiri
+  repository: github.com/chiriapp/chiri
+  license: Zlib
+  
 - id: clarinet
   title: clarinet
   category: developer-tools
@@ -983,6 +1002,15 @@
   repository: github.com/HyPlayer/HyPlayer
   license: GPL-3.0-only
 
+- id: HypoMux
+  title: HypoMux
+  category: developer-tools
+  tagline: An open-source network utility for bundling multiple network adapters to optimize download and network speeds.
+  description: HypoMux is a transparent, open-source network tool designed to achieve multi-WAN bonding by managing low-level network routing, altering traffic redirection, and configuring system proxy settings[cite: 12, 13]. It helps users seamlessly combine multiple network interfaces to maximize bandwidth and network reliability without any commercial intent[cite: 11, 33].
+  homepage: github.com/Hypostasis-Cat/HypoMux
+  repository: github.com/Hypostasis-Cat/HypoMux
+  license: GPL-3.0-only
+  
 - id: IDEasy
   title: IDEasy
   category: developer-tools
@@ -1149,6 +1177,15 @@
   repository: github.com/kun-codes/Koncentro/
   license: GPL-3.0-or-later
 
+- id: Kova-MD
+  title: Kova MD
+  category: science
+  tagline: Kova is a Markdown-driven presentation creation software for technical authors, educators, and academics.
+  description: Kova was created from a personal need for a quicker way to produce lecture presentations for IT students. As someone who lives in Markdown, I thought that this would be a better way of produce a slides for display. It can also be used for technical writers to easily convert their documentation into training slides. Focus being on drawing users to a cleaner, faster method of creating a presentation than the traditional software used.
+  homepage: kova.md
+  repository: github.com/kovamd/kova
+  license: GPL-3.0-or-later
+  
 - id: KSP-CKAN
   title: KSP-CKAN
   category: gaming
@@ -1559,6 +1596,24 @@
     ODX turns images into: Classified Point Clouds, 3D Textured Models, Georeferenced Orthophotos and Georeferenced Digital Elevation Models.
   homepage: webodm.org
   repository: github.com/WebODM/ODX
+  license: GPL-3.0-only
+
+- id: OliveTin
+  title: OliveTin
+  category: developer-tools
+  Tagline: OliveTin gives safe and simple access to predefined shell commands from a web interface.
+  description: |
+    Safely give access to commands, for less technical people;
+    eg: Give your family a button to podman restart plex
+    eg: Give junior admins a simple web form with dropdowns, to start your custom script. backupScript.sh --folder {{ customerName }}
+    eg: Enable SSH access to the server for the next 20 mins firewall-cmd --add-service ssh --timeout 20m
+    Simplify complex commands, make them accessible and repeatable;
+    
+    eg: Expose complex commands on touchscreen tablets stuck on walls around your house. wake-on-lan aa:bb:cc:11:22:33
+    eg: Run long-lived commands on your servers from your cell phone. dnf update -y
+    eg: Define complex commands with lots of preset arguments, and turn a few arguments into dropdown select boxes. docker rm {{ container }} && docker create {{ container }} && docker start {{ container }}
+  homepage: olivetin.app
+  repository: github.com/olivetin/olivetin
   license: GPL-3.0-only
   
 - id: Omnisearch
@@ -2279,6 +2334,16 @@
   description: Servy is a Windows tool that lets you run any application as a native Windows service, with full control over its configuration, startup behavior, logging, health checks, and recovery options. It includes a desktop app, a CLI, a PowerShell module, and a Manager app letting you manage services manually or automate everything in scripts and CI/CD pipelines. 
   homepage: servy-win.github.io/
   repository: github.com/aelassas/servy
+  license: MIT
+
+- id: ShinRyuModManager
+  title: ShinRyuModManager
+  category: gaming
+  tagline: Mod manager for the Yakuza/Like a Dragon series (Ryu Ga Gotoku) PC games
+  description: |
+    ShinRyuModManager is a mod manager for RGG Studio's Yakuza/Like a Dragon game series. It streamlines the process of installing, organizing, and loading mods by managing load order and merging "parless" mods removing the need for players to manually copy files or juggle patch priorities. This is accomplished in two parts. The mod manager itself, and the ASI mod injector "Parless". The goal is to make modding these titles simple and reliable, letting users mix multiple mods together without breaking the game or requiring manual file management.
+  homepage: github.com/SRMM-Studio/ShinRyuModManager
+  repository: github.com/SRMM-Studio/ShinRyuModManager
   license: MIT
 
 - id: shob
