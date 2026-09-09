@@ -1006,7 +1006,7 @@
   title: HypoMux
   category: developer-tools
   tagline: An open-source network utility for bundling multiple network adapters to optimize download and network speeds.
-  description: HypoMux is a transparent, open-source network tool designed to achieve multi-WAN bonding by managing low-level network routing, altering traffic redirection, and configuring system proxy settings[cite: 12, 13]. It helps users seamlessly combine multiple network interfaces to maximize bandwidth and network reliability without any commercial intent[cite: 11, 33].
+  description: HypoMux is a transparent, open-source network tool designed to achieve multi-WAN bonding by managing low-level network routing, altering traffic redirection, and configuring system proxy settings[cite: 12, 13]. It helps users seamlessly combine multiple network interfaces to maximize bandwidth and network reliability without any commercial intent.
   homepage: github.com/Hypostasis-Cat/HypoMux
   repository: github.com/Hypostasis-Cat/HypoMux
   license: GPL-3.0-only
