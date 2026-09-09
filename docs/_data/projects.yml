@@ -1103,7 +1103,7 @@
     forwarding and a REST API.
   homepage: jasoncheng7115.github.io/jt-doc-tools
   repository: github.com/jasoncheng7115/jt-doc-tools
-  license: Apache-2.0  
+  license: AGPL-3.0-only  
 
 - id: Jubler
   title: Jubler
